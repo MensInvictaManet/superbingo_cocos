@@ -1,0 +1,1142 @@
+<SpriteList>
+	<Sprite file="Menu/SuperBingoGreenBackButton.png" name="Root.Menu.SuperBingoGreenBackButton"/>
+	
+	<Sprite file="SuperBingo_FrontEnd/Loading.png" name="Root.SuperBingo_FrontEnd.SB_UI_Loading"/>
+	
+	<Sprite file="SuperBingo_FrontEnd/SelectGame/SB_UI_Games_SGB_Logo.png" name="Root.SuperBingo_FrontEnd.SelectGame.SB_UI_Games_SGB_Logo"/>
+	<Sprite file="SuperBingo_FrontEnd/SelectGame/SB_UI_Games_SCB_Logo.png" name="Root.SuperBingo_FrontEnd.SelectGame.SB_UI_Games_SCB_Logo"/>
+	<Sprite file="SuperBingo_FrontEnd/SelectGame/SB_UI_Games_SWB_Logo.png" name="Root.SuperBingo_FrontEnd.SelectGame.SB_UI_Games_SWB_Logo"/>
+	<Sprite file="SuperBingo_FrontEnd/SelectGame/SB_UI_Games_SBB_Logo.png" name="Root.SuperBingo_FrontEnd.SelectGame.SB_UI_Games_SBB_Logo"/>
+	<Sprite file="SuperBingo_FrontEnd/SelectGame/SB_UI_Games_SPB_Logo.png" name="Root.SuperBingo_FrontEnd.SelectGame.SB_UI_Games_SPB_Logo"/>
+	<Sprite file="SuperBingo_FrontEnd/SelectGame/SB_UI_Games_SMB_Logo.png" name="Root.SuperBingo_FrontEnd.SelectGame.SB_UI_Games_SMB_Logo"/>
+	<Sprite file="SuperBingo_FrontEnd/SelectGame/SB_UI_Games_SMyB_Logo.png" name="Root.SuperBingo_FrontEnd.SelectGame.SB_UI_Games_SMyB_Logo"/>
+	<Sprite file="SuperBingo_FrontEnd/SelectGame/SB_UI_Games_SProB_Logo.png" name="Root.SuperBingo_FrontEnd.SelectGame.SB_UI_Games_SProB_Logo"/>
+	
+	<Sprite file="SuperBingo_FrontEnd/SelectPattern/SB_UI_4Pack_Button_3x3.png" name="Root.SuperBingo_FrontEnd.SelectPattern.SB_UI_4Pack_Button_3x3"/>
+	<Sprite file="SuperBingo_FrontEnd/SelectPattern/SB_UI_6Pack_Button_3x3.png" name="Root.SuperBingo_FrontEnd.SelectPattern.SB_UI_6Pack_Button_3x3"/>
+	<Sprite file="SuperBingo_FrontEnd/SelectPattern/SB_UI_6Pack_Button_4x4.png" name="Root.SuperBingo_FrontEnd.SelectPattern.SB_UI_6Pack_Button_4x4"/>
+	<Sprite file="SuperBingo_FrontEnd/SelectPattern/SB_UI_6Pack_Button_5x5.png" name="Root.SuperBingo_FrontEnd.SelectPattern.SB_UI_6Pack_Button_5x5"/>
+	<Sprite file="SuperBingo_FrontEnd/SelectPattern/SB_UI_9Pack_Button_4x4.png" name="Root.SuperBingo_FrontEnd.SelectPattern.SB_UI_9pack_Button_4x4"/>
+	<Sprite file="SuperBingo_FrontEnd/SelectPattern/SB_UI_9Pack_Button_5x5.png" name="Root.SuperBingo_FrontEnd.SelectPattern.SB_UI_9Pack_Button_5x5"/>
+	<Sprite file="SuperBingo_FrontEnd/SelectPattern/SB_UI_Coverall_Button_3x3.png" name="Root.SuperBingo_FrontEnd.SelectPattern.SB_UI_Coverall_Button_3x3"/>
+	<Sprite file="SuperBingo_FrontEnd/SelectPattern/SB_UI_Coverall_Button_4x4.png" name="Root.SuperBingo_FrontEnd.SelectPattern.SB_UI_Coverall_Button_4x4"/>
+	<Sprite file="SuperBingo_FrontEnd/SelectPattern/SB_UI_Coverall_Button_5x5.png" name="Root.SuperBingo_FrontEnd.SelectPattern.SB_UI_Coverall_Button_5x5"/>
+	<Sprite file="SuperBingo_FrontEnd/SelectPattern/SB_UI_Double_Button_3x3.png" name="Root.SuperBingo_FrontEnd.SelectPattern.SB_UI_Double_Button_3x3"/>
+	<Sprite file="SuperBingo_FrontEnd/SelectPattern/SB_UI_Double_Button_4x4.png" name="Root.SuperBingo_FrontEnd.SelectPattern.SB_UI_Double_Button_4x4"/>
+	<Sprite file="SuperBingo_FrontEnd/SelectPattern/SB_UI_Double_Button_5x5.png" name="Root.SuperBingo_FrontEnd.SelectPattern.SB_UI_Double_Button_5x5"/>
+	<Sprite file="SuperBingo_FrontEnd/SelectPattern/SB_UI_Frame_Button_4x4.png" name="Root.SuperBingo_FrontEnd.SelectPattern.SB_UI_Frame_Button_4x4"/>
+	<Sprite file="SuperBingo_FrontEnd/SelectPattern/SB_UI_Frame_Button_5x5.png" name="Root.SuperBingo_FrontEnd.SelectPattern.SB_UI_Frame_Button_5x5"/>
+	<Sprite file="SuperBingo_FrontEnd/SelectPattern/SB_UI_LetterU_Button_3x3.png" name="Root.SuperBingo_FrontEnd.SelectPattern.SB_UI_LetterU_Button_3x3"/>
+	<Sprite file="SuperBingo_FrontEnd/SelectPattern/SB_UI_LetterU_Button_4x4.png" name="Root.SuperBingo_FrontEnd.SelectPattern.SB_UI_LetterU_Button_4x4"/>
+	<Sprite file="SuperBingo_FrontEnd/SelectPattern/SB_UI_LetterX_Button_3x3.png" name="Root.SuperBingo_FrontEnd.SelectPattern.SB_UI_LetterX_Button_3x3"/>
+	<Sprite file="SuperBingo_FrontEnd/SelectPattern/SB_UI_LetterX_Button_4x4.png" name="Root.SuperBingo_FrontEnd.SelectPattern.SB_UI_LetterX_Button_4x4"/>
+	<Sprite file="SuperBingo_FrontEnd/SelectPattern/SB_UI_LetterX_Button_5x5.png" name="Root.SuperBingo_FrontEnd.SelectPattern.SB_UI_LetterX_Button_5x5"/>
+	<Sprite file="SuperBingo_FrontEnd/SelectPattern/SB_UI_Single_Button_3x3.png" name="Root.SuperBingo_FrontEnd.SelectPattern.SB_UI_Single_Button_3x3"/>
+	<Sprite file="SuperBingo_FrontEnd/SelectPattern/SB_UI_Single_Button_4x4.png" name="Root.SuperBingo_FrontEnd.SelectPattern.SB_UI_Single_Button_4x4"/>
+	<Sprite file="SuperBingo_FrontEnd/SelectPattern/SB_UI_Single_Button_5x5.png" name="Root.SuperBingo_FrontEnd.SelectPattern.SB_UI_Single_Button_5x5"/>
+	<Sprite file="SuperBingo_FrontEnd/SelectPattern/SB_UI_Stairs_Button_3x3.png" name="Root.SuperBingo_FrontEnd.SelectPattern.SB_UI_Stairs_Button_3x3"/>
+	<Sprite file="SuperBingo_FrontEnd/SelectPattern/SB_UI_Triple_Button_4x4.png" name="Root.SuperBingo_FrontEnd.SelectPattern.SB_UI_Triple_Button_4x4"/>
+	<Sprite file="SuperBingo_FrontEnd/SelectPattern/SB_UI_Triple_Button_5x5.png" name="Root.SuperBingo_FrontEnd.SelectPattern.SB_UI_Triple_Button_5x5"/>
+	
+	<Sprite file="SuperBingo_FrontEnd/HelpScreenPatterns/3x3 patterns/Single/3x3_single_pattern_1.png" name="Root.SuperBingo_FrontEnd.HelpScreenPatterns.3x3Single1"/>
+	<Sprite file="SuperBingo_FrontEnd/HelpScreenPatterns/3x3 patterns/Single/3x3_single_pattern_2.png" name="Root.SuperBingo_FrontEnd.HelpScreenPatterns.3x3Single2"/>
+	<Sprite file="SuperBingo_FrontEnd/HelpScreenPatterns/3x3 patterns/Single/3x3_single_pattern_3.png" name="Root.SuperBingo_FrontEnd.HelpScreenPatterns.3x3Single3"/>
+	<Sprite file="SuperBingo_FrontEnd/HelpScreenPatterns/3x3 patterns/Single/3x3_single_pattern_4.png" name="Root.SuperBingo_FrontEnd.HelpScreenPatterns.3x3Single4"/>
+	<Sprite file="SuperBingo_FrontEnd/HelpScreenPatterns/3x3 patterns/Single/3x3_single_pattern_5.png" name="Root.SuperBingo_FrontEnd.HelpScreenPatterns.3x3Single5"/>
+	<Sprite file="SuperBingo_FrontEnd/HelpScreenPatterns/3x3 patterns/Single/3x3_single_pattern_6.png" name="Root.SuperBingo_FrontEnd.HelpScreenPatterns.3x3Single6"/>
+	<Sprite file="SuperBingo_FrontEnd/HelpScreenPatterns/3x3 patterns/Double/3x3_double_pattern_1.png" name="Root.SuperBingo_FrontEnd.HelpScreenPatterns.3x3Double1"/>
+	<Sprite file="SuperBingo_FrontEnd/HelpScreenPatterns/3x3 patterns/Double/3x3_double_pattern_2.png" name="Root.SuperBingo_FrontEnd.HelpScreenPatterns.3x3Double2"/>
+	<Sprite file="SuperBingo_FrontEnd/HelpScreenPatterns/3x3 patterns/Double/3x3_double_pattern_3.png" name="Root.SuperBingo_FrontEnd.HelpScreenPatterns.3x3Double3"/>
+	<Sprite file="SuperBingo_FrontEnd/HelpScreenPatterns/3x3 patterns/Double/3x3_double_pattern_4.png" name="Root.SuperBingo_FrontEnd.HelpScreenPatterns.3x3Double4"/>
+	<Sprite file="SuperBingo_FrontEnd/HelpScreenPatterns/3x3 patterns/Double/3x3_double_pattern_5.png" name="Root.SuperBingo_FrontEnd.HelpScreenPatterns.3x3Double5"/>
+	<Sprite file="SuperBingo_FrontEnd/HelpScreenPatterns/3x3 patterns/Double/3x3_double_pattern_6.png" name="Root.SuperBingo_FrontEnd.HelpScreenPatterns.3x3Double6"/>
+	<Sprite file="SuperBingo_FrontEnd/HelpScreenPatterns/3x3 patterns/4 pack/3x3_4pack_pattern_1.png" name="Root.SuperBingo_FrontEnd.HelpScreenPatterns.3x3FourPack1"/>
+	<Sprite file="SuperBingo_FrontEnd/HelpScreenPatterns/3x3 patterns/4 pack/3x3_4pack_pattern_2.png" name="Root.SuperBingo_FrontEnd.HelpScreenPatterns.3x3FourPack2"/>
+	<Sprite file="SuperBingo_FrontEnd/HelpScreenPatterns/3x3 patterns/4 pack/3x3_4pack_pattern_3.png" name="Root.SuperBingo_FrontEnd.HelpScreenPatterns.3x3FourPack3"/>
+	<Sprite file="SuperBingo_FrontEnd/HelpScreenPatterns/3x3 patterns/4 pack/3x3_4pack_pattern_4.png" name="Root.SuperBingo_FrontEnd.HelpScreenPatterns.3x3FourPack4"/>
+	<Sprite file="SuperBingo_FrontEnd/HelpScreenPatterns/3x3 patterns/6 pack/3x3_6pack_pattern_1.png" name="Root.SuperBingo_FrontEnd.HelpScreenPatterns.3x3SixPack1"/>
+	<Sprite file="SuperBingo_FrontEnd/HelpScreenPatterns/3x3 patterns/6 pack/3x3_6pack_pattern_2.png" name="Root.SuperBingo_FrontEnd.HelpScreenPatterns.3x3SixPack2"/>
+	<Sprite file="SuperBingo_FrontEnd/HelpScreenPatterns/3x3 patterns/6 pack/3x3_6pack_pattern_3.png" name="Root.SuperBingo_FrontEnd.HelpScreenPatterns.3x3SixPack3"/>
+	<Sprite file="SuperBingo_FrontEnd/HelpScreenPatterns/3x3 patterns/6 pack/3x3_6pack_pattern_4.png" name="Root.SuperBingo_FrontEnd.HelpScreenPatterns.3x3SixPack4"/>
+	<Sprite file="SuperBingo_FrontEnd/HelpScreenPatterns/3x3 patterns/Letter U/3x3_LetterU_pattern_1.png" name="Root.SuperBingo_FrontEnd.HelpScreenPatterns.3x3LetterU1"/>
+	<Sprite file="SuperBingo_FrontEnd/HelpScreenPatterns/3x3 patterns/Letter X/3x3_LetterX_pattern_1.png" name="Root.SuperBingo_FrontEnd.HelpScreenPatterns.3x3LetterX1"/>
+	<Sprite file="SuperBingo_FrontEnd/HelpScreenPatterns/3x3 patterns/Stairs/3x3_stairs_pattern_1.png" name="Root.SuperBingo_FrontEnd.HelpScreenPatterns.3x3Stairs1"/>
+	<Sprite file="SuperBingo_FrontEnd/HelpScreenPatterns/3x3 patterns/Stairs/3x3_stairs_pattern_2.png" name="Root.SuperBingo_FrontEnd.HelpScreenPatterns.3x3Stairs2"/>
+	<Sprite file="SuperBingo_FrontEnd/HelpScreenPatterns/3x3 patterns/Coverall/3x3_coverall_pattern_1.png" name="Root.SuperBingo_FrontEnd.HelpScreenPatterns.3x3Coverall1"/>
+	<Sprite file="SuperBingo_FrontEnd/HelpScreenPatterns/4x4 patterns/Single/4x4_single_pattern_1.png" name="Root.SuperBingo_FrontEnd.HelpScreenPatterns.4x4Single1"/>
+	<Sprite file="SuperBingo_FrontEnd/HelpScreenPatterns/4x4 patterns/Single/4x4_single_pattern_2.png" name="Root.SuperBingo_FrontEnd.HelpScreenPatterns.4x4Single2"/>
+	<Sprite file="SuperBingo_FrontEnd/HelpScreenPatterns/4x4 patterns/Single/4x4_single_pattern_3.png" name="Root.SuperBingo_FrontEnd.HelpScreenPatterns.4x4Single3"/>
+	<Sprite file="SuperBingo_FrontEnd/HelpScreenPatterns/4x4 patterns/Single/4x4_single_pattern_4.png" name="Root.SuperBingo_FrontEnd.HelpScreenPatterns.4x4Single4"/>
+	<Sprite file="SuperBingo_FrontEnd/HelpScreenPatterns/4x4 patterns/Single/4x4_single_pattern_5.png" name="Root.SuperBingo_FrontEnd.HelpScreenPatterns.4x4Single5"/>
+	<Sprite file="SuperBingo_FrontEnd/HelpScreenPatterns/4x4 patterns/Single/4x4_single_pattern_6.png" name="Root.SuperBingo_FrontEnd.HelpScreenPatterns.4x4Single6"/>
+	<Sprite file="SuperBingo_FrontEnd/HelpScreenPatterns/4x4 patterns/Double/4x4_double_pattern_1.png" name="Root.SuperBingo_FrontEnd.HelpScreenPatterns.4x4Double1"/>
+	<Sprite file="SuperBingo_FrontEnd/HelpScreenPatterns/4x4 patterns/Double/4x4_double_pattern_2.png" name="Root.SuperBingo_FrontEnd.HelpScreenPatterns.4x4Double2"/>
+	<Sprite file="SuperBingo_FrontEnd/HelpScreenPatterns/4x4 patterns/Double/4x4_double_pattern_3.png" name="Root.SuperBingo_FrontEnd.HelpScreenPatterns.4x4Double3"/>
+	<Sprite file="SuperBingo_FrontEnd/HelpScreenPatterns/4x4 patterns/Double/4x4_double_pattern_4.png" name="Root.SuperBingo_FrontEnd.HelpScreenPatterns.4x4Double4"/>
+	<Sprite file="SuperBingo_FrontEnd/HelpScreenPatterns/4x4 patterns/Double/4x4_double_pattern_5.png" name="Root.SuperBingo_FrontEnd.HelpScreenPatterns.4x4Double5"/>
+	<Sprite file="SuperBingo_FrontEnd/HelpScreenPatterns/4x4 patterns/Double/4x4_double_pattern_6.png" name="Root.SuperBingo_FrontEnd.HelpScreenPatterns.4x4Double6"/>
+	<Sprite file="SuperBingo_FrontEnd/HelpScreenPatterns/4x4 patterns/Triple/4x4_triple_pattern_1.png" name="Root.SuperBingo_FrontEnd.HelpScreenPatterns.4x4Triple1"/>
+	<Sprite file="SuperBingo_FrontEnd/HelpScreenPatterns/4x4 patterns/Triple/4x4_triple_pattern_2.png" name="Root.SuperBingo_FrontEnd.HelpScreenPatterns.4x4Triple2"/>
+	<Sprite file="SuperBingo_FrontEnd/HelpScreenPatterns/4x4 patterns/Triple/4x4_triple_pattern_3.png" name="Root.SuperBingo_FrontEnd.HelpScreenPatterns.4x4Triple3"/>
+	<Sprite file="SuperBingo_FrontEnd/HelpScreenPatterns/4x4 patterns/Triple/4x4_triple_pattern_4.png" name="Root.SuperBingo_FrontEnd.HelpScreenPatterns.4x4Triple4"/>
+	<Sprite file="SuperBingo_FrontEnd/HelpScreenPatterns/4x4 patterns/Triple/4x4_triple_pattern_5.png" name="Root.SuperBingo_FrontEnd.HelpScreenPatterns.4x4Triple5"/>
+	<Sprite file="SuperBingo_FrontEnd/HelpScreenPatterns/4x4 patterns/Triple/4x4_triple_pattern_6.png" name="Root.SuperBingo_FrontEnd.HelpScreenPatterns.4x4Triple6"/>
+	<Sprite file="SuperBingo_FrontEnd/HelpScreenPatterns/4x4 patterns/6 Pack/4x4_6pack_pattern_1.png" name="Root.SuperBingo_FrontEnd.HelpScreenPatterns.4x4SixPack1"/>
+	<Sprite file="SuperBingo_FrontEnd/HelpScreenPatterns/4x4 patterns/6 Pack/4x4_6pack_pattern_2.png" name="Root.SuperBingo_FrontEnd.HelpScreenPatterns.4x4SixPack2"/>
+	<Sprite file="SuperBingo_FrontEnd/HelpScreenPatterns/4x4 patterns/6 Pack/4x4_6pack_pattern_3.png" name="Root.SuperBingo_FrontEnd.HelpScreenPatterns.4x4SixPack3"/>
+	<Sprite file="SuperBingo_FrontEnd/HelpScreenPatterns/4x4 patterns/6 Pack/4x4_6pack_pattern_4.png" name="Root.SuperBingo_FrontEnd.HelpScreenPatterns.4x4SixPack4"/>
+	<Sprite file="SuperBingo_FrontEnd/HelpScreenPatterns/4x4 patterns/6 Pack/4x4_6pack_pattern_5.png" name="Root.SuperBingo_FrontEnd.HelpScreenPatterns.4x4SixPack5"/>
+	<Sprite file="SuperBingo_FrontEnd/HelpScreenPatterns/4x4 patterns/6 Pack/4x4_6pack_pattern_6.png" name="Root.SuperBingo_FrontEnd.HelpScreenPatterns.4x4SixPack6"/>
+	<Sprite file="SuperBingo_FrontEnd/HelpScreenPatterns/4x4 patterns/9 Pack/4x4_9pack_pattern_1.png" name="Root.SuperBingo_FrontEnd.HelpScreenPatterns.4x4NinePack1"/>
+	<Sprite file="SuperBingo_FrontEnd/HelpScreenPatterns/4x4 patterns/9 Pack/4x4_9pack_pattern_2.png" name="Root.SuperBingo_FrontEnd.HelpScreenPatterns.4x4NinePack2"/>
+	<Sprite file="SuperBingo_FrontEnd/HelpScreenPatterns/4x4 patterns/9 Pack/4x4_9pack_pattern_3.png" name="Root.SuperBingo_FrontEnd.HelpScreenPatterns.4x4NinePack3"/>
+	<Sprite file="SuperBingo_FrontEnd/HelpScreenPatterns/4x4 patterns/9 Pack/4x4_9pack_pattern_4.png" name="Root.SuperBingo_FrontEnd.HelpScreenPatterns.4x4NinePack4"/>
+	<Sprite file="SuperBingo_FrontEnd/HelpScreenPatterns/4x4 patterns/Letter U/4x4_LetterU_pattern_1.png" name="Root.SuperBingo_FrontEnd.HelpScreenPatterns.4x4LetterU1"/>
+	<Sprite file="SuperBingo_FrontEnd/HelpScreenPatterns/4x4 patterns/Frame/4x4_frame_pattern_1.png" name="Root.SuperBingo_FrontEnd.HelpScreenPatterns.4x4Frame1"/>
+	<Sprite file="SuperBingo_FrontEnd/HelpScreenPatterns/4x4 patterns/Coverall/4x4_coverall_pattern_1.png" name="Root.SuperBingo_FrontEnd.HelpScreenPatterns.4x4Coverall1"/>
+	<Sprite file="SuperBingo_FrontEnd/HelpScreenPatterns/5x5 patterns/Single/5x5_single_pattern_1.png" name="Root.SuperBingo_FrontEnd.HelpScreenPatterns.5x5Single1"/>
+	<Sprite file="SuperBingo_FrontEnd/HelpScreenPatterns/5x5 patterns/Single/5x5_single_pattern_2.png" name="Root.SuperBingo_FrontEnd.HelpScreenPatterns.5x5Single2"/>
+	<Sprite file="SuperBingo_FrontEnd/HelpScreenPatterns/5x5 patterns/Single/5x5_single_pattern_3.png" name="Root.SuperBingo_FrontEnd.HelpScreenPatterns.5x5Single3"/>
+	<Sprite file="SuperBingo_FrontEnd/HelpScreenPatterns/5x5 patterns/Single/5x5_single_pattern_4.png" name="Root.SuperBingo_FrontEnd.HelpScreenPatterns.5x5Single4"/>
+	<Sprite file="SuperBingo_FrontEnd/HelpScreenPatterns/5x5 patterns/Single/5x5_single_pattern_5.png" name="Root.SuperBingo_FrontEnd.HelpScreenPatterns.5x5Single5"/>
+	<Sprite file="SuperBingo_FrontEnd/HelpScreenPatterns/5x5 patterns/Single/5x5_single_pattern_6.png" name="Root.SuperBingo_FrontEnd.HelpScreenPatterns.5x5Single6"/>
+	<Sprite file="SuperBingo_FrontEnd/HelpScreenPatterns/5x5 patterns/Double/5x5_double_pattern_1.png" name="Root.SuperBingo_FrontEnd.HelpScreenPatterns.5x5Double1"/>
+	<Sprite file="SuperBingo_FrontEnd/HelpScreenPatterns/5x5 patterns/Double/5x5_double_pattern_2.png" name="Root.SuperBingo_FrontEnd.HelpScreenPatterns.5x5Double2"/>
+	<Sprite file="SuperBingo_FrontEnd/HelpScreenPatterns/5x5 patterns/Double/5x5_double_pattern_3.png" name="Root.SuperBingo_FrontEnd.HelpScreenPatterns.5x5Double3"/>
+	<Sprite file="SuperBingo_FrontEnd/HelpScreenPatterns/5x5 patterns/Double/5x5_double_pattern_4.png" name="Root.SuperBingo_FrontEnd.HelpScreenPatterns.5x5Double4"/>
+	<Sprite file="SuperBingo_FrontEnd/HelpScreenPatterns/5x5 patterns/Double/5x5_double_pattern_5.png" name="Root.SuperBingo_FrontEnd.HelpScreenPatterns.5x5Double5"/>
+	<Sprite file="SuperBingo_FrontEnd/HelpScreenPatterns/5x5 patterns/Double/5x5_double_pattern_6.png" name="Root.SuperBingo_FrontEnd.HelpScreenPatterns.5x5Double6"/>
+	<Sprite file="SuperBingo_FrontEnd/HelpScreenPatterns/5x5 patterns/Triple/5x5_triple_pattern_1.png" name="Root.SuperBingo_FrontEnd.HelpScreenPatterns.5x5Triple1"/>
+	<Sprite file="SuperBingo_FrontEnd/HelpScreenPatterns/5x5 patterns/Triple/5x5_triple_pattern_2.png" name="Root.SuperBingo_FrontEnd.HelpScreenPatterns.5x5Triple2"/>
+	<Sprite file="SuperBingo_FrontEnd/HelpScreenPatterns/5x5 patterns/Triple/5x5_triple_pattern_3.png" name="Root.SuperBingo_FrontEnd.HelpScreenPatterns.5x5Triple3"/>
+	<Sprite file="SuperBingo_FrontEnd/HelpScreenPatterns/5x5 patterns/Triple/5x5_triple_pattern_4.png" name="Root.SuperBingo_FrontEnd.HelpScreenPatterns.5x5Triple4"/>
+	<Sprite file="SuperBingo_FrontEnd/HelpScreenPatterns/5x5 patterns/Triple/5x5_triple_pattern_5.png" name="Root.SuperBingo_FrontEnd.HelpScreenPatterns.5x5Triple5"/>
+	<Sprite file="SuperBingo_FrontEnd/HelpScreenPatterns/5x5 patterns/Triple/5x5_triple_pattern_6.png" name="Root.SuperBingo_FrontEnd.HelpScreenPatterns.5x5Triple6"/>
+	<Sprite file="SuperBingo_FrontEnd/HelpScreenPatterns/5x5 patterns/6 Pack/5x5_6pack_pattern_1.png" name="Root.SuperBingo_FrontEnd.HelpScreenPatterns.5x5SixPack1"/>
+	<Sprite file="SuperBingo_FrontEnd/HelpScreenPatterns/5x5 patterns/6 Pack/5x5_6pack_pattern_2.png" name="Root.SuperBingo_FrontEnd.HelpScreenPatterns.5x5SixPack2"/>
+	<Sprite file="SuperBingo_FrontEnd/HelpScreenPatterns/5x5 patterns/6 Pack/5x5_6pack_pattern_3.png" name="Root.SuperBingo_FrontEnd.HelpScreenPatterns.5x5SixPack3"/>
+	<Sprite file="SuperBingo_FrontEnd/HelpScreenPatterns/5x5 patterns/6 Pack/5x5_6pack_pattern_4.png" name="Root.SuperBingo_FrontEnd.HelpScreenPatterns.5x5SixPack4"/>
+	<Sprite file="SuperBingo_FrontEnd/HelpScreenPatterns/5x5 patterns/6 Pack/5x5_6pack_pattern_5.png" name="Root.SuperBingo_FrontEnd.HelpScreenPatterns.5x5SixPack5"/>
+	<Sprite file="SuperBingo_FrontEnd/HelpScreenPatterns/5x5 patterns/6 Pack/5x5_6pack_pattern_6.png" name="Root.SuperBingo_FrontEnd.HelpScreenPatterns.5x5SixPack6"/>
+	<Sprite file="SuperBingo_FrontEnd/HelpScreenPatterns/5x5 patterns/9 Pack/5x5_9pack_pattern_1.png" name="Root.SuperBingo_FrontEnd.HelpScreenPatterns.5x5NinePack1"/>
+	<Sprite file="SuperBingo_FrontEnd/HelpScreenPatterns/5x5 patterns/9 Pack/5x5_9pack_pattern_2.png" name="Root.SuperBingo_FrontEnd.HelpScreenPatterns.5x5NinePack2"/>
+	<Sprite file="SuperBingo_FrontEnd/HelpScreenPatterns/5x5 patterns/9 Pack/5x5_9pack_pattern_3.png" name="Root.SuperBingo_FrontEnd.HelpScreenPatterns.5x5NinePack3"/>
+	<Sprite file="SuperBingo_FrontEnd/HelpScreenPatterns/5x5 patterns/9 Pack/5x5_9pack_pattern_4.png" name="Root.SuperBingo_FrontEnd.HelpScreenPatterns.5x5NinePack4"/>
+	<Sprite file="SuperBingo_FrontEnd/HelpScreenPatterns/5x5 patterns/9 Pack/5x5_9pack_pattern_5.png" name="Root.SuperBingo_FrontEnd.HelpScreenPatterns.5x5NinePack5"/>
+	<Sprite file="SuperBingo_FrontEnd/HelpScreenPatterns/5x5 patterns/Letter X/5x5_letterX_pattern_1.png" name="Root.SuperBingo_FrontEnd.HelpScreenPatterns.5x5LetterX1"/>
+	<Sprite file="SuperBingo_FrontEnd/HelpScreenPatterns/5x5 patterns/Frame/5x5_frame_pattern_1.png" name="Root.SuperBingo_FrontEnd.HelpScreenPatterns.5x5Frame1"/>
+	<Sprite file="SuperBingo_FrontEnd/HelpScreenPatterns/5x5 patterns/Coverall/5x5_coverall_pattern_1.png" name="Root.SuperBingo_FrontEnd.HelpScreenPatterns.5x5Coverall1"/>
+	
+	<Sprite file="SuperBingo_FrontEnd/MainMenuBackground/c1.png" name="Root.SuperBingo_FrontEnd.MainMenuBackground.SB_UI_MainMenuBG_C1"/>
+	<Sprite file="SuperBingo_FrontEnd/MainMenuBackground/c2.png" name="Root.SuperBingo_FrontEnd.MainMenuBackground.SB_UI_MainMenuBG_C2"/>
+	<Sprite file="SuperBingo_FrontEnd/MainMenuBackground/c3.png" name="Root.SuperBingo_FrontEnd.MainMenuBackground.SB_UI_MainMenuBG_C3"/>
+	<Sprite file="SuperBingo_FrontEnd/MainMenuBackground/c4.png" name="Root.SuperBingo_FrontEnd.MainMenuBackground.SB_UI_MainMenuBG_C4"/>
+	<Sprite file="SuperBingo_FrontEnd/MainMenuBackground/c5.png" name="Root.SuperBingo_FrontEnd.MainMenuBackground.SB_UI_MainMenuBG_C5"/>
+	<Sprite file="SuperBingo_FrontEnd/MainMenuBackground/c6.png" name="Root.SuperBingo_FrontEnd.MainMenuBackground.SB_UI_MainMenuBG_C6"/>
+	<Sprite file="SuperBingo_FrontEnd/MainMenuBackground/c7.png" name="Root.SuperBingo_FrontEnd.MainMenuBackground.SB_UI_MainMenuBG_C7"/>
+	<Sprite file="SuperBingo_FrontEnd/MainMenuBackground/c8.png" name="Root.SuperBingo_FrontEnd.MainMenuBackground.SB_UI_MainMenuBG_C8"/>
+	<Sprite file="SuperBingo_FrontEnd/MainMenuBackground/c9.png" name="Root.SuperBingo_FrontEnd.MainMenuBackground.SB_UI_MainMenuBG_C9"/>
+	
+	<Sprite file="SuperBingo_FrontEnd/SelectLocation/SB_UI_Location_Global.png" name="Root.SuperBingo_FrontEnd.SelectLocation.SB_UI_Location_Global"/>
+	<Sprite file="SuperBingo_FrontEnd/SelectLocation/SB_UI_Location_Local.png" name="Root.SuperBingo_FrontEnd.SelectLocation.SB_UI_Location_Local"/>
+	
+	<Sprite file="SuperBingo_FrontEnd/SelectGameType/SB_UI_Gametype_30num.png" name="Root.SuperBingo_FrontEnd.SelectGameType.SB_UI_Gametype_30num"/>
+	<Sprite file="SuperBingo_FrontEnd/SelectGameType/SB_UI_Gametype_48num.png" name="Root.SuperBingo_FrontEnd.SelectGameType.SB_UI_Gametype_48num"/>
+	<Sprite file="SuperBingo_FrontEnd/SelectGameType/SB_UI_Gametype_75num.png" name="Root.SuperBingo_FrontEnd.SelectGameType.SB_UI_Gametype_75num"/>
+	
+	<Sprite file="SuperBingo_FrontEnd/AdminScreen/SB_UI_Admin_BG.png" name="Root.SuperBingo_FrontEnd.AdminScreen.SB_UI_Admin_BG"/>
+	<Sprite file="SuperBingo_FrontEnd/AdminScreen/SB_UI_Admin_Button1.png" name="Root.SuperBingo_FrontEnd.AdminScreen.SB_UI_Admin_Button1"/>
+	<Sprite file="SuperBingo_FrontEnd/AdminScreen/SB_UI_Admin_Button2.png" name="Root.SuperBingo_FrontEnd.AdminScreen.SB_UI_Admin_Button2"/>
+	<Sprite file="SuperBingo_FrontEnd/AdminScreen/SB_UI_LeftButton.png" name="Root.SuperBingo_FrontEnd.AdminScreen.SB_UI_Admin_LeftButton"/>
+	<Sprite file="SuperBingo_FrontEnd/AdminScreen/SB_UI_RightButton.png" name="Root.SuperBingo_FrontEnd.AdminScreen.SB_UI_Admin_RightButton"/>
+	
+	<Sprite file="SuperBingo_FrontEnd/DemoMenu/SB_UI_DemoMenu_BG.png" name="Root.SuperBingo_FrontEnd.DemoMenu.SB_UI_DemoMenu_BG"/>
+	
+	<Sprite file="UI_Basic/Boards/SB_UI_Board3x3.png" name="Root.UI_Basic.Boards.SB_UI_Board3x3"/>
+	<Sprite file="UI_Basic/Boards/SB_UI_Board4x4.png" name="Root.UI_Basic.Boards.SB_UI_Board4x4"/>
+	<Sprite file="UI_Basic/Boards/SB_UI_Board5x5.png" name="Root.UI_Basic.Boards.SB_UI_Board5x5"/>
+	
+	<Sprite file="UI_Basic/CardHighlights/CardHighlight_1Card_Blue.png" name="Root.UI_Basic.CardHighlights.SB_UI_CardHighlight_1Card_Blue"/>
+	<Sprite file="UI_Basic/CardHighlights/CardHighlight_1Card_Gold.png" name="Root.UI_Basic.CardHighlights.SB_UI_CardHighlight_1Card_Gold"/>
+	<Sprite file="UI_Basic/CardHighlights/CardHighlight_1Card_Green.png" name="Root.UI_Basic.CardHighlights.SB_UI_CardHighlight_1Card_Green"/>
+	<Sprite file="UI_Basic/CardHighlights/CardHighlight_1Card_Violet.png" name="Root.UI_Basic.CardHighlights.SB_UI_CardHighlight_1Card_Violet"/>
+	<Sprite file="UI_Basic/CardHighlights/CardHighlight_1Card_Yellow.png" name="Root.UI_Basic.CardHighlights.SB_UI_CardHighlight_1Card_Yellow"/>
+	<Sprite file="UI_Basic/CardHighlights/CardHighlight_4Card_Blue.png" name="Root.UI_Basic.CardHighlights.SB_UI_CardHighlight_4Card_Blue"/>
+	<Sprite file="UI_Basic/CardHighlights/CardHighlight_4Card_Gold.png" name="Root.UI_Basic.CardHighlights.SB_UI_CardHighlight_4Card_Gold"/>
+	<Sprite file="UI_Basic/CardHighlights/CardHighlight_4Card_Green.png" name="Root.UI_Basic.CardHighlights.SB_UI_CardHighlight_4Card_Green"/>
+	<Sprite file="UI_Basic/CardHighlights/CardHighlight_4Card_Violet.png" name="Root.UI_Basic.CardHighlights.SB_UI_CardHighlight_4Card_Violet"/>
+	<Sprite file="UI_Basic/CardHighlights/CardHighlight_4Card_Yellow.png" name="Root.UI_Basic.CardHighlights.SB_UI_CardHighlight_4Card_Yellow"/>
+	<Sprite file="UI_Basic/CardHighlights/CardHighlight_9Card_Blue.png" name="Root.UI_Basic.CardHighlights.SB_UI_CardHighlight_9Card_Blue"/>
+	<Sprite file="UI_Basic/CardHighlights/CardHighlight_9Card_Gold.png" name="Root.UI_Basic.CardHighlights.SB_UI_CardHighlight_9Card_Gold"/>
+	<Sprite file="UI_Basic/CardHighlights/CardHighlight_9Card_Green.png" name="Root.UI_Basic.CardHighlights.SB_UI_CardHighlight_9Card_Green"/>
+	<Sprite file="UI_Basic/CardHighlights/CardHighlight_9Card_Violet.png" name="Root.UI_Basic.CardHighlights.SB_UI_CardHighlight_9Card_Violet"/>
+	<Sprite file="UI_Basic/CardHighlights/CardHighlight_9Card_Yellow.png" name="Root.UI_Basic.CardHighlights.SB_UI_CardHighlight_9Card_Yellow"/>
+	
+	<Sprite file="UI_Basic/Balls/SB_UI_Ball_Basic.png" name="Root.UI_Basic.Balls.SB_UI_Ball_Basic"/>
+	<Sprite file="UI_Basic/Balls/SB_UI_Ball_Small.png" name="Root.UI_Basic.Balls.SB_UI_Ball_Small"/>
+	<Sprite file="UI_Basic/Balls/SB_UI_Ball_BlueBasic.png" name="Root.UI_Basic.Balls.SB_UI_Ball_BlueBasic"/>
+	<Sprite file="UI_Basic/Balls/SB_UI_Ball_BlueSmall.png" name="Root.UI_Basic.Balls.SB_UI_Ball_BlueSmall"/>
+	
+	<Sprite file="UI_Basic/WinGraphics/SB_UI_RedCloudBurst.png" name="Root.UI_Basic.WinGraphics.SB_UI_RedCloudBurst"/>
+	<Sprite file="UI_Basic/WinGraphics/SB_UI_BonusWinCloudBurst.png" name="Root.UI_Basic.WinGraphics.SB_UI_BonusWinCloudBurst"/>
+	<Sprite file="UI_Basic/WinGraphics/SB_UI_LargeWinCloudBurst.png" name="Root.UI_Basic.WinGraphics.SB_UI_LargeWinCloudBurst"/>
+	<Sprite file="UI_Basic/WinGraphics/StarBurst.png" name="Root.UI_Basic.WinGraphics.SpecialBallStarBurst"/>
+	
+	<Sprite file="UI_Basic/WinGraphics/Multipliers/SB_Multiplier_1Card_02.png" name="Root.UI_Basic.WinGraphics.Multipliers.SB_CardWinMultiplier_2"/>
+	<Sprite file="UI_Basic/WinGraphics/Multipliers/SB_Multiplier_1Card_03.png" name="Root.UI_Basic.WinGraphics.Multipliers.SB_CardWinMultiplier_3"/>
+	<Sprite file="UI_Basic/WinGraphics/Multipliers/SB_Multiplier_1Card_04.png" name="Root.UI_Basic.WinGraphics.Multipliers.SB_CardWinMultiplier_4"/>
+	<Sprite file="UI_Basic/WinGraphics/Multipliers/SB_Multiplier_1Card_05.png" name="Root.UI_Basic.WinGraphics.Multipliers.SB_CardWinMultiplier_5"/>
+	<Sprite file="UI_Basic/WinGraphics/Multipliers/SB_Multiplier_1Card_08.png" name="Root.UI_Basic.WinGraphics.Multipliers.SB_CardWinMultiplier_8"/>
+	<Sprite file="UI_Basic/WinGraphics/Multipliers/SB_Multiplier_1Card_10.png" name="Root.UI_Basic.WinGraphics.Multipliers.SB_CardWinMultiplier_10"/>
+	<Sprite file="UI_Basic/WinGraphics/Multipliers/SB_Multiplier_1Card_20.png" name="Root.UI_Basic.WinGraphics.Multipliers.SB_CardWinMultiplier_20"/>
+	
+	<Sprite file="UI_Basic/MainHUD/SilverButtonFooter.png" name="Root.UI_Basic.MainHUD.SB_UI_ButtonFooter"/>
+	<Sprite file="UI_Basic/MainHUD/SilverHelpSeePaysButton.png" name="Root.UI_Basic.MainHUD.SB_UI_HelpSeePaysButton"/>
+	<Sprite file="UI_Basic/MainHUD/SilverChangeGameButton.png" name="Root.UI_Basic.MainHUD.SB_UI_ChangeGameButton"/>
+	<Sprite file="UI_Basic/MainHUD/SilverAddCardsButton.png" name="Root.UI_Basic.MainHUD.SB_UI_AddCardsButton"/>
+	<Sprite file="UI_Basic/MainHUD/SilverDenomination001Button.png" name="Root.UI_Basic.MainHUD.SB_UI_Denomination001Button"/>
+	<Sprite file="UI_Basic/MainHUD/SilverDenomination005Button.png" name="Root.UI_Basic.MainHUD.SB_UI_Denomination005Button"/>
+	<Sprite file="UI_Basic/MainHUD/SilverDenomination010Button.png" name="Root.UI_Basic.MainHUD.SB_UI_Denomination010Button"/>
+	<Sprite file="UI_Basic/MainHUD/SilverDenomination025Button.png" name="Root.UI_Basic.MainHUD.SB_UI_Denomination025Button"/>
+	<Sprite file="UI_Basic/MainHUD/SilverDenomination050Button.png" name="Root.UI_Basic.MainHUD.SB_UI_Denomination050Button"/>
+	<Sprite file="UI_Basic/MainHUD/SilverDenomination100Button.png" name="Root.UI_Basic.MainHUD.SB_UI_Denomination100Button"/>
+	<Sprite file="UI_Basic/MainHUD/SilverDenomination200Button.png" name="Root.UI_Basic.MainHUD.SB_UI_Denomination200Button"/>
+	<Sprite file="UI_Basic/MainHUD/SilverDenomination001Button_Out.png" name="Root.UI_Basic.MainHUD.SB_UI_Denomination001Button_Out"/>
+	<Sprite file="UI_Basic/MainHUD/SilverDenomination005Button_Out.png" name="Root.UI_Basic.MainHUD.SB_UI_Denomination005Button_Out"/>
+	<Sprite file="UI_Basic/MainHUD/SilverDenomination010Button_Out.png" name="Root.UI_Basic.MainHUD.SB_UI_Denomination010Button_Out"/>
+	<Sprite file="UI_Basic/MainHUD/SilverDenomination025Button_Out.png" name="Root.UI_Basic.MainHUD.SB_UI_Denomination025Button_Out"/>
+	<Sprite file="UI_Basic/MainHUD/SilverDenomination050Button_Out.png" name="Root.UI_Basic.MainHUD.SB_UI_Denomination050Button_Out"/>
+	<Sprite file="UI_Basic/MainHUD/SilverDenomination100Button_Out.png" name="Root.UI_Basic.MainHUD.SB_UI_Denomination100Button_Out"/>
+	<Sprite file="UI_Basic/MainHUD/SilverDenomination200Button_Out.png" name="Root.UI_Basic.MainHUD.SB_UI_Denomination200Button_Out"/>
+	<Sprite file="UI_Basic/MainHUD/SilverBetOneButton.png" name="Root.UI_Basic.MainHUD.SB_UI_BetOneButton"/>
+	<Sprite file="UI_Basic/MainHUD/SilverBetMaxButton.png" name="Root.UI_Basic.MainHUD.SB_UI_BetMaxButton"/>
+	<Sprite file="UI_Basic/MainHUD/SilverCashOutButton.png" name="Root.UI_Basic.MainHUD.SB_UI_CashOutButton"/>
+	<Sprite file="UI_Basic/MainHUD/SilverPlayButton.png" name="Root.UI_Basic.MainHUD.SB_UI_PlayButton"/>
+	<Sprite file="UI_Basic/MainHUD/SilverHelpSeePaysButton_Inactive.png" name="Root.UI_Basic.MainHUD.SB_UI_HelpSeePaysButton_Inactive"/>
+	<Sprite file="UI_Basic/MainHUD/SilverChangeGameButton_Inactive.png" name="Root.UI_Basic.MainHUD.SB_UI_ChangeGameButton_Inactive"/>
+	<Sprite file="UI_Basic/MainHUD/SilverAddCardsButton_Inactive.png" name="Root.UI_Basic.MainHUD.SB_UI_AddCardsButton_Inactive"/>
+	<Sprite file="UI_Basic/MainHUD/SilverDenomination001Button_Inactive.png" name="Root.UI_Basic.MainHUD.SB_UI_Denomination001Button_Inactive"/>
+	<Sprite file="UI_Basic/MainHUD/SilverDenomination005Button_Inactive.png" name="Root.UI_Basic.MainHUD.SB_UI_Denomination005Button_Inactive"/>
+	<Sprite file="UI_Basic/MainHUD/SilverDenomination010Button_Inactive.png" name="Root.UI_Basic.MainHUD.SB_UI_Denomination010Button_Inactive"/>
+	<Sprite file="UI_Basic/MainHUD/SilverDenomination025Button_Inactive.png" name="Root.UI_Basic.MainHUD.SB_UI_Denomination025Button_Inactive"/>
+	<Sprite file="UI_Basic/MainHUD/SilverDenomination050Button_Inactive.png" name="Root.UI_Basic.MainHUD.SB_UI_Denomination050Button_Inactive"/>
+	<Sprite file="UI_Basic/MainHUD/SilverDenomination100Button_Inactive.png" name="Root.UI_Basic.MainHUD.SB_UI_Denomination100Button_Inactive"/>
+	<Sprite file="UI_Basic/MainHUD/SilverDenomination200Button_Inactive.png" name="Root.UI_Basic.MainHUD.SB_UI_Denomination200Button_Inactive"/>
+	<Sprite file="UI_Basic/MainHUD/SilverDenomination001Button_Out_Inactive.png" name="Root.UI_Basic.MainHUD.SB_UI_Denomination001Button_Out_Inactive"/>
+	<Sprite file="UI_Basic/MainHUD/SilverDenomination005Button_Out_Inactive.png" name="Root.UI_Basic.MainHUD.SB_UI_Denomination005Button_Out_Inactive"/>
+	<Sprite file="UI_Basic/MainHUD/SilverDenomination010Button_Out_Inactive.png" name="Root.UI_Basic.MainHUD.SB_UI_Denomination010Button_Out_Inactive"/>
+	<Sprite file="UI_Basic/MainHUD/SilverDenomination025Button_Out_Inactive.png" name="Root.UI_Basic.MainHUD.SB_UI_Denomination025Button_Out_Inactive"/>
+	<Sprite file="UI_Basic/MainHUD/SilverDenomination050Button_Out_Inactive.png" name="Root.UI_Basic.MainHUD.SB_UI_Denomination050Button_Out_Inactive"/>
+	<Sprite file="UI_Basic/MainHUD/SilverDenomination100Button_Out_Inactive.png" name="Root.UI_Basic.MainHUD.SB_UI_Denomination100Button_Out_Inactive"/>
+	<Sprite file="UI_Basic/MainHUD/SilverDenomination200Button_Out_Inactive.png" name="Root.UI_Basic.MainHUD.SB_UI_Denomination200Button_Out_Inactive"/>
+	<Sprite file="UI_Basic/MainHUD/SilverDenomination001Button_Out_Glow.png" name="Root.UI_Basic.MainHUD.SB_UI_Denomination001Button_Out_Glow"/>
+	<Sprite file="UI_Basic/MainHUD/SilverDenomination005Button_Out_Glow.png" name="Root.UI_Basic.MainHUD.SB_UI_Denomination005Button_Out_Glow"/>
+	<Sprite file="UI_Basic/MainHUD/SilverDenomination010Button_Out_Glow.png" name="Root.UI_Basic.MainHUD.SB_UI_Denomination010Button_Out_Glow"/>
+	<Sprite file="UI_Basic/MainHUD/SilverDenomination025Button_Out_Glow.png" name="Root.UI_Basic.MainHUD.SB_UI_Denomination025Button_Out_Glow"/>
+	<Sprite file="UI_Basic/MainHUD/SilverDenomination050Button_Out_Glow.png" name="Root.UI_Basic.MainHUD.SB_UI_Denomination050Button_Out_Glow"/>
+	<Sprite file="UI_Basic/MainHUD/SilverDenomination100Button_Out_Glow.png" name="Root.UI_Basic.MainHUD.SB_UI_Denomination100Button_Out_Glow"/>
+	<Sprite file="UI_Basic/MainHUD/SilverDenomination200Button_Out_Glow.png" name="Root.UI_Basic.MainHUD.SB_UI_Denomination200Button_Out_Glow"/>
+	<Sprite file="UI_Basic/MainHUD/SilverBetOneButton_Inactive.png" name="Root.UI_Basic.MainHUD.SB_UI_BetOneButton_Inactive"/>
+	<Sprite file="UI_Basic/MainHUD/SilverBetMaxButton_Inactive.png" name="Root.UI_Basic.MainHUD.SB_UI_BetMaxButton_Inactive"/>
+	<Sprite file="UI_Basic/MainHUD/SilverCashOutButton_Inactive.png" name="Root.UI_Basic.MainHUD.SB_UI_CashOutButton_Inactive"/>
+	<Sprite file="UI_Basic/MainHUD/SilverPlayButton_Inactive.png" name="Root.UI_Basic.MainHUD.SB_UI_PlayButton_Inactive"/>
+	<Sprite file="UI_Basic/MainHUD/GoldButtonFooter.png" name="Root.UI_Basic.MainHUD.SG_UI_ButtonFooter" gameflag="9"/>
+	<Sprite file="UI_Basic/MainHUD/GoldHelpSeePaysButton.png" name="Root.UI_Basic.MainHUD.SG_UI_HelpSeePaysButton" gameflag="9"/>
+	<Sprite file="UI_Basic/MainHUD/GoldChangeGameButton.png" name="Root.UI_Basic.MainHUD.SG_UI_ChangeGameButton" gameflag="9"/>
+	<Sprite file="UI_Basic/MainHUD/GoldAddCardsButton.png" name="Root.UI_Basic.MainHUD.SG_UI_AddCardsButton" gameflag="9"/>
+	<Sprite file="UI_Basic/MainHUD/GoldDenomination001Button.png" name="Root.UI_Basic.MainHUD.SG_UI_Denomination001Button" gameflag="9"/>
+	<Sprite file="UI_Basic/MainHUD/GoldDenomination005Button.png" name="Root.UI_Basic.MainHUD.SG_UI_Denomination005Button" gameflag="9"/>
+	<Sprite file="UI_Basic/MainHUD/GoldDenomination010Button.png" name="Root.UI_Basic.MainHUD.SG_UI_Denomination010Button" gameflag="9"/>
+	<Sprite file="UI_Basic/MainHUD/GoldDenomination025Button.png" name="Root.UI_Basic.MainHUD.SG_UI_Denomination025Button" gameflag="9"/>
+	<Sprite file="UI_Basic/MainHUD/GoldDenomination050Button.png" name="Root.UI_Basic.MainHUD.SG_UI_Denomination050Button" gameflag="9"/>
+	<Sprite file="UI_Basic/MainHUD/GoldDenomination100Button.png" name="Root.UI_Basic.MainHUD.SG_UI_Denomination100Button" gameflag="9"/>
+	<Sprite file="UI_Basic/MainHUD/GoldDenomination200Button.png" name="Root.UI_Basic.MainHUD.SG_UI_Denomination200Button" gameflag="9"/>
+	<Sprite file="UI_Basic/MainHUD/GoldDenomination001Button_Out.png" name="Root.UI_Basic.MainHUD.SG_UI_Denomination001Button_Out" gameflag="9"/>
+	<Sprite file="UI_Basic/MainHUD/GoldDenomination005Button_Out.png" name="Root.UI_Basic.MainHUD.SG_UI_Denomination005Button_Out" gameflag="9"/>
+	<Sprite file="UI_Basic/MainHUD/GoldDenomination010Button_Out.png" name="Root.UI_Basic.MainHUD.SG_UI_Denomination010Button_Out" gameflag="9"/>
+	<Sprite file="UI_Basic/MainHUD/GoldDenomination025Button_Out.png" name="Root.UI_Basic.MainHUD.SG_UI_Denomination025Button_Out" gameflag="9"/>
+	<Sprite file="UI_Basic/MainHUD/GoldDenomination050Button_Out.png" name="Root.UI_Basic.MainHUD.SG_UI_Denomination050Button_Out" gameflag="9"/>
+	<Sprite file="UI_Basic/MainHUD/GoldDenomination100Button_Out.png" name="Root.UI_Basic.MainHUD.SG_UI_Denomination100Button_Out" gameflag="9"/>
+	<Sprite file="UI_Basic/MainHUD/GoldDenomination200Button_Out.png" name="Root.UI_Basic.MainHUD.SG_UI_Denomination200Button_Out" gameflag="9"/>
+	<Sprite file="UI_Basic/MainHUD/GoldBetOneButton.png" name="Root.UI_Basic.MainHUD.SG_UI_BetOneButton" gameflag="9"/>
+	<Sprite file="UI_Basic/MainHUD/GoldBetMaxButton.png" name="Root.UI_Basic.MainHUD.SG_UI_BetMaxButton" gameflag="9"/>
+	<Sprite file="UI_Basic/MainHUD/GoldCashOutButton.png" name="Root.UI_Basic.MainHUD.SG_UI_CashOutButton" gameflag="9"/>
+	<Sprite file="UI_Basic/MainHUD/GoldPlayButton.png" name="Root.UI_Basic.MainHUD.SG_UI_PlayButton" gameflag="9"/>
+	<Sprite file="UI_Basic/MainHUD/GoldHelpSeePaysButton_Inactive.png" name="Root.UI_Basic.MainHUD.SG_UI_HelpSeePaysButton_Inactive" gameflag="9"/>
+	<Sprite file="UI_Basic/MainHUD/GoldChangeGameButton_Inactive.png" name="Root.UI_Basic.MainHUD.SG_UI_ChangeGameButton_Inactive" gameflag="9"/>
+	<Sprite file="UI_Basic/MainHUD/GoldAddCardsButton_Inactive.png" name="Root.UI_Basic.MainHUD.SG_UI_AddCardsButton_Inactive" gameflag="9"/>
+	<Sprite file="UI_Basic/MainHUD/GoldDenomination001Button_Inactive.png" name="Root.UI_Basic.MainHUD.SG_UI_Denomination001Button_Inactive" gameflag="9"/>
+	<Sprite file="UI_Basic/MainHUD/GoldDenomination005Button_Inactive.png" name="Root.UI_Basic.MainHUD.SG_UI_Denomination005Button_Inactive" gameflag="9"/>
+	<Sprite file="UI_Basic/MainHUD/GoldDenomination010Button_Inactive.png" name="Root.UI_Basic.MainHUD.SG_UI_Denomination010Button_Inactive" gameflag="9"/>
+	<Sprite file="UI_Basic/MainHUD/GoldDenomination025Button_Inactive.png" name="Root.UI_Basic.MainHUD.SG_UI_Denomination025Button_Inactive" gameflag="9"/>
+	<Sprite file="UI_Basic/MainHUD/GoldDenomination050Button_Inactive.png" name="Root.UI_Basic.MainHUD.SG_UI_Denomination050Button_Inactive" gameflag="9"/>
+	<Sprite file="UI_Basic/MainHUD/GoldDenomination100Button_Inactive.png" name="Root.UI_Basic.MainHUD.SG_UI_Denomination100Button_Inactive" gameflag="9"/>
+	<Sprite file="UI_Basic/MainHUD/GoldDenomination200Button_Inactive.png" name="Root.UI_Basic.MainHUD.SG_UI_Denomination200Button_Inactive" gameflag="9"/>
+	<Sprite file="UI_Basic/MainHUD/GoldDenomination001Button_Out_Inactive.png" name="Root.UI_Basic.MainHUD.SG_UI_Denomination001Button_Out_Inactive" gameflag="9"/>
+	<Sprite file="UI_Basic/MainHUD/GoldDenomination005Button_Out_Inactive.png" name="Root.UI_Basic.MainHUD.SG_UI_Denomination005Button_Out_Inactive" gameflag="9"/>
+	<Sprite file="UI_Basic/MainHUD/GoldDenomination010Button_Out_Inactive.png" name="Root.UI_Basic.MainHUD.SG_UI_Denomination010Button_Out_Inactive" gameflag="9"/>
+	<Sprite file="UI_Basic/MainHUD/GoldDenomination025Button_Out_Inactive.png" name="Root.UI_Basic.MainHUD.SG_UI_Denomination025Button_Out_Inactive" gameflag="9"/>
+	<Sprite file="UI_Basic/MainHUD/GoldDenomination050Button_Out_Inactive.png" name="Root.UI_Basic.MainHUD.SG_UI_Denomination050Button_Out_Inactive" gameflag="9"/>
+	<Sprite file="UI_Basic/MainHUD/GoldDenomination100Button_Out_Inactive.png" name="Root.UI_Basic.MainHUD.SG_UI_Denomination100Button_Out_Inactive" gameflag="9"/>
+	<Sprite file="UI_Basic/MainHUD/GoldDenomination200Button_Out_Inactive.png" name="Root.UI_Basic.MainHUD.SG_UI_Denomination200Button_Out_Inactive" gameflag="9"/>
+	<Sprite file="UI_Basic/MainHUD/GoldDenomination001Button_Out_Glow.png" name="Root.UI_Basic.MainHUD.SG_UI_Denomination001Button_Out_Glow" gameflag="9"/>
+	<Sprite file="UI_Basic/MainHUD/GoldDenomination005Button_Out_Glow.png" name="Root.UI_Basic.MainHUD.SG_UI_Denomination005Button_Out_Glow" gameflag="9"/>
+	<Sprite file="UI_Basic/MainHUD/GoldDenomination010Button_Out_Glow.png" name="Root.UI_Basic.MainHUD.SG_UI_Denomination010Button_Out_Glow" gameflag="9"/>
+	<Sprite file="UI_Basic/MainHUD/GoldDenomination025Button_Out_Glow.png" name="Root.UI_Basic.MainHUD.SG_UI_Denomination025Button_Out_Glow" gameflag="9"/>
+	<Sprite file="UI_Basic/MainHUD/GoldDenomination050Button_Out_Glow.png" name="Root.UI_Basic.MainHUD.SG_UI_Denomination050Button_Out_Glow" gameflag="9"/>
+	<Sprite file="UI_Basic/MainHUD/GoldDenomination100Button_Out_Glow.png" name="Root.UI_Basic.MainHUD.SG_UI_Denomination100Button_Out_Glow" gameflag="9"/>
+	<Sprite file="UI_Basic/MainHUD/GoldDenomination200Button_Out_Glow.png" name="Root.UI_Basic.MainHUD.SG_UI_Denomination200Button_Out_Glow" gameflag="9"/>
+	<Sprite file="UI_Basic/MainHUD/GoldBetOneButton_Inactive.png" name="Root.UI_Basic.MainHUD.SG_UI_BetOneButton_Inactive" gameflag="9"/>
+	<Sprite file="UI_Basic/MainHUD/GoldBetMaxButton_Inactive.png" name="Root.UI_Basic.MainHUD.SG_UI_BetMaxButton_Inactive" gameflag="9"/>
+	<Sprite file="UI_Basic/MainHUD/GoldCashOutButton_Inactive.png" name="Root.UI_Basic.MainHUD.SG_UI_CashOutButton_Inactive" gameflag="9"/>
+	<Sprite file="UI_Basic/MainHUD/GoldPlayButton_Inactive.png" name="Root.UI_Basic.MainHUD.SG_UI_PlayButton_Inactive" gameflag="9"/>
+	<Sprite file="UI_Basic/MainHUD/SB_UI_NumberBallCalls_SG.png" name="Root.UI_Basic.MainHUD.SB_UI_NumberBallCalls_SG" gameflag="0"/>
+	<Sprite file="UI_Basic/MainHUD/SB_UI_NumberBallCalls_SC.png" name="Root.UI_Basic.MainHUD.SB_UI_NumberBallCalls_SC" gameflag="1"/>
+	<Sprite file="UI_Basic/MainHUD/SB_UI_NumberBallCalls_SW.png" name="Root.UI_Basic.MainHUD.SB_UI_NumberBallCalls_SW" gameflag="2"/>
+	<Sprite file="UI_Basic/MainHUD/SB_UI_NumberBallCalls_SB.png" name="Root.UI_Basic.MainHUD.SB_UI_NumberBallCalls_SB" gameflag="3"/>
+	<Sprite file="UI_Basic/MainHUD/SB_UI_NumberBallCalls_SP.png" name="Root.UI_Basic.MainHUD.SB_UI_NumberBallCalls_SP" gameflag="4"/>
+	<Sprite file="UI_Basic/MainHUD/SB_UI_NumberBallCalls_SM.png" name="Root.UI_Basic.MainHUD.SB_UI_NumberBallCalls_SM" gameflag="5 6"/>
+	<Sprite file="UI_Basic/MainHUD/SB_UI_NumberBallCalls_SLP.png" name="Root.UI_Basic.MainHUD.SB_UI_NumberBallCalls_SBLPr" gameflag="9"/>
+	<Sprite file="UI_Basic/MainHUD/SB_UI_NumberBallCalls_SGP.png" name="Root.UI_Basic.MainHUD.SB_UI_NumberBallCalls_SBGPr" gameflag="9"/>
+	<Sprite file="UI_Basic/MainHUD/SW_UI_NumberBallCallsLabel.png" name="Root.UI_Basic.MainHUD.SW_UI_NumberBallCallsLabel"/>
+	<Sprite file="UI_Basic/MainHUD/sound_adjust_1.png" name="Root.UI_Basic.MainHUD.SB_UI_SoundAdjust_1"/>
+	<Sprite file="UI_Basic/MainHUD/sound_adjust_2.png" name="Root.UI_Basic.MainHUD.SB_UI_SoundAdjust_2"/>
+	<Sprite file="UI_Basic/MainHUD/sound_adjust_3.png" name="Root.UI_Basic.MainHUD.SB_UI_SoundAdjust_3"/>
+	<Sprite file="UI_Basic/MainHUD/sound_adjust_mute.png" name="Root.UI_Basic.MainHUD.SB_UI_SoundAdjust_Mute"/>
+	<Sprite file="UI_Basic/MainHUD/speed_adjust_1.png" name="Root.UI_Basic.MainHUD.SB_UI_SpeedAdjust_1"/>
+	<Sprite file="UI_Basic/MainHUD/speed_adjust_2.png" name="Root.UI_Basic.MainHUD.SB_UI_SpeedAdjust_2"/>
+	<Sprite file="UI_Basic/MainHUD/speed_adjust_3.png" name="Root.UI_Basic.MainHUD.SB_UI_SpeedAdjust_3"/>
+	
+	<Sprite file="UI_Basic/Cards/SB_UI_3x3_1Card.png" name="Root.UI_Basic.Cards.SB_UI_Card3x3_1Card"/>
+	<Sprite file="UI_Basic/Cards/SB_UI_3x3_4Card.png" name="Root.UI_Basic.Cards.SB_UI_Card3x3_4Card"/>
+	<Sprite file="UI_Basic/Cards/SB_UI_3x3_9Card.png" name="Root.UI_Basic.Cards.SB_UI_Card3x3_9Card"/>
+	<Sprite file="UI_Basic/Cards/SB_UI_4x4_1Card.png" name="Root.UI_Basic.Cards.SB_UI_Card4x4_1Card"/>
+	<Sprite file="UI_Basic/Cards/SB_UI_4x4_4Card.png" name="Root.UI_Basic.Cards.SB_UI_Card4x4_4Card"/>
+	<Sprite file="UI_Basic/Cards/SB_UI_4x4_9Card.png" name="Root.UI_Basic.Cards.SB_UI_Card4x4_9Card"/>
+	<Sprite file="UI_Basic/Cards/SB_UI_5x5_1Card.png" name="Root.UI_Basic.Cards.SB_UI_Card5x5_1Card"/>
+	<Sprite file="UI_Basic/Cards/SB_UI_5x5_4Card.png" name="Root.UI_Basic.Cards.SB_UI_Card5x5_4Card"/>
+	<Sprite file="UI_Basic/Cards/SB_UI_5x5_9Card.png" name="Root.UI_Basic.Cards.SB_UI_Card5x5_9Card"/>
+	<Sprite file="UI_Basic/Cards/SG_UI_3x3_1Card.png" name="Root.UI_Basic.Cards.SG_UI_Card3x3_1Card"/>
+	<Sprite file="UI_Basic/Cards/SG_UI_3x3_4Card.png" name="Root.UI_Basic.Cards.SG_UI_Card3x3_4Card"/>
+	<Sprite file="UI_Basic/Cards/SG_UI_3x3_9Card.png" name="Root.UI_Basic.Cards.SG_UI_Card3x3_9Card"/>
+	<Sprite file="UI_Basic/Cards/SG_UI_4x4_1Card.png" name="Root.UI_Basic.Cards.SG_UI_Card4x4_1Card"/>
+	<Sprite file="UI_Basic/Cards/SG_UI_4x4_4Card.png" name="Root.UI_Basic.Cards.SG_UI_Card4x4_4Card"/>
+	<Sprite file="UI_Basic/Cards/SG_UI_4x4_9Card.png" name="Root.UI_Basic.Cards.SG_UI_Card4x4_9Card"/>
+	<Sprite file="UI_Basic/Cards/SG_UI_5x5_1Card.png" name="Root.UI_Basic.Cards.SG_UI_Card5x5_1Card"/>
+	<Sprite file="UI_Basic/Cards/SG_UI_5x5_4Card.png" name="Root.UI_Basic.Cards.SG_UI_Card5x5_4Card"/>
+	<Sprite file="UI_Basic/Cards/SG_UI_5x5_9Card.png" name="Root.UI_Basic.Cards.SG_UI_Card5x5_9Card"/>
+	
+	<Sprite file="UI_Basic/Collision/Collision.png" name="Root.UI_Basic.Collision.Collision"/>
+	<Sprite file="UI_Basic/Collision/CollisionVisible.png" name="Root.UI_Basic.Collision.CollisionVisible"/>
+	              
+	<Sprite file="SuperBingo_Gold/SB_UI_SBG_BG.png" name="Root.SuperBingo_Gold.SB_UI_SGB_BG" gameflag="0"/>
+	<Sprite file="SuperBingo_Gold/SB_UI_SBG_Logo.png" name="Root.SuperBingo_Gold.SB_UI_SGB_Logo" gameflag="0"/>
+	<Sprite file="SuperBingo_Gold/SB_UI_GoldCoin.png" name="Root.SuperBingo_Gold.SB_UI_GoldCoin" gameflag="0"/>
+	<Sprite file="SuperBingo_Gold/SB_UI_SBG_Nugget.png" name="Root.SuperBingo_Gold.SB_UI_SBG_GoldNugget" gameflag="0 6"/>
+	<Sprite file="SuperBingo_Gold/SG_Multiplier_02.png" name="Root.SuperBingo_Gold.SB_UI_SBG_Multiplier02" gameflag="0 6"/>
+	<Sprite file="SuperBingo_Gold/SG_Multiplier_03.png" name="Root.SuperBingo_Gold.SB_UI_SBG_Multiplier03" gameflag="0 6"/>
+	<Sprite file="SuperBingo_Gold/SG_Multiplier_04.png" name="Root.SuperBingo_Gold.SB_UI_SBG_Multiplier04" gameflag="0 6"/>
+	<Sprite file="SuperBingo_Gold/SG_Multiplier_05.png" name="Root.SuperBingo_Gold.SB_UI_SBG_Multiplier05" gameflag="0 6"/>
+	<Sprite file="SuperBingo_Gold/SG_Multiplier_10.png" name="Root.SuperBingo_Gold.SB_UI_SBG_Multiplier10" gameflag="0 6"/>
+	<Sprite file="SuperBingo_Gold/SG_Multiplier_20.png" name="Root.SuperBingo_Gold.SB_UI_SBG_Multiplier20" gameflag="0 6"/>
+	
+	<Sprite file="SuperBingo_Gold/WheelMenu/SB_wheel_background.png" name="Root.SuperBingo_Gold.WheelMenu.Background" gameflag="0 6"/>
+	<Sprite file="SuperBingo_Gold/WheelMenu/SB_wheel_super_size_copy.png" name="Root.SuperBingo_Gold.WheelMenu.SuperSizeLabel" gameflag="0 6"/>
+	<Sprite file="SuperBingo_Gold/WheelMenu/SB_wheel.png" name="Root.SuperBingo_Gold.WheelMenu.WheelOuter" gameflag="0 6"/>
+	<Sprite file="SuperBingo_Gold/WheelMenu/SB_wheel_center_coin.png" name="Root.SuperBingo_Gold.WheelMenu.WheelInner" gameflag="0 6"/>
+	<Sprite file="SuperBingo_Gold/WheelMenu/SB_wheel_flapper.png" name="Root.SuperBingo_Gold.WheelMenu.Flapper" gameflag="0 6"/>
+	<Sprite file="SuperBingo_Gold/WheelMenu/SB_wheel_start button.png" name="Root.SuperBingo_Gold.WheelMenu.Button" gameflag="0 6"/>
+	
+	<Sprite file="SuperBingo_Pattern/SB_UI_Ball_SBP_Card_Bingo.png" name="Root.SuperBingo_Pattern.SB_UI_Ball_SBP_Card_Bingo" gameflag="4"/>
+	<Sprite file="SuperBingo_Pattern/SB_UI_BalloonBlue_SBP.png" name="Root.SuperBingo_Pattern.SB_UI_BalloonBlue_SBP" gameflag="4"/>
+	<Sprite file="SuperBingo_Pattern/SB_UI_BalloonGreen_SBP.png" name="Root.SuperBingo_Pattern.SB_UI_BalloonGreen_SBP" gameflag="4"/>
+	<Sprite file="SuperBingo_Pattern/SB_UI_BalloonPeach_SBP.png" name="Root.SuperBingo_Pattern.SB_UI_BalloonPeach_SBP" gameflag="4"/>
+	<Sprite file="SuperBingo_Pattern/SB_UI_BalloonPink_SBP.png" name="Root.SuperBingo_Pattern.SB_UI_BalloonPink_SBP" gameflag="4"/>
+	<Sprite file="SuperBingo_Pattern/SB_UI_SBP_BG.png" name="Root.SuperBingo_Pattern.SB_UI_SBP_BG" gameflag="4"/>
+	<Sprite file="SuperBingo_Pattern/SB_UI_SBP_Logo.png" name="Root.SuperBingo_Pattern.SB_UI_SBP_Logo" gameflag="4"/>
+	<Sprite file="SuperBingo_Pattern/SB_UI_Ball_SBP_Board.png" name="Root.SuperBingo_Pattern.SB_UI_Ball_SBP_Board" gameflag="4"/>
+	<Sprite file="SuperBingo_Pattern/SB_UI_BalloonPurple_SBP.png" name="Root.SuperBingo_Pattern.SB_UI_BalloonPurple_SBP" gameflag="4"/>
+	<Sprite file="SuperBingo_Pattern/SB_UI_BlueFill.png" name="Root.SuperBingo_Pattern.SB_UI_BlueFill" gameflag="4"/>
+	
+	<Sprite file="SuperBingo_Bonus/SB_UI_SBB_BG.png" name="Root.SuperBingo_Bonus.SB_UI_SBB_BG" gameflag="3"/>
+	<Sprite file="SuperBingo_Bonus/SB_UI_SBB_Logo.png" name="Root.SuperBingo_Bonus.SB_UI_SBB_Logo" gameflag="3"/>
+	<Sprite file="SuperBingo_Bonus/SB_UI_SBB_BlueBall_Large.png" name="Root.SuperBingo_Bonus.SB_UI_SBB_Card" gameflag="3 5 6 9"/>
+	<Sprite file="SuperBingo_Bonus/SB_UI_SBB_BlueBall_Small.png" name="Root.SuperBingo_Bonus.SB_UI_SBB_Board" gameflag="3 6"/>
+	<Sprite file="SuperBingo_Bonus/BonusBallDrop.png" name="Root.SuperBingo_Bonus.SB_UI_SBB_BonusBall" gameflag="3 6"/>
+	
+	<Sprite file="SuperBingo_Cash/SB_UI_SBC_Logo.png" name="Root.SuperBingo_Cash.SB_UI_SBC_Logo" gameflag="1"/>
+	<Sprite file="SuperBingo_Cash/SB_UI_SBC_BG.png" name="Root.SuperBingo_Cash.SB_UI_SBC_BG" gameflag="1"/>
+	<Sprite file="SuperBingo_Cash/SB_UI_SBC_BlueCashBall.png" name="Root.SuperBingo_Cash.SB_UI_SBC_Card" gameflag="1 6"/>
+	<Sprite file="SuperBingo_Cash/SB_UI_SBC_BlueCashBall_Small.png" name="Root.SuperBingo_Cash.SB_UI_SBC_Board" gameflag="1 6"/>
+	<Sprite file="SuperBingo_Cash/CashBallDrop.png" name="Root.SuperBingo_Cash.SB_UI_SBC_CashBall" gameflag="1 6"/>
+	<Sprite file="SuperBingo_Cash/SB_UI_CashBall_Count_2.png" name="Root.SuperBingo_Cash.SB_UI_SBC_Count_2" gameflag="1 2 3 5 6"/>
+	<Sprite file="SuperBingo_Cash/SB_UI_CashBall_Count_3.png" name="Root.SuperBingo_Cash.SB_UI_SBC_Count_3" gameflag="1 2 3 5 6"/>
+	<Sprite file="SuperBingo_Cash/SB_UI_CashBall_Count_4.png" name="Root.SuperBingo_Cash.SB_UI_SBC_Count_4" gameflag="1 2 3 5 6"/>
+	
+	<Sprite file="SuperBingo_Match/SB_UI_SBM_Ball_Card.png" name="Root.SuperBingo_Match.SB_UI_SBM_Card"/>
+	<Sprite file="SuperBingo_Match/SB_UI_SBM_PreMatch_Card.png" name="Root.SuperBingo_Match.SB_UI_SBM_PreMatch_Card"/>
+	<Sprite file="SuperBingo_Match/SB_UI_SBM_Ball_Board.png" name="Root.SuperBingo_Match.SB_UI_SBM_Board"/>
+	<Sprite file="SuperBingo_Match/SB_UI_SBM_Logo.png" name="Root.SuperBingo_Match.SB_UI_SBM_Logo" gameflag="5"/>
+	<Sprite file="SuperBingo_Match/SB_UI_SBM_BG.png" name="Root.SuperBingo_Match.SB_UI_SBM_BG" gameflag="5"/>
+	
+	<Sprite file="SuperBingo_Match/Prematch_30Num_01.png" name="Root.SuperBingo_Match.PreMatch.SB_UI_SBM_PreMatch_30Num_01" gameflag="5 9"/>
+	<Sprite file="SuperBingo_Match/Prematch_30Num_02.png" name="Root.SuperBingo_Match.PreMatch.SB_UI_SBM_PreMatch_30Num_02" gameflag="5 9"/>
+	<Sprite file="SuperBingo_Match/Prematch_30Num_03.png" name="Root.SuperBingo_Match.PreMatch.SB_UI_SBM_PreMatch_30Num_03" gameflag="5 9"/>
+	<Sprite file="SuperBingo_Match/Prematch_30Num_04.png" name="Root.SuperBingo_Match.PreMatch.SB_UI_SBM_PreMatch_30Num_04" gameflag="5 9"/>
+	<Sprite file="SuperBingo_Match/Prematch_30Num_05.png" name="Root.SuperBingo_Match.PreMatch.SB_UI_SBM_PreMatch_30Num_05" gameflag="5 9"/>
+	<Sprite file="SuperBingo_Match/Prematch_30Num_06.png" name="Root.SuperBingo_Match.PreMatch.SB_UI_SBM_PreMatch_30Num_06" gameflag="5 9"/>
+	<Sprite file="SuperBingo_Match/Prematch_30Num_07.png" name="Root.SuperBingo_Match.PreMatch.SB_UI_SBM_PreMatch_30Num_07" gameflag="5 9"/>
+	<Sprite file="SuperBingo_Match/Prematch_30Num_08.png" name="Root.SuperBingo_Match.PreMatch.SB_UI_SBM_PreMatch_30Num_08" gameflag="5 9"/>
+	<Sprite file="SuperBingo_Match/Prematch_30Num_09.png" name="Root.SuperBingo_Match.PreMatch.SB_UI_SBM_PreMatch_30Num_09" gameflag="5 9"/>
+	<Sprite file="SuperBingo_Match/Prematch_30Num_10.png" name="Root.SuperBingo_Match.PreMatch.SB_UI_SBM_PreMatch_30Num_10" gameflag="5 9"/>
+	<Sprite file="SuperBingo_Match/Prematch_30Num_11.png" name="Root.SuperBingo_Match.PreMatch.SB_UI_SBM_PreMatch_30Num_11" gameflag="5 9"/>
+	<Sprite file="SuperBingo_Match/Prematch_30Num_12.png" name="Root.SuperBingo_Match.PreMatch.SB_UI_SBM_PreMatch_30Num_12" gameflag="5 9"/>
+	<Sprite file="SuperBingo_Match/Prematch_30Num_13.png" name="Root.SuperBingo_Match.PreMatch.SB_UI_SBM_PreMatch_30Num_13" gameflag="5 9"/>
+	<Sprite file="SuperBingo_Match/Prematch_30Num_14.png" name="Root.SuperBingo_Match.PreMatch.SB_UI_SBM_PreMatch_30Num_14" gameflag="5 9"/>
+	<Sprite file="SuperBingo_Match/Prematch_30Num_15.png" name="Root.SuperBingo_Match.PreMatch.SB_UI_SBM_PreMatch_30Num_15" gameflag="5 9"/>
+	<Sprite file="SuperBingo_Match/Prematch_30Num_16.png" name="Root.SuperBingo_Match.PreMatch.SB_UI_SBM_PreMatch_30Num_16" gameflag="5 9"/>
+	<Sprite file="SuperBingo_Match/Prematch_30Num_17.png" name="Root.SuperBingo_Match.PreMatch.SB_UI_SBM_PreMatch_30Num_17" gameflag="5 9"/>
+	<Sprite file="SuperBingo_Match/Prematch_30Num_18.png" name="Root.SuperBingo_Match.PreMatch.SB_UI_SBM_PreMatch_30Num_18" gameflag="5 9"/>
+	<Sprite file="SuperBingo_Match/Prematch_30Num_19.png" name="Root.SuperBingo_Match.PreMatch.SB_UI_SBM_PreMatch_30Num_19" gameflag="5 9"/>
+	<Sprite file="SuperBingo_Match/Prematch_30Num_20.png" name="Root.SuperBingo_Match.PreMatch.SB_UI_SBM_PreMatch_30Num_20" gameflag="5 9"/>
+	<Sprite file="SuperBingo_Match/Prematch_30Num_21.png" name="Root.SuperBingo_Match.PreMatch.SB_UI_SBM_PreMatch_30Num_21" gameflag="5 9"/>
+	<Sprite file="SuperBingo_Match/Prematch_30Num_22.png" name="Root.SuperBingo_Match.PreMatch.SB_UI_SBM_PreMatch_30Num_22" gameflag="5 9"/>
+	<Sprite file="SuperBingo_Match/Prematch_30Num_23.png" name="Root.SuperBingo_Match.PreMatch.SB_UI_SBM_PreMatch_30Num_23" gameflag="5 9"/>
+	<Sprite file="SuperBingo_Match/Prematch_30Num_24.png" name="Root.SuperBingo_Match.PreMatch.SB_UI_SBM_PreMatch_30Num_24" gameflag="5 9"/>
+	<Sprite file="SuperBingo_Match/Prematch_30Num_25.png" name="Root.SuperBingo_Match.PreMatch.SB_UI_SBM_PreMatch_30Num_25" gameflag="5 9"/>
+	<Sprite file="SuperBingo_Match/Prematch_30Num_26.png" name="Root.SuperBingo_Match.PreMatch.SB_UI_SBM_PreMatch_30Num_26" gameflag="5 9"/>
+	<Sprite file="SuperBingo_Match/Prematch_30Num_27.png" name="Root.SuperBingo_Match.PreMatch.SB_UI_SBM_PreMatch_30Num_27" gameflag="5 9"/>
+	<Sprite file="SuperBingo_Match/Prematch_30Num_28.png" name="Root.SuperBingo_Match.PreMatch.SB_UI_SBM_PreMatch_30Num_28" gameflag="5 9"/>
+	<Sprite file="SuperBingo_Match/Prematch_30Num_29.png" name="Root.SuperBingo_Match.PreMatch.SB_UI_SBM_PreMatch_30Num_29" gameflag="5 9"/>
+	<Sprite file="SuperBingo_Match/Prematch_30Num_30.png" name="Root.SuperBingo_Match.PreMatch.SB_UI_SBM_PreMatch_30Num_30" gameflag="5 9"/>
+	<Sprite file="SuperBingo_Match/Prematch_48Num_01.png" name="Root.SuperBingo_Match.PreMatch.SB_UI_SBM_PreMatch_48Num_01" gameflag="5 9"/>
+	<Sprite file="SuperBingo_Match/Prematch_48Num_02.png" name="Root.SuperBingo_Match.PreMatch.SB_UI_SBM_PreMatch_48Num_02" gameflag="5 9"/>
+	<Sprite file="SuperBingo_Match/Prematch_48Num_03.png" name="Root.SuperBingo_Match.PreMatch.SB_UI_SBM_PreMatch_48Num_03" gameflag="5 9"/>
+	<Sprite file="SuperBingo_Match/Prematch_48Num_04.png" name="Root.SuperBingo_Match.PreMatch.SB_UI_SBM_PreMatch_48Num_04" gameflag="5 9"/>
+	<Sprite file="SuperBingo_Match/Prematch_48Num_05.png" name="Root.SuperBingo_Match.PreMatch.SB_UI_SBM_PreMatch_48Num_05" gameflag="5 9"/>
+	<Sprite file="SuperBingo_Match/Prematch_48Num_06.png" name="Root.SuperBingo_Match.PreMatch.SB_UI_SBM_PreMatch_48Num_06" gameflag="5 9"/>
+	<Sprite file="SuperBingo_Match/Prematch_48Num_07.png" name="Root.SuperBingo_Match.PreMatch.SB_UI_SBM_PreMatch_48Num_07" gameflag="5 9"/>
+	<Sprite file="SuperBingo_Match/Prematch_48Num_08.png" name="Root.SuperBingo_Match.PreMatch.SB_UI_SBM_PreMatch_48Num_08" gameflag="5 9"/>
+	<Sprite file="SuperBingo_Match/Prematch_48Num_09.png" name="Root.SuperBingo_Match.PreMatch.SB_UI_SBM_PreMatch_48Num_09" gameflag="5 9"/>
+	<Sprite file="SuperBingo_Match/Prematch_48Num_10.png" name="Root.SuperBingo_Match.PreMatch.SB_UI_SBM_PreMatch_48Num_10" gameflag="5 9"/>
+	<Sprite file="SuperBingo_Match/Prematch_48Num_11.png" name="Root.SuperBingo_Match.PreMatch.SB_UI_SBM_PreMatch_48Num_11" gameflag="5 9"/>
+	<Sprite file="SuperBingo_Match/Prematch_48Num_12.png" name="Root.SuperBingo_Match.PreMatch.SB_UI_SBM_PreMatch_48Num_12" gameflag="5 9"/>
+	<Sprite file="SuperBingo_Match/Prematch_48Num_13.png" name="Root.SuperBingo_Match.PreMatch.SB_UI_SBM_PreMatch_48Num_13" gameflag="5 9"/>
+	<Sprite file="SuperBingo_Match/Prematch_48Num_14.png" name="Root.SuperBingo_Match.PreMatch.SB_UI_SBM_PreMatch_48Num_14" gameflag="5 9"/>
+	<Sprite file="SuperBingo_Match/Prematch_48Num_15.png" name="Root.SuperBingo_Match.PreMatch.SB_UI_SBM_PreMatch_48Num_15" gameflag="5 9"/>
+	<Sprite file="SuperBingo_Match/Prematch_48Num_16.png" name="Root.SuperBingo_Match.PreMatch.SB_UI_SBM_PreMatch_48Num_16" gameflag="5 9"/>
+	<Sprite file="SuperBingo_Match/Prematch_48Num_17.png" name="Root.SuperBingo_Match.PreMatch.SB_UI_SBM_PreMatch_48Num_17" gameflag="5 9"/>
+	<Sprite file="SuperBingo_Match/Prematch_48Num_18.png" name="Root.SuperBingo_Match.PreMatch.SB_UI_SBM_PreMatch_48Num_18" gameflag="5 9"/>
+	<Sprite file="SuperBingo_Match/Prematch_48Num_19.png" name="Root.SuperBingo_Match.PreMatch.SB_UI_SBM_PreMatch_48Num_19" gameflag="5 9"/>
+	<Sprite file="SuperBingo_Match/Prematch_48Num_20.png" name="Root.SuperBingo_Match.PreMatch.SB_UI_SBM_PreMatch_48Num_20" gameflag="5 9"/>
+	<Sprite file="SuperBingo_Match/Prematch_48Num_21.png" name="Root.SuperBingo_Match.PreMatch.SB_UI_SBM_PreMatch_48Num_21" gameflag="5 9"/>
+	<Sprite file="SuperBingo_Match/Prematch_48Num_22.png" name="Root.SuperBingo_Match.PreMatch.SB_UI_SBM_PreMatch_48Num_22" gameflag="5 9"/>
+	<Sprite file="SuperBingo_Match/Prematch_48Num_23.png" name="Root.SuperBingo_Match.PreMatch.SB_UI_SBM_PreMatch_48Num_23" gameflag="5 9"/>
+	<Sprite file="SuperBingo_Match/Prematch_48Num_24.png" name="Root.SuperBingo_Match.PreMatch.SB_UI_SBM_PreMatch_48Num_24" gameflag="5 9"/>
+	<Sprite file="SuperBingo_Match/Prematch_48Num_25.png" name="Root.SuperBingo_Match.PreMatch.SB_UI_SBM_PreMatch_48Num_25" gameflag="5 9"/>
+	<Sprite file="SuperBingo_Match/Prematch_48Num_26.png" name="Root.SuperBingo_Match.PreMatch.SB_UI_SBM_PreMatch_48Num_26" gameflag="5 9"/>
+	<Sprite file="SuperBingo_Match/Prematch_48Num_27.png" name="Root.SuperBingo_Match.PreMatch.SB_UI_SBM_PreMatch_48Num_27" gameflag="5 9"/>
+	<Sprite file="SuperBingo_Match/Prematch_48Num_28.png" name="Root.SuperBingo_Match.PreMatch.SB_UI_SBM_PreMatch_48Num_28" gameflag="5 9"/>
+	<Sprite file="SuperBingo_Match/Prematch_48Num_29.png" name="Root.SuperBingo_Match.PreMatch.SB_UI_SBM_PreMatch_48Num_29" gameflag="5 9"/>
+	<Sprite file="SuperBingo_Match/Prematch_48Num_30.png" name="Root.SuperBingo_Match.PreMatch.SB_UI_SBM_PreMatch_48Num_30" gameflag="5 9"/>
+	<Sprite file="SuperBingo_Match/Prematch_48Num_31.png" name="Root.SuperBingo_Match.PreMatch.SB_UI_SBM_PreMatch_48Num_31" gameflag="5 9"/>
+	<Sprite file="SuperBingo_Match/Prematch_48Num_32.png" name="Root.SuperBingo_Match.PreMatch.SB_UI_SBM_PreMatch_48Num_32" gameflag="5 9"/>
+	<Sprite file="SuperBingo_Match/Prematch_48Num_33.png" name="Root.SuperBingo_Match.PreMatch.SB_UI_SBM_PreMatch_48Num_33" gameflag="5 9"/>
+	<Sprite file="SuperBingo_Match/Prematch_48Num_34.png" name="Root.SuperBingo_Match.PreMatch.SB_UI_SBM_PreMatch_48Num_34" gameflag="5 9"/>
+	<Sprite file="SuperBingo_Match/Prematch_48Num_35.png" name="Root.SuperBingo_Match.PreMatch.SB_UI_SBM_PreMatch_48Num_35" gameflag="5 9"/>
+	<Sprite file="SuperBingo_Match/Prematch_48Num_36.png" name="Root.SuperBingo_Match.PreMatch.SB_UI_SBM_PreMatch_48Num_36" gameflag="5 9"/>
+	<Sprite file="SuperBingo_Match/Prematch_48Num_37.png" name="Root.SuperBingo_Match.PreMatch.SB_UI_SBM_PreMatch_48Num_37" gameflag="5 9"/>
+	<Sprite file="SuperBingo_Match/Prematch_48Num_38.png" name="Root.SuperBingo_Match.PreMatch.SB_UI_SBM_PreMatch_48Num_38" gameflag="5 9"/>
+	<Sprite file="SuperBingo_Match/Prematch_48Num_39.png" name="Root.SuperBingo_Match.PreMatch.SB_UI_SBM_PreMatch_48Num_39" gameflag="5 9"/>
+	<Sprite file="SuperBingo_Match/Prematch_48Num_40.png" name="Root.SuperBingo_Match.PreMatch.SB_UI_SBM_PreMatch_48Num_40" gameflag="5 9"/>
+	<Sprite file="SuperBingo_Match/Prematch_48Num_41.png" name="Root.SuperBingo_Match.PreMatch.SB_UI_SBM_PreMatch_48Num_41" gameflag="5 9"/>
+	<Sprite file="SuperBingo_Match/Prematch_48Num_42.png" name="Root.SuperBingo_Match.PreMatch.SB_UI_SBM_PreMatch_48Num_42" gameflag="5 9"/>
+	<Sprite file="SuperBingo_Match/Prematch_48Num_43.png" name="Root.SuperBingo_Match.PreMatch.SB_UI_SBM_PreMatch_48Num_43" gameflag="5 9"/>
+	<Sprite file="SuperBingo_Match/Prematch_48Num_44.png" name="Root.SuperBingo_Match.PreMatch.SB_UI_SBM_PreMatch_48Num_44" gameflag="5 9"/>
+	<Sprite file="SuperBingo_Match/Prematch_48Num_45.png" name="Root.SuperBingo_Match.PreMatch.SB_UI_SBM_PreMatch_48Num_45" gameflag="5 9"/>
+	<Sprite file="SuperBingo_Match/Prematch_48Num_46.png" name="Root.SuperBingo_Match.PreMatch.SB_UI_SBM_PreMatch_48Num_46" gameflag="5 9"/>
+	<Sprite file="SuperBingo_Match/Prematch_48Num_47.png" name="Root.SuperBingo_Match.PreMatch.SB_UI_SBM_PreMatch_48Num_47" gameflag="5 9"/>
+	<Sprite file="SuperBingo_Match/Prematch_48Num_48.png" name="Root.SuperBingo_Match.PreMatch.SB_UI_SBM_PreMatch_48Num_48" gameflag="5 9"/>
+	<Sprite file="SuperBingo_Match/Prematch_75Num_01.png" name="Root.SuperBingo_Match.PreMatch.SB_UI_SBM_PreMatch_75Num_01" gameflag="5 9"/>
+	<Sprite file="SuperBingo_Match/Prematch_75Num_02.png" name="Root.SuperBingo_Match.PreMatch.SB_UI_SBM_PreMatch_75Num_02" gameflag="5 9"/>
+	<Sprite file="SuperBingo_Match/Prematch_75Num_03.png" name="Root.SuperBingo_Match.PreMatch.SB_UI_SBM_PreMatch_75Num_03" gameflag="5 9"/>
+	<Sprite file="SuperBingo_Match/Prematch_75Num_04.png" name="Root.SuperBingo_Match.PreMatch.SB_UI_SBM_PreMatch_75Num_04" gameflag="5 9"/>
+	<Sprite file="SuperBingo_Match/Prematch_75Num_05.png" name="Root.SuperBingo_Match.PreMatch.SB_UI_SBM_PreMatch_75Num_05" gameflag="5 9"/>
+	<Sprite file="SuperBingo_Match/Prematch_75Num_06.png" name="Root.SuperBingo_Match.PreMatch.SB_UI_SBM_PreMatch_75Num_06" gameflag="5 9"/>
+	<Sprite file="SuperBingo_Match/Prematch_75Num_07.png" name="Root.SuperBingo_Match.PreMatch.SB_UI_SBM_PreMatch_75Num_07" gameflag="5 9"/>
+	<Sprite file="SuperBingo_Match/Prematch_75Num_08.png" name="Root.SuperBingo_Match.PreMatch.SB_UI_SBM_PreMatch_75Num_08" gameflag="5 9"/>
+	<Sprite file="SuperBingo_Match/Prematch_75Num_09.png" name="Root.SuperBingo_Match.PreMatch.SB_UI_SBM_PreMatch_75Num_09" gameflag="5 9"/>
+	<Sprite file="SuperBingo_Match/Prematch_75Num_10.png" name="Root.SuperBingo_Match.PreMatch.SB_UI_SBM_PreMatch_75Num_10" gameflag="5 9"/>
+	<Sprite file="SuperBingo_Match/Prematch_75Num_11.png" name="Root.SuperBingo_Match.PreMatch.SB_UI_SBM_PreMatch_75Num_11" gameflag="5 9"/>
+	<Sprite file="SuperBingo_Match/Prematch_75Num_12.png" name="Root.SuperBingo_Match.PreMatch.SB_UI_SBM_PreMatch_75Num_12" gameflag="5 9"/>
+	<Sprite file="SuperBingo_Match/Prematch_75Num_13.png" name="Root.SuperBingo_Match.PreMatch.SB_UI_SBM_PreMatch_75Num_13" gameflag="5 9"/>
+	<Sprite file="SuperBingo_Match/Prematch_75Num_14.png" name="Root.SuperBingo_Match.PreMatch.SB_UI_SBM_PreMatch_75Num_14" gameflag="5 9"/>
+	<Sprite file="SuperBingo_Match/Prematch_75Num_15.png" name="Root.SuperBingo_Match.PreMatch.SB_UI_SBM_PreMatch_75Num_15" gameflag="5 9"/>
+	<Sprite file="SuperBingo_Match/Prematch_75Num_16.png" name="Root.SuperBingo_Match.PreMatch.SB_UI_SBM_PreMatch_75Num_16" gameflag="5 9"/>
+	<Sprite file="SuperBingo_Match/Prematch_75Num_17.png" name="Root.SuperBingo_Match.PreMatch.SB_UI_SBM_PreMatch_75Num_17" gameflag="5 9"/>
+	<Sprite file="SuperBingo_Match/Prematch_75Num_18.png" name="Root.SuperBingo_Match.PreMatch.SB_UI_SBM_PreMatch_75Num_18" gameflag="5 9"/>
+	<Sprite file="SuperBingo_Match/Prematch_75Num_19.png" name="Root.SuperBingo_Match.PreMatch.SB_UI_SBM_PreMatch_75Num_19" gameflag="5 9"/>
+	<Sprite file="SuperBingo_Match/Prematch_75Num_20.png" name="Root.SuperBingo_Match.PreMatch.SB_UI_SBM_PreMatch_75Num_20" gameflag="5 9"/>
+	<Sprite file="SuperBingo_Match/Prematch_75Num_21.png" name="Root.SuperBingo_Match.PreMatch.SB_UI_SBM_PreMatch_75Num_21" gameflag="5 9"/>
+	<Sprite file="SuperBingo_Match/Prematch_75Num_22.png" name="Root.SuperBingo_Match.PreMatch.SB_UI_SBM_PreMatch_75Num_22" gameflag="5 9"/>
+	<Sprite file="SuperBingo_Match/Prematch_75Num_23.png" name="Root.SuperBingo_Match.PreMatch.SB_UI_SBM_PreMatch_75Num_23" gameflag="5 9"/>
+	<Sprite file="SuperBingo_Match/Prematch_75Num_24.png" name="Root.SuperBingo_Match.PreMatch.SB_UI_SBM_PreMatch_75Num_24" gameflag="5 9"/>
+	<Sprite file="SuperBingo_Match/Prematch_75Num_25.png" name="Root.SuperBingo_Match.PreMatch.SB_UI_SBM_PreMatch_75Num_25" gameflag="5 9"/>
+	<Sprite file="SuperBingo_Match/Prematch_75Num_26.png" name="Root.SuperBingo_Match.PreMatch.SB_UI_SBM_PreMatch_75Num_26" gameflag="5 9"/>
+	<Sprite file="SuperBingo_Match/Prematch_75Num_27.png" name="Root.SuperBingo_Match.PreMatch.SB_UI_SBM_PreMatch_75Num_27" gameflag="5 9"/>
+	<Sprite file="SuperBingo_Match/Prematch_75Num_28.png" name="Root.SuperBingo_Match.PreMatch.SB_UI_SBM_PreMatch_75Num_28" gameflag="5 9"/>
+	<Sprite file="SuperBingo_Match/Prematch_75Num_29.png" name="Root.SuperBingo_Match.PreMatch.SB_UI_SBM_PreMatch_75Num_29" gameflag="5 9"/>
+	<Sprite file="SuperBingo_Match/Prematch_75Num_30.png" name="Root.SuperBingo_Match.PreMatch.SB_UI_SBM_PreMatch_75Num_30" gameflag="5 9"/>
+	<Sprite file="SuperBingo_Match/Prematch_75Num_31.png" name="Root.SuperBingo_Match.PreMatch.SB_UI_SBM_PreMatch_75Num_31" gameflag="5 9"/>
+	<Sprite file="SuperBingo_Match/Prematch_75Num_32.png" name="Root.SuperBingo_Match.PreMatch.SB_UI_SBM_PreMatch_75Num_32" gameflag="5 9"/>
+	<Sprite file="SuperBingo_Match/Prematch_75Num_33.png" name="Root.SuperBingo_Match.PreMatch.SB_UI_SBM_PreMatch_75Num_33" gameflag="5 9"/>
+	<Sprite file="SuperBingo_Match/Prematch_75Num_34.png" name="Root.SuperBingo_Match.PreMatch.SB_UI_SBM_PreMatch_75Num_34" gameflag="5 9"/>
+	<Sprite file="SuperBingo_Match/Prematch_75Num_35.png" name="Root.SuperBingo_Match.PreMatch.SB_UI_SBM_PreMatch_75Num_35" gameflag="5 9"/>
+	<Sprite file="SuperBingo_Match/Prematch_75Num_36.png" name="Root.SuperBingo_Match.PreMatch.SB_UI_SBM_PreMatch_75Num_36" gameflag="5 9"/>
+	<Sprite file="SuperBingo_Match/Prematch_75Num_37.png" name="Root.SuperBingo_Match.PreMatch.SB_UI_SBM_PreMatch_75Num_37" gameflag="5 9"/>
+	<Sprite file="SuperBingo_Match/Prematch_75Num_38.png" name="Root.SuperBingo_Match.PreMatch.SB_UI_SBM_PreMatch_75Num_38" gameflag="5 9"/>
+	<Sprite file="SuperBingo_Match/Prematch_75Num_39.png" name="Root.SuperBingo_Match.PreMatch.SB_UI_SBM_PreMatch_75Num_39" gameflag="5 9"/>
+	<Sprite file="SuperBingo_Match/Prematch_75Num_40.png" name="Root.SuperBingo_Match.PreMatch.SB_UI_SBM_PreMatch_75Num_40" gameflag="5 9"/>
+	<Sprite file="SuperBingo_Match/Prematch_75Num_41.png" name="Root.SuperBingo_Match.PreMatch.SB_UI_SBM_PreMatch_75Num_41" gameflag="5 9"/>
+	<Sprite file="SuperBingo_Match/Prematch_75Num_42.png" name="Root.SuperBingo_Match.PreMatch.SB_UI_SBM_PreMatch_75Num_42" gameflag="5 9"/>
+	<Sprite file="SuperBingo_Match/Prematch_75Num_43.png" name="Root.SuperBingo_Match.PreMatch.SB_UI_SBM_PreMatch_75Num_43" gameflag="5 9"/>
+	<Sprite file="SuperBingo_Match/Prematch_75Num_44.png" name="Root.SuperBingo_Match.PreMatch.SB_UI_SBM_PreMatch_75Num_44" gameflag="5 9"/>
+	<Sprite file="SuperBingo_Match/Prematch_75Num_45.png" name="Root.SuperBingo_Match.PreMatch.SB_UI_SBM_PreMatch_75Num_45" gameflag="5 9"/>
+	<Sprite file="SuperBingo_Match/Prematch_75Num_46.png" name="Root.SuperBingo_Match.PreMatch.SB_UI_SBM_PreMatch_75Num_46" gameflag="5 9"/>
+	<Sprite file="SuperBingo_Match/Prematch_75Num_47.png" name="Root.SuperBingo_Match.PreMatch.SB_UI_SBM_PreMatch_75Num_47" gameflag="5 9"/>
+	<Sprite file="SuperBingo_Match/Prematch_75Num_48.png" name="Root.SuperBingo_Match.PreMatch.SB_UI_SBM_PreMatch_75Num_48" gameflag="5 9"/>
+	<Sprite file="SuperBingo_Match/Prematch_75Num_49.png" name="Root.SuperBingo_Match.PreMatch.SB_UI_SBM_PreMatch_75Num_49" gameflag="5 9"/>
+	<Sprite file="SuperBingo_Match/Prematch_75Num_50.png" name="Root.SuperBingo_Match.PreMatch.SB_UI_SBM_PreMatch_75Num_50" gameflag="5 9"/>
+	<Sprite file="SuperBingo_Match/Prematch_75Num_51.png" name="Root.SuperBingo_Match.PreMatch.SB_UI_SBM_PreMatch_75Num_51" gameflag="5 9"/>
+	<Sprite file="SuperBingo_Match/Prematch_75Num_52.png" name="Root.SuperBingo_Match.PreMatch.SB_UI_SBM_PreMatch_75Num_52" gameflag="5 9"/>
+	<Sprite file="SuperBingo_Match/Prematch_75Num_53.png" name="Root.SuperBingo_Match.PreMatch.SB_UI_SBM_PreMatch_75Num_53" gameflag="5 9"/>
+	<Sprite file="SuperBingo_Match/Prematch_75Num_54.png" name="Root.SuperBingo_Match.PreMatch.SB_UI_SBM_PreMatch_75Num_54" gameflag="5 9"/>
+	<Sprite file="SuperBingo_Match/Prematch_75Num_55.png" name="Root.SuperBingo_Match.PreMatch.SB_UI_SBM_PreMatch_75Num_55" gameflag="5 9"/>
+	<Sprite file="SuperBingo_Match/Prematch_75Num_56.png" name="Root.SuperBingo_Match.PreMatch.SB_UI_SBM_PreMatch_75Num_56" gameflag="5 9"/>
+	<Sprite file="SuperBingo_Match/Prematch_75Num_57.png" name="Root.SuperBingo_Match.PreMatch.SB_UI_SBM_PreMatch_75Num_57" gameflag="5 9"/>
+	<Sprite file="SuperBingo_Match/Prematch_75Num_58.png" name="Root.SuperBingo_Match.PreMatch.SB_UI_SBM_PreMatch_75Num_58" gameflag="5 9"/>
+	<Sprite file="SuperBingo_Match/Prematch_75Num_59.png" name="Root.SuperBingo_Match.PreMatch.SB_UI_SBM_PreMatch_75Num_59" gameflag="5 9"/>
+	<Sprite file="SuperBingo_Match/Prematch_75Num_60.png" name="Root.SuperBingo_Match.PreMatch.SB_UI_SBM_PreMatch_75Num_60" gameflag="5 9"/>
+	<Sprite file="SuperBingo_Match/Prematch_75Num_61.png" name="Root.SuperBingo_Match.PreMatch.SB_UI_SBM_PreMatch_75Num_61" gameflag="5 9"/>
+	<Sprite file="SuperBingo_Match/Prematch_75Num_62.png" name="Root.SuperBingo_Match.PreMatch.SB_UI_SBM_PreMatch_75Num_62" gameflag="5 9"/>
+	<Sprite file="SuperBingo_Match/Prematch_75Num_63.png" name="Root.SuperBingo_Match.PreMatch.SB_UI_SBM_PreMatch_75Num_63" gameflag="5 9"/>
+	<Sprite file="SuperBingo_Match/Prematch_75Num_64.png" name="Root.SuperBingo_Match.PreMatch.SB_UI_SBM_PreMatch_75Num_64" gameflag="5 9"/>
+	<Sprite file="SuperBingo_Match/Prematch_75Num_65.png" name="Root.SuperBingo_Match.PreMatch.SB_UI_SBM_PreMatch_75Num_65" gameflag="5 9"/>
+	<Sprite file="SuperBingo_Match/Prematch_75Num_66.png" name="Root.SuperBingo_Match.PreMatch.SB_UI_SBM_PreMatch_75Num_66" gameflag="5 9"/>
+	<Sprite file="SuperBingo_Match/Prematch_75Num_67.png" name="Root.SuperBingo_Match.PreMatch.SB_UI_SBM_PreMatch_75Num_67" gameflag="5 9"/>
+	<Sprite file="SuperBingo_Match/Prematch_75Num_68.png" name="Root.SuperBingo_Match.PreMatch.SB_UI_SBM_PreMatch_75Num_68" gameflag="5 9"/>
+	<Sprite file="SuperBingo_Match/Prematch_75Num_69.png" name="Root.SuperBingo_Match.PreMatch.SB_UI_SBM_PreMatch_75Num_69" gameflag="5 9"/>
+	<Sprite file="SuperBingo_Match/Prematch_75Num_70.png" name="Root.SuperBingo_Match.PreMatch.SB_UI_SBM_PreMatch_75Num_70" gameflag="5 9"/>
+	<Sprite file="SuperBingo_Match/Prematch_75Num_71.png" name="Root.SuperBingo_Match.PreMatch.SB_UI_SBM_PreMatch_75Num_71" gameflag="5 9"/>
+	<Sprite file="SuperBingo_Match/Prematch_75Num_72.png" name="Root.SuperBingo_Match.PreMatch.SB_UI_SBM_PreMatch_75Num_72" gameflag="5 9"/>
+	<Sprite file="SuperBingo_Match/Prematch_75Num_73.png" name="Root.SuperBingo_Match.PreMatch.SB_UI_SBM_PreMatch_75Num_73" gameflag="5 9"/>
+	<Sprite file="SuperBingo_Match/Prematch_75Num_74.png" name="Root.SuperBingo_Match.PreMatch.SB_UI_SBM_PreMatch_75Num_74" gameflag="5 9"/>
+	<Sprite file="SuperBingo_Match/Prematch_75Num_75.png" name="Root.SuperBingo_Match.PreMatch.SB_UI_SBM_PreMatch_75Num_75" gameflag="5 9"/>
+	
+	<Sprite file="SuperBingo_Mystery/SB_UI_SBMy_Logo.png" name="Root.SuperBingo_Mystery.SB_UI_SBMy_Logo" gameflag="6"/>
+	<Sprite file="SuperBingo_Mystery/SB_UI_SBMy_BG.png" name="Root.SuperBingo_Mystery.SB_UI_SBMy_BG" gameflag="6"/>
+	
+	<Sprite file="SuperBingo_Progressive/SB_UI_SBPr_BG.png" name="Root.SuperBingo_Progressive.SB_UI_SBPr_BG" gameflag="9"/>
+	<Sprite file="SuperBingo_Progressive/SB_UI_SBPr_JackpotPanel_Local.png" name="Root.SuperBingo_Progressive.SB_UI_SBPr_JackpotPanel" gameflag="9"/>
+	<Sprite file="SuperBingo_Progressive/SB_UI_SBPr_Time.png" name="Root.SuperBingo_Progressive.SB_UI_SBPr_Time" gameflag="9"/>
+	<Sprite file="SuperBingo_Progressive/SB_UI_SBPr_Players.png" name="Root.SuperBingo_Progressive.SB_UI_SBPr_Players" gameflag="9"/>
+	<Sprite file="SuperBingo_Progressive/SB_UI_SBPr_BG_Local.png" name="Root.SuperBingo_Progressive.SB_UI_SBPr_BG_Local" gameflag="9"/>
+	<Sprite file="SuperBingo_Progressive/SB_UI_SBPrL_Logo.png" name="Root.SuperBingo_Progressive.SB_UI_SPrBL_Logo" gameflag="9"/>
+	<Sprite file="SuperBingo_Progressive/SB_UI_SBPrG_Logo.png" name="Root.SuperBingo_Progressive.SB_UI_SPrBG_Logo" gameflag="9"/>
+	
+	<Sprite file="SuperBingo_SelectPattern/SB_UI_SP_BG.png" name="Root.SuperBingo_SelectPattern.SB_UI_SP_BG"/>
+	<Sprite file="SuperBingo_SelectPattern/SB_UI_SP_Logo.png" name="Root.SuperBingo_SelectPattern.SB_UI_SP_Logo"/>
+	<Sprite file="SuperBingo_SelectPattern/SB_UI_SP_SYPText.png" name="Root.SuperBingo_SelectPattern.SB_UI_SP_SYPText"/>
+	<Sprite file="SuperBingo_FrontEnd/SelectPattern/SB_UI_Single_Label.png" name="Root.SuperBingo_SelectPattern.SingleBingo"/>
+	<Sprite file="SuperBingo_FrontEnd/SelectPattern/SB_UI_Double_Label.png" name="Root.SuperBingo_SelectPattern.DoubleBingo"/>
+	<Sprite file="SuperBingo_FrontEnd/SelectPattern/SB_UI_Triple_Label.png" name="Root.SuperBingo_SelectPattern.TripleBingo"/>
+	<Sprite file="SuperBingo_FrontEnd/SelectPattern/SB_UI_LetterU_Label.png" name="Root.SuperBingo_SelectPattern.LetterU"/>
+	<Sprite file="SuperBingo_FrontEnd/SelectPattern/SB_UI_LetterX_Label.png" name="Root.SuperBingo_SelectPattern.LetterX"/>
+	<Sprite file="SuperBingo_FrontEnd/SelectPattern/SB_UI_4Pack_Label.png" name="Root.SuperBingo_SelectPattern.FourPack"/>
+	<Sprite file="SuperBingo_FrontEnd/SelectPattern/SB_UI_6Pack_Label.png" name="Root.SuperBingo_SelectPattern.SixPack"/>
+	<Sprite file="SuperBingo_FrontEnd/SelectPattern/SB_UI_9Pack_Label.png" name="Root.SuperBingo_SelectPattern.NinePack"/>
+	<Sprite file="SuperBingo_FrontEnd/SelectPattern/SB_UI_Frame_Label.png" name="Root.SuperBingo_SelectPattern.Frame"/>
+	<Sprite file="SuperBingo_FrontEnd/SelectPattern/SB_UI_Coverall_Label.png" name="Root.SuperBingo_SelectPattern.Blackout"/>
+	<Sprite file="SuperBingo_FrontEnd/SelectPattern/SB_UI_Stairs_Label.png" name="Root.SuperBingo_SelectPattern.Stairs"/>
+	<Sprite file="SuperBingo_SelectPattern/SB_UI_SP_SYGText.png" name="Root.SuperBingo_SelectPattern.SB_UI_SP_SYGText"/>
+	<Sprite file="SuperBingo_SelectPattern/SB_UI_SP_SYBText.png" name="Root.SuperBingo_SelectPattern.SB_UI_SP_SYBText"/>
+	
+	<Sprite file="SuperBingo_Wild/SB_UI_SBW_Ball_Card.png" name="Root.SuperBingo_Wild.SB_UI_SBW_Card" gameflag="2 6"/>
+	<Sprite file="SuperBingo_Wild/SB_UI_SBW_BG.png" name="Root.SuperBingo_Wild.SB_UI_SBW_BG" gameflag="2"/>
+	<Sprite file="SuperBingo_Wild/SB_UI_SBW_Logo.png" name="Root.SuperBingo_Wild.SB_UI_SBW_Logo" gameflag="2"/>
+	<Sprite file="SuperBingo_Wild/SB_UI_SBW_WildBall.png" name="Root.SuperBingo_Wild.SB_UI_SBW_WildBall" gameflag="2 6"/>
+	
+	<Sprite file="HelpMenu/super_bingo_logo_help.png" name="Root.HelpMenu.SuperBingoLogo"/>
+	<Sprite file="HelpMenu/ErnieHelp.png" name="Root.HelpMenu.ErnieHelp"/>
+	<Sprite file="HelpMenu/superBingoReturnToGame.png" name="Root.HelpMenu.SB_ReturntoGame"/>
+	<Sprite file="HelpMenu/TableCell.png" name="Root.HelpMenu.TableCell"/>
+	<Sprite file="HelpMenu/TableCellPattern.png" name="Root.HelpMenu.TableCellPattern"/>
+	<Sprite file="HelpMenu/HelpMenu_Background.png" name="Root.HelpMenu.HelpMenu_Background"/>
+	<Sprite file="HelpMenu/Progressive.png" name="Root.HelpMenu.Progressive" gameflag="9"/>
+	
+	<Sprite name="Root.Animations.GoldCoin_WinHorz" framerate="30" framecount="31" width="128" height="128" gameflag="0">
+		<Image file="SuperBingo_Gold/CoinAni/superBingo_coinSpin01_0000.png"/>
+		<Image file="SuperBingo_Gold/CoinAni/superBingo_coinSpin01_0001.png"/>
+		<Image file="SuperBingo_Gold/CoinAni/superBingo_coinSpin01_0002.png"/>
+		<Image file="SuperBingo_Gold/CoinAni/superBingo_coinSpin01_0003.png"/>
+		<Image file="SuperBingo_Gold/CoinAni/superBingo_coinSpin01_0004.png"/>
+		<Image file="SuperBingo_Gold/CoinAni/superBingo_coinSpin01_0005.png"/>
+		<Image file="SuperBingo_Gold/CoinAni/superBingo_coinSpin01_0006.png"/>
+		<Image file="SuperBingo_Gold/CoinAni/superBingo_coinSpin01_0007.png"/>
+		<Image file="SuperBingo_Gold/CoinAni/superBingo_coinSpin01_0008.png"/>
+		<Image file="SuperBingo_Gold/CoinAni/superBingo_coinSpin01_0009.png"/>
+		<Image file="SuperBingo_Gold/CoinAni/superBingo_coinSpin01_0010.png"/>
+		<Image file="SuperBingo_Gold/CoinAni/superBingo_coinSpin01_0011.png"/>
+		<Image file="SuperBingo_Gold/CoinAni/superBingo_coinSpin01_0012.png"/>
+		<Image file="SuperBingo_Gold/CoinAni/superBingo_coinSpin01_0013.png"/>
+		<Image file="SuperBingo_Gold/CoinAni/superBingo_coinSpin01_0014.png"/>
+		<Image file="SuperBingo_Gold/CoinAni/superBingo_coinSpin01_0015.png"/>
+		<Image file="SuperBingo_Gold/CoinAni/superBingo_coinSpin01_0016.png"/>
+		<Image file="SuperBingo_Gold/CoinAni/superBingo_coinSpin01_0017.png"/>
+		<Image file="SuperBingo_Gold/CoinAni/superBingo_coinSpin01_0018.png"/>
+		<Image file="SuperBingo_Gold/CoinAni/superBingo_coinSpin01_0019.png"/>
+		<Image file="SuperBingo_Gold/CoinAni/superBingo_coinSpin01_0020.png"/>
+		<Image file="SuperBingo_Gold/CoinAni/superBingo_coinSpin01_0021.png"/>
+		<Image file="SuperBingo_Gold/CoinAni/superBingo_coinSpin01_0022.png"/>
+		<Image file="SuperBingo_Gold/CoinAni/superBingo_coinSpin01_0023.png"/>
+		<Image file="SuperBingo_Gold/CoinAni/superBingo_coinSpin01_0024.png"/>
+		<Image file="SuperBingo_Gold/CoinAni/superBingo_coinSpin01_0025.png"/>
+		<Image file="SuperBingo_Gold/CoinAni/superBingo_coinSpin01_0026.png"/>
+		<Image file="SuperBingo_Gold/CoinAni/superBingo_coinSpin01_0027.png"/>
+		<Image file="SuperBingo_Gold/CoinAni/superBingo_coinSpin01_0028.png"/>
+		<Image file="SuperBingo_Gold/CoinAni/superBingo_coinSpin01_0029.png"/>
+		<Image file="SuperBingo_Gold/CoinAni/superBingo_coinSpin01_0030.png"/>
+	</Sprite>
+	
+	<Sprite name="Root.Animations.GoldCoin_FallVert" framerate="30" framecount="16" width="128" height="128" gameflag="0">
+		<Image file="SuperBingo_Gold/CoinAni_2/superBingo_coinSpin02_0000.png"/>
+		<Image file="SuperBingo_Gold/CoinAni_2/superBingo_coinSpin02_0001.png"/>
+		<Image file="SuperBingo_Gold/CoinAni_2/superBingo_coinSpin02_0002.png"/>
+		<Image file="SuperBingo_Gold/CoinAni_2/superBingo_coinSpin02_0003.png"/>
+		<Image file="SuperBingo_Gold/CoinAni_2/superBingo_coinSpin02_0004.png"/>
+		<Image file="SuperBingo_Gold/CoinAni_2/superBingo_coinSpin02_0005.png"/>
+		<Image file="SuperBingo_Gold/CoinAni_2/superBingo_coinSpin02_0006.png"/>
+		<Image file="SuperBingo_Gold/CoinAni_2/superBingo_coinSpin02_0007.png"/>
+		<Image file="SuperBingo_Gold/CoinAni_2/superBingo_coinSpin02_0008.png"/>
+		<Image file="SuperBingo_Gold/CoinAni_2/superBingo_coinSpin02_0009.png"/>
+		<Image file="SuperBingo_Gold/CoinAni_2/superBingo_coinSpin02_0010.png"/>
+		<Image file="SuperBingo_Gold/CoinAni_2/superBingo_coinSpin02_0011.png"/>
+		<Image file="SuperBingo_Gold/CoinAni_2/superBingo_coinSpin02_0012.png"/>
+		<Image file="SuperBingo_Gold/CoinAni_2/superBingo_coinSpin02_0013.png"/>
+		<Image file="SuperBingo_Gold/CoinAni_2/superBingo_coinSpin02_0014.png"/>
+		<Image file="SuperBingo_Gold/CoinAni_2/superBingo_coinSpin02_0015.png"/>
+	</Sprite>
+	
+	<Sprite name="Root.Animations.GoldMiner_Idle" framerate="8" framecount="18" width="512" height="512" gameflag="0">
+		<Image file="SuperBingo_Gold/MinerBlink/MinerBlink0003.png"/>
+		<Image file="SuperBingo_Gold/MinerBlink/MinerBlink0007.png"/>
+		<Image file="SuperBingo_Gold/MinerBlink/MinerBlink0011.png"/>
+		<Image file="SuperBingo_Gold/MinerBlink/MinerBlink0015.png"/>
+		<Image file="SuperBingo_Gold/MinerBlink/MinerBlink0019.png"/>
+		<Image file="SuperBingo_Gold/MinerBlink/MinerBlink0023.png"/>
+		<Image file="SuperBingo_Gold/MinerBlink/MinerBlink0027.png"/>
+		<Image file="SuperBingo_Gold/MinerBlink/MinerBlink0031.png"/>
+		<Image file="SuperBingo_Gold/MinerBlink/MinerBlink0035.png"/>
+		<Image file="SuperBingo_Gold/MinerBlink/MinerBlink0039.png"/>
+		<Image file="SuperBingo_Gold/MinerBlink/MinerBlink0043.png"/>
+		<Image file="SuperBingo_Gold/MinerBlink/MinerBlink0047.png"/>
+		<Image file="SuperBingo_Gold/MinerBlink/MinerBlink0051.png"/>
+		<Image file="SuperBingo_Gold/MinerBlink/MinerBlink0055.png"/>
+		<Image file="SuperBingo_Gold/MinerBlink/MinerBlink0059.png"/>
+		<Image file="SuperBingo_Gold/MinerBlink/MinerBlink0063.png"/>
+		<Image file="SuperBingo_Gold/MinerBlink/MinerBlink0067.png"/>
+		<Image file="SuperBingo_Gold/MinerBlink/MinerBlink0071.png"/>
+	</Sprite>
+	
+	<Sprite name="Root.Animations.GoldMiner_Throw" framerate="12" framecount="18" width="512" height="1024" gameflag="0">
+		<Image file="SuperBingo_Gold/MinerThrow/MinerThrow0001.png"/>
+		<Image file="SuperBingo_Gold/MinerThrow/MinerThrow0005.png"/>
+		<Image file="SuperBingo_Gold/MinerThrow/MinerThrow0009.png"/>
+		<Image file="SuperBingo_Gold/MinerThrow/MinerThrow0013.png"/>
+		<Image file="SuperBingo_Gold/MinerThrow/MinerThrow0017.png"/>
+		<Image file="SuperBingo_Gold/MinerThrow/MinerThrow0021.png"/>
+		<Image file="SuperBingo_Gold/MinerThrow/MinerThrow0025.png"/>
+		<Image file="SuperBingo_Gold/MinerThrow/MinerThrow0029.png"/>
+		<Image file="SuperBingo_Gold/MinerThrow/MinerThrow0033.png"/>
+		<Image file="SuperBingo_Gold/MinerThrow/MinerThrow0037.png"/>
+		<Image file="SuperBingo_Gold/MinerThrow/MinerThrow0041.png"/>
+		<Image file="SuperBingo_Gold/MinerThrow/MinerThrow0045.png"/>
+		<Image file="SuperBingo_Gold/MinerThrow/MinerThrow0049.png"/>
+		<Image file="SuperBingo_Gold/MinerThrow/MinerThrow0053.png"/>
+		<Image file="SuperBingo_Gold/MinerThrow/MinerThrow0057.png"/>
+		<Image file="SuperBingo_Gold/MinerThrow/MinerThrow0061.png"/>
+		<Image file="SuperBingo_Gold/MinerThrow/MinerThrow0065.png"/>
+		<Image file="SuperBingo_Gold/MinerThrow/MinerThrow0065.png"/>
+	</Sprite>
+	
+	<Sprite name="Root.Animations.GoldMiner_Celebrate" framerate="12" framecount="25" width="512" height="512" gameflag="0">
+		<Image file="SuperBingo_Gold/MinerThumbsUp/MinerThumbsUp0003.png"/>
+		<Image file="SuperBingo_Gold/MinerThumbsUp/MinerThumbsUp0007.png"/>
+		<Image file="SuperBingo_Gold/MinerThumbsUp/MinerThumbsUp0011.png"/>
+		<Image file="SuperBingo_Gold/MinerThumbsUp/MinerThumbsUp0015.png"/>
+		<Image file="SuperBingo_Gold/MinerThumbsUp/MinerThumbsUp0019.png"/>
+		<Image file="SuperBingo_Gold/MinerThumbsUp/MinerThumbsUp0023.png"/>
+		<Image file="SuperBingo_Gold/MinerThumbsUp/MinerThumbsUp0027.png"/>
+		<Image file="SuperBingo_Gold/MinerThumbsUp/MinerThumbsUp0031.png"/>
+		<Image file="SuperBingo_Gold/MinerThumbsUp/MinerThumbsUp0035.png"/>
+		<Image file="SuperBingo_Gold/MinerThumbsUp/MinerThumbsUp0039.png"/>
+		<Image file="SuperBingo_Gold/MinerThumbsUp/MinerThumbsUp0043.png"/>
+		<Image file="SuperBingo_Gold/MinerThumbsUp/MinerThumbsUp0047.png"/>
+		<Image file="SuperBingo_Gold/MinerThumbsUp/MinerThumbsUp0051.png"/>
+		<Image file="SuperBingo_Gold/MinerThumbsUp/MinerThumbsUp0055.png"/>
+		<Image file="SuperBingo_Gold/MinerThumbsUp/MinerThumbsUp0059.png"/>
+		<Image file="SuperBingo_Gold/MinerThumbsUp/MinerThumbsUp0063.png"/>
+		<Image file="SuperBingo_Gold/MinerThumbsUp/MinerThumbsUp0063.png"/>
+		<Image file="SuperBingo_Gold/MinerThumbsUp/MinerThumbsUp0063.png"/>
+		<Image file="SuperBingo_Gold/MinerThumbsUp/MinerThumbsUp0063.png"/>
+		<Image file="SuperBingo_Gold/MinerThumbsUp/MinerThumbsUp0063.png"/>
+		<Image file="SuperBingo_Gold/MinerThumbsUp/MinerThumbsUp0063.png"/>
+		<Image file="SuperBingo_Gold/MinerThumbsUp/MinerThumbsUp0063.png"/>
+		<Image file="SuperBingo_Gold/MinerThumbsUp/MinerThumbsUp0063.png"/>
+		<Image file="SuperBingo_Gold/MinerThumbsUp/MinerThumbsUp0063.png"/>
+		<Image file="SuperBingo_Gold/MinerThumbsUp/MinerThumbsUp0063.png"/>
+	</Sprite>
+	
+	<Sprite name="Root.Animations.GoldMiner_Laugh" framerate="9" framecount="22" gameflag="0" width="512" height="512" memoryflag="true">
+		<Image file="SuperBingo_Gold/MinerLaugh/MinerLaugh01.png"/>
+		<Image file="SuperBingo_Gold/MinerLaugh/MinerLaugh04.png"/>
+		<Image file="SuperBingo_Gold/MinerLaugh/MinerLaugh07.png"/>
+		<Image file="SuperBingo_Gold/MinerLaugh/MinerLaugh10.png"/>
+		<Image file="SuperBingo_Gold/MinerLaugh/MinerLaugh13.png"/>
+		<Image file="SuperBingo_Gold/MinerLaugh/MinerLaugh16.png"/>
+		<Image file="SuperBingo_Gold/MinerLaugh/MinerLaugh19.png"/>
+		<Image file="SuperBingo_Gold/MinerLaugh/MinerLaugh22.png"/>
+		<Image file="SuperBingo_Gold/MinerLaugh/MinerLaugh25.png"/>
+		<Image file="SuperBingo_Gold/MinerLaugh/MinerLaugh28.png"/>
+		<Image file="SuperBingo_Gold/MinerLaugh/MinerLaugh31.png"/>
+		<Image file="SuperBingo_Gold/MinerLaugh/MinerLaugh34.png"/>
+		<Image file="SuperBingo_Gold/MinerLaugh/MinerLaugh37.png"/>
+		<Image file="SuperBingo_Gold/MinerLaugh/MinerLaugh40.png"/>
+		<Image file="SuperBingo_Gold/MinerLaugh/MinerLaugh43.png"/>
+		<Image file="SuperBingo_Gold/MinerLaugh/MinerLaugh46.png"/>
+		<Image file="SuperBingo_Gold/MinerLaugh/MinerLaugh49.png"/>
+		<Image file="SuperBingo_Gold/MinerLaugh/MinerLaugh52.png"/>
+		<Image file="SuperBingo_Gold/MinerLaugh/MinerLaugh55.png"/>
+		<Image file="SuperBingo_Gold/MinerLaugh/MinerLaugh58.png"/>
+		<Image file="SuperBingo_Gold/MinerLaugh/MinerLaugh61.png"/>
+		<Image file="SuperBingo_Gold/MinerLaugh/MinerLaugh64.png"/>
+	</Sprite>
+	
+	<Sprite name="Root.Animations.Monkey_Idle" framerate="8" framecount="16" width="256" height="256" gameflag="2">
+		<Image file="SuperBingo_Wild/MonkeyBlink/MonkeyBlink0003.png"/>
+		<Image file="SuperBingo_Wild/MonkeyBlink/MonkeyBlink0007.png"/>
+		<Image file="SuperBingo_Wild/MonkeyBlink/MonkeyBlink0011.png"/>
+		<Image file="SuperBingo_Wild/MonkeyBlink/MonkeyBlink0015.png"/>
+		<Image file="SuperBingo_Wild/MonkeyBlink/MonkeyBlink0019.png"/>
+		<Image file="SuperBingo_Wild/MonkeyBlink/MonkeyBlink0023.png"/>
+		<Image file="SuperBingo_Wild/MonkeyBlink/MonkeyBlink0027.png"/>
+		<Image file="SuperBingo_Wild/MonkeyBlink/MonkeyBlink0031.png"/>
+		<Image file="SuperBingo_Wild/MonkeyBlink/MonkeyBlink0035.png"/>
+		<Image file="SuperBingo_Wild/MonkeyBlink/MonkeyBlink0039.png"/>
+		<Image file="SuperBingo_Wild/MonkeyBlink/MonkeyBlink0043.png"/>
+		<Image file="SuperBingo_Wild/MonkeyBlink/MonkeyBlink0047.png"/>
+		<Image file="SuperBingo_Wild/MonkeyBlink/MonkeyBlink0051.png"/>
+		<Image file="SuperBingo_Wild/MonkeyBlink/MonkeyBlink0051.png"/>
+		<Image file="SuperBingo_Wild/MonkeyBlink/MonkeyBlink0051.png"/>
+		<Image file="SuperBingo_Wild/MonkeyBlink/MonkeyBlink0051.png"/>
+	</Sprite>
+	
+	<Sprite name="Root.Animations.Monkey_Throw" framerate="12" framecount="16" width="512" height="1024" gameflag="2">
+		<Image file="SuperBingo_Wild/MonkeyThrowSlow/MonkeyThrowSlow0003.png"/>
+		<Image file="SuperBingo_Wild/MonkeyThrowSlow/MonkeyThrowSlow0007.png"/>
+		<Image file="SuperBingo_Wild/MonkeyThrowSlow/MonkeyThrowSlow0011.png"/>
+		<Image file="SuperBingo_Wild/MonkeyThrowSlow/MonkeyThrowSlow0015.png"/>
+		<Image file="SuperBingo_Wild/MonkeyThrowSlow/MonkeyThrowSlow0019.png"/>
+		<Image file="SuperBingo_Wild/MonkeyThrowSlow/MonkeyThrowSlow0023.png"/>
+		<Image file="SuperBingo_Wild/MonkeyThrowSlow/MonkeyThrowSlow0027.png"/>
+		<Image file="SuperBingo_Wild/MonkeyThrowSlow/MonkeyThrowSlow0031.png"/>
+		<Image file="SuperBingo_Wild/MonkeyThrowSlow/MonkeyThrowSlow0035.png"/>
+		<Image file="SuperBingo_Wild/MonkeyThrowSlow/MonkeyThrowSlow0039.png"/>
+		<Image file="SuperBingo_Wild/MonkeyThrowSlow/MonkeyThrowSlow0043.png"/>
+		<Image file="SuperBingo_Wild/MonkeyThrowSlow/MonkeyThrowSlow0047.png"/>
+		<Image file="SuperBingo_Wild/MonkeyThrowSlow/MonkeyThrowSlow0051.png"/>
+		<Image file="SuperBingo_Wild/MonkeyThrowSlow/MonkeyThrowSlow0055.png"/>
+		<Image file="SuperBingo_Wild/MonkeyThrowSlow/MonkeyThrowSlow0059.png"/>
+		<Image file="SuperBingo_Wild/MonkeyThrowSlow/MonkeyThrowSlow0063.png"/>
+	</Sprite>
+	
+	<Sprite name="Root.Animations.Monkey_Celebrate" framerate="8" framecount="30" width="512" height="512" gameflag="2">
+		<Image file="SuperBingo_Wild/MonkeyClap/MonkeyClap0003.png"/>
+		<Image file="SuperBingo_Wild/MonkeyClap/MonkeyClap0007.png"/>
+		<Image file="SuperBingo_Wild/MonkeyClap/MonkeyClap0011.png"/>
+		<Image file="SuperBingo_Wild/MonkeyClap/MonkeyClap0015.png"/>
+		<Image file="SuperBingo_Wild/MonkeyClap/MonkeyClap0019.png"/>
+		<Image file="SuperBingo_Wild/MonkeyClap/MonkeyClap0023.png"/>
+		<Image file="SuperBingo_Wild/MonkeyClap/MonkeyClap0027.png"/>
+		<Image file="SuperBingo_Wild/MonkeyClap/MonkeyClap0031.png"/>
+		<Image file="SuperBingo_Wild/MonkeyClap/MonkeyClap0035.png"/>
+		<Image file="SuperBingo_Wild/MonkeyClap/MonkeyClap0039.png"/>
+		<Image file="SuperBingo_Wild/MonkeyClap/MonkeyClap0043.png"/>
+		<Image file="SuperBingo_Wild/MonkeyClap/MonkeyClap0047.png"/>
+		<Image file="SuperBingo_Wild/MonkeyClap/MonkeyClap0051.png"/>
+		<Image file="SuperBingo_Wild/MonkeyClap/MonkeyClap0055.png"/>
+		<Image file="SuperBingo_Wild/MonkeyClap/MonkeyClap0059.png"/>
+		<Image file="SuperBingo_Wild/MonkeyClap/MonkeyClap0063.png"/>
+		<Image file="SuperBingo_Wild/MonkeyClap/MonkeyClap0067.png"/>
+		<Image file="SuperBingo_Wild/MonkeyClap/MonkeyClap0071.png"/>
+		<Image file="SuperBingo_Wild/MonkeyClap/MonkeyClap0071.png"/>
+		<Image file="SuperBingo_Wild/MonkeyClap/MonkeyClap0071.png"/>
+		<Image file="SuperBingo_Wild/MonkeyClap/MonkeyClap0071.png"/>
+		<Image file="SuperBingo_Wild/MonkeyClap/MonkeyClap0071.png"/>
+		<Image file="SuperBingo_Wild/MonkeyClap/MonkeyClap0071.png"/>
+		<Image file="SuperBingo_Wild/MonkeyClap/MonkeyClap0071.png"/>
+		<Image file="SuperBingo_Wild/MonkeyClap/MonkeyClap0071.png"/>
+		<Image file="SuperBingo_Wild/MonkeyClap/MonkeyClap0071.png"/>
+		<Image file="SuperBingo_Wild/MonkeyClap/MonkeyClap0071.png"/>
+		<Image file="SuperBingo_Wild/MonkeyClap/MonkeyClap0071.png"/>
+		<Image file="SuperBingo_Wild/MonkeyClap/MonkeyClap0071.png"/>
+		<Image file="SuperBingo_Wild/MonkeyClap/MonkeyClap0071.png"/>
+	</Sprite>
+	
+	<Sprite name="Root.Animations.Monkey_Laugh" framerate="12" framecount="20" gameflag="2" width="512" height="512" memoryflag="true">
+		<Image file="SuperBingo_Wild/MonkeyLaugh/MonkeyLaugh01.png"/>
+		<Image file="SuperBingo_Wild/MonkeyLaugh/MonkeyLaugh04.png"/>
+		<Image file="SuperBingo_Wild/MonkeyLaugh/MonkeyLaugh07.png"/>
+		<Image file="SuperBingo_Wild/MonkeyLaugh/MonkeyLaugh10.png"/>
+		<Image file="SuperBingo_Wild/MonkeyLaugh/MonkeyLaugh13.png"/>
+		<Image file="SuperBingo_Wild/MonkeyLaugh/MonkeyLaugh16.png"/>
+		<Image file="SuperBingo_Wild/MonkeyLaugh/MonkeyLaugh19.png"/>
+		<Image file="SuperBingo_Wild/MonkeyLaugh/MonkeyLaugh22.png"/>
+		<Image file="SuperBingo_Wild/MonkeyLaugh/MonkeyLaugh25.png"/>
+		<Image file="SuperBingo_Wild/MonkeyLaugh/MonkeyLaugh28.png"/>
+		<Image file="SuperBingo_Wild/MonkeyLaugh/MonkeyLaugh31.png"/>
+		<Image file="SuperBingo_Wild/MonkeyLaugh/MonkeyLaugh34.png"/>
+		<Image file="SuperBingo_Wild/MonkeyLaugh/MonkeyLaugh37.png"/>
+		<Image file="SuperBingo_Wild/MonkeyLaugh/MonkeyLaugh40.png"/>
+		<Image file="SuperBingo_Wild/MonkeyLaugh/MonkeyLaugh43.png"/>
+		<Image file="SuperBingo_Wild/MonkeyLaugh/MonkeyLaugh46.png"/>
+		<Image file="SuperBingo_Wild/MonkeyLaugh/MonkeyLaugh49.png"/>
+		<Image file="SuperBingo_Wild/MonkeyLaugh/MonkeyLaugh52.png"/>
+		<Image file="SuperBingo_Wild/MonkeyLaugh/MonkeyLaugh55.png"/>
+		<Image file="SuperBingo_Wild/MonkeyLaugh/MonkeyLaugh58.png"/>
+	</Sprite>
+	
+	<Sprite name="Root.Animations.Banker_Idle" framerate="6" framecount="14" width="256" height="512" gameflag="1">
+		<Image file="SuperBingo_Cash/BankerBlink1/BankerBlink0003.png"/>
+		<Image file="SuperBingo_Cash/BankerBlink1/BankerBlink0007.png"/>
+		<Image file="SuperBingo_Cash/BankerBlink1/BankerBlink0011.png"/>
+		<Image file="SuperBingo_Cash/BankerBlink1/BankerBlink0015.png"/>
+		<Image file="SuperBingo_Cash/BankerBlink1/BankerBlink0019.png"/>
+		<Image file="SuperBingo_Cash/BankerBlink1/BankerBlink0023.png"/>
+		<Image file="SuperBingo_Cash/BankerBlink1/BankerBlink0027.png"/>
+		<Image file="SuperBingo_Cash/BankerBlink1/BankerBlink0031.png"/>
+		<Image file="SuperBingo_Cash/BankerBlink1/BankerBlink0035.png"/>
+		<Image file="SuperBingo_Cash/BankerBlink1/BankerBlink0039.png"/>
+		<Image file="SuperBingo_Cash/BankerBlink1/BankerBlink0043.png"/>
+		<Image file="SuperBingo_Cash/BankerBlink1/BankerBlink0047.png"/>
+		<Image file="SuperBingo_Cash/BankerBlink1/BankerBlink0051.png"/>
+		<Image file="SuperBingo_Cash/BankerBlink1/BankerBlink0055.png"/>
+	</Sprite>
+	
+	<Sprite name="Root.Animations.Banker_Throw" framerate="11" framecount="10" width="512" height="1024" gameflag="1">
+		<Image file="SuperBingo_Cash/BankerThrow/BankerThrow0003.png"/>
+		<Image file="SuperBingo_Cash/BankerThrow/BankerThrow0007.png"/>
+		<Image file="SuperBingo_Cash/BankerThrow/BankerThrow0011.png"/>
+		<Image file="SuperBingo_Cash/BankerThrow/BankerThrow0015.png"/>
+		<Image file="SuperBingo_Cash/BankerThrow/BankerThrow0019.png"/>
+		<Image file="SuperBingo_Cash/BankerThrow/BankerThrow0023.png"/>
+		<Image file="SuperBingo_Cash/BankerThrow/BankerThrow0027.png"/>
+		<Image file="SuperBingo_Cash/BankerThrow/BankerThrow0031.png"/>
+		<Image file="SuperBingo_Cash/BankerThrow/BankerThrow0035.png"/>
+		<Image file="SuperBingo_Cash/BankerThrow/BankerThrow0039.png"/>
+	</Sprite>
+	
+	<Sprite name="Root.Animations.Banker_Celebrate" framerate="8" framecount="29" width="256" height="512" gameflag="1">
+		<Image file="SuperBingo_Cash/BankerClap/BankerClap0003.png"/>
+		<Image file="SuperBingo_Cash/BankerClap/BankerClap0007.png"/>
+		<Image file="SuperBingo_Cash/BankerClap/BankerClap0011.png"/>
+		<Image file="SuperBingo_Cash/BankerClap/BankerClap0015.png"/>
+		<Image file="SuperBingo_Cash/BankerClap/BankerClap0019.png"/>
+		<Image file="SuperBingo_Cash/BankerClap/BankerClap0023.png"/>
+		<Image file="SuperBingo_Cash/BankerClap/BankerClap0027.png"/>
+		<Image file="SuperBingo_Cash/BankerClap/BankerClap0031.png"/>
+		<Image file="SuperBingo_Cash/BankerClap/BankerClap0035.png"/>
+		<Image file="SuperBingo_Cash/BankerClap/BankerClap0039.png"/>
+		<Image file="SuperBingo_Cash/BankerClap/BankerClap0043.png"/>
+		<Image file="SuperBingo_Cash/BankerClap/BankerClap0047.png"/>
+		<Image file="SuperBingo_Cash/BankerClap/BankerClap0051.png"/>
+		<Image file="SuperBingo_Cash/BankerClap/BankerClap0055.png"/>
+		<Image file="SuperBingo_Cash/BankerClap/BankerClap0059.png"/>
+		<Image file="SuperBingo_Cash/BankerClap/BankerClap0063.png"/>
+		<Image file="SuperBingo_Cash/BankerClap/BankerClap0067.png"/>
+		<Image file="SuperBingo_Cash/BankerClap/BankerClap0067.png"/>
+		<Image file="SuperBingo_Cash/BankerClap/BankerClap0067.png"/>
+		<Image file="SuperBingo_Cash/BankerClap/BankerClap0067.png"/>
+		<Image file="SuperBingo_Cash/BankerClap/BankerClap0067.png"/>
+		<Image file="SuperBingo_Cash/BankerClap/BankerClap0067.png"/>
+		<Image file="SuperBingo_Cash/BankerClap/BankerClap0067.png"/>
+		<Image file="SuperBingo_Cash/BankerClap/BankerClap0067.png"/>
+		<Image file="SuperBingo_Cash/BankerClap/BankerClap0067.png"/>
+		<Image file="SuperBingo_Cash/BankerClap/BankerClap0067.png"/>
+		<Image file="SuperBingo_Cash/BankerClap/BankerClap0067.png"/>
+		<Image file="SuperBingo_Cash/BankerClap/BankerClap0067.png"/>
+		<Image file="SuperBingo_Cash/BankerClap/BankerClap0067.png"/>
+	</Sprite>
+	
+	<Sprite name="Root.Animations.Banker_Laugh" framerate="12" framecount="34" gameflag="1" width="256" height="512" memoryflag="true">
+		<Image file="SuperBingo_Cash/BankerLaugh/BankerLaugh001.png"/>
+		<Image file="SuperBingo_Cash/BankerLaugh/BankerLaugh004.png"/>
+		<Image file="SuperBingo_Cash/BankerLaugh/BankerLaugh007.png"/>
+		<Image file="SuperBingo_Cash/BankerLaugh/BankerLaugh010.png"/>
+		<Image file="SuperBingo_Cash/BankerLaugh/BankerLaugh013.png"/>
+		<Image file="SuperBingo_Cash/BankerLaugh/BankerLaugh016.png"/>
+		<Image file="SuperBingo_Cash/BankerLaugh/BankerLaugh019.png"/>
+		<Image file="SuperBingo_Cash/BankerLaugh/BankerLaugh022.png"/>
+		<Image file="SuperBingo_Cash/BankerLaugh/BankerLaugh025.png"/>
+		<Image file="SuperBingo_Cash/BankerLaugh/BankerLaugh028.png"/>
+		<Image file="SuperBingo_Cash/BankerLaugh/BankerLaugh031.png"/>
+		<Image file="SuperBingo_Cash/BankerLaugh/BankerLaugh034.png"/>
+		<Image file="SuperBingo_Cash/BankerLaugh/BankerLaugh037.png"/>
+		<Image file="SuperBingo_Cash/BankerLaugh/BankerLaugh040.png"/>
+		<Image file="SuperBingo_Cash/BankerLaugh/BankerLaugh043.png"/>
+		<Image file="SuperBingo_Cash/BankerLaugh/BankerLaugh046.png"/>
+		<Image file="SuperBingo_Cash/BankerLaugh/BankerLaugh049.png"/>
+		<Image file="SuperBingo_Cash/BankerLaugh/BankerLaugh052.png"/>
+		<Image file="SuperBingo_Cash/BankerLaugh/BankerLaugh055.png"/>
+		<Image file="SuperBingo_Cash/BankerLaugh/BankerLaugh058.png"/>
+		<Image file="SuperBingo_Cash/BankerLaugh/BankerLaugh061.png"/>
+		<Image file="SuperBingo_Cash/BankerLaugh/BankerLaugh064.png"/>
+		<Image file="SuperBingo_Cash/BankerLaugh/BankerLaugh067.png"/>
+		<Image file="SuperBingo_Cash/BankerLaugh/BankerLaugh070.png"/>
+		<Image file="SuperBingo_Cash/BankerLaugh/BankerLaugh073.png"/>
+		<Image file="SuperBingo_Cash/BankerLaugh/BankerLaugh076.png"/>
+		<Image file="SuperBingo_Cash/BankerLaugh/BankerLaugh079.png"/>
+		<Image file="SuperBingo_Cash/BankerLaugh/BankerLaugh082.png"/>
+		<Image file="SuperBingo_Cash/BankerLaugh/BankerLaugh085.png"/>
+		<Image file="SuperBingo_Cash/BankerLaugh/BankerLaugh088.png"/>
+		<Image file="SuperBingo_Cash/BankerLaugh/BankerLaugh091.png"/>
+		<Image file="SuperBingo_Cash/BankerLaugh/BankerLaugh094.png"/>
+		<Image file="SuperBingo_Cash/BankerLaugh/BankerLaugh097.png"/>
+		<Image file="SuperBingo_Cash/BankerLaugh/BankerLaugh100.png"/>
+	</Sprite>
+	
+	<Sprite name="Root.Animations.Ernie_Idle" framerate="8" framecount="11" width="256" height="256" gameflag="3">
+		<Image file="SuperBingo_Bonus/ErnieIdle1/Erie_Idle_10003.png"/>
+		<Image file="SuperBingo_Bonus/ErnieIdle1/Erie_Idle_10007.png"/>
+		<Image file="SuperBingo_Bonus/ErnieIdle1/Erie_Idle_10011.png"/>
+		<Image file="SuperBingo_Bonus/ErnieIdle1/Erie_Idle_10015.png"/>
+		<Image file="SuperBingo_Bonus/ErnieIdle1/Erie_Idle_10019.png"/>
+		<Image file="SuperBingo_Bonus/ErnieIdle1/Erie_Idle_10023.png"/>
+		<Image file="SuperBingo_Bonus/ErnieIdle1/Erie_Idle_10027.png"/>
+		<Image file="SuperBingo_Bonus/ErnieIdle1/Erie_Idle_10031.png"/>
+		<Image file="SuperBingo_Bonus/ErnieIdle1/Erie_Idle_10035.png"/>
+		<Image file="SuperBingo_Bonus/ErnieIdle1/Erie_Idle_10039.png"/>
+		<Image file="SuperBingo_Bonus/ErnieIdle1/Erie_Idle_10043.png"/>
+	</Sprite>
+	
+	<Sprite name="Root.Animations.Ernie_Throw" framerate="12" framecount="11" width="256" height="1024" gameflag="3">
+		<Image file="SuperBingo_Bonus/ErnieThrow/ErnieThrow0003.png"/>
+		<Image file="SuperBingo_Bonus/ErnieThrow/ErnieThrow0007.png"/>
+		<Image file="SuperBingo_Bonus/ErnieThrow/ErnieThrow0011.png"/>
+		<Image file="SuperBingo_Bonus/ErnieThrow/ErnieThrow0015.png"/>
+		<Image file="SuperBingo_Bonus/ErnieThrow/ErnieThrow0019.png"/>
+		<Image file="SuperBingo_Bonus/ErnieThrow/ErnieThrow0023.png"/>
+		<Image file="SuperBingo_Bonus/ErnieThrow/ErnieThrow0027.png"/>
+		<Image file="SuperBingo_Bonus/ErnieThrow/ErnieThrow0031.png"/>
+		<Image file="SuperBingo_Bonus/ErnieThrow/ErnieThrow0035.png"/>
+		<Image file="SuperBingo_Bonus/ErnieThrow/ErnieThrow0039.png"/>
+		<Image file="SuperBingo_Bonus/ErnieThrow/ErnieThrow0043.png"/>
+	</Sprite>
+	
+	<Sprite name="Root.Animations.Ernie_Celebrate" framerate="7" framecount="24" width="512" height="256" gameflag="3 9">
+		<Image file="SuperBingo_Bonus/ErnieDance/ErnieDance0003.png"/>
+		<Image file="SuperBingo_Bonus/ErnieDance/ErnieDance0007.png"/>
+		<Image file="SuperBingo_Bonus/ErnieDance/ErnieDance0011.png"/>
+		<Image file="SuperBingo_Bonus/ErnieDance/ErnieDance0015.png"/>
+		<Image file="SuperBingo_Bonus/ErnieDance/ErnieDance0019.png"/>
+		<Image file="SuperBingo_Bonus/ErnieDance/ErnieDance0023.png"/>
+		<Image file="SuperBingo_Bonus/ErnieDance/ErnieDance0027.png"/>
+		<Image file="SuperBingo_Bonus/ErnieDance/ErnieDance0031.png"/>
+		<Image file="SuperBingo_Bonus/ErnieDance/ErnieDance0035.png"/>
+		<Image file="SuperBingo_Bonus/ErnieDance/ErnieDance0039.png"/>
+		<Image file="SuperBingo_Bonus/ErnieDance/ErnieDance0043.png"/>
+		<Image file="SuperBingo_Bonus/ErnieDance/ErnieDance0047.png"/>
+		<Image file="SuperBingo_Bonus/ErnieDance/ErnieDance0051.png"/>
+		<Image file="SuperBingo_Bonus/ErnieDance/ErnieDance0055.png"/>
+		<Image file="SuperBingo_Bonus/ErnieDance/ErnieDance0059.png"/>
+		<Image file="SuperBingo_Bonus/ErnieDance/ErnieDance0059.png"/>
+		<Image file="SuperBingo_Bonus/ErnieDance/ErnieDance0003.png"/>
+		<Image file="SuperBingo_Bonus/ErnieDance/ErnieDance0003.png"/>
+		<Image file="SuperBingo_Bonus/ErnieDance/ErnieDance0003.png"/>
+		<Image file="SuperBingo_Bonus/ErnieDance/ErnieDance0003.png"/>
+		<Image file="SuperBingo_Bonus/ErnieDance/ErnieDance0003.png"/>
+		<Image file="SuperBingo_Bonus/ErnieDance/ErnieDance0003.png"/>
+		<Image file="SuperBingo_Bonus/ErnieDance/ErnieDance0003.png"/>
+		<Image file="SuperBingo_Bonus/ErnieDance/ErnieDance0003.png"/>
+	</Sprite>
+	
+	<Sprite name="Root.Animations.Ernie_Laugh" framerate="12" framecount="27" gameflag="3" width="256" height="256" memoryflag="true">
+		<Image file="SuperBingo_Bonus/ErnieLaugh/ErnieLaugh01.png"/>
+		<Image file="SuperBingo_Bonus/ErnieLaugh/ErnieLaugh04.png"/>
+		<Image file="SuperBingo_Bonus/ErnieLaugh/ErnieLaugh07.png"/>
+		<Image file="SuperBingo_Bonus/ErnieLaugh/ErnieLaugh10.png"/>
+		<Image file="SuperBingo_Bonus/ErnieLaugh/ErnieLaugh13.png"/>
+		<Image file="SuperBingo_Bonus/ErnieLaugh/ErnieLaugh16.png"/>
+		<Image file="SuperBingo_Bonus/ErnieLaugh/ErnieLaugh19.png"/>
+		<Image file="SuperBingo_Bonus/ErnieLaugh/ErnieLaugh22.png"/>
+		<Image file="SuperBingo_Bonus/ErnieLaugh/ErnieLaugh25.png"/>
+		<Image file="SuperBingo_Bonus/ErnieLaugh/ErnieLaugh28.png"/>
+		<Image file="SuperBingo_Bonus/ErnieLaugh/ErnieLaugh31.png"/>
+		<Image file="SuperBingo_Bonus/ErnieLaugh/ErnieLaugh34.png"/>
+		<Image file="SuperBingo_Bonus/ErnieLaugh/ErnieLaugh37.png"/>
+		<Image file="SuperBingo_Bonus/ErnieLaugh/ErnieLaugh40.png"/>
+		<Image file="SuperBingo_Bonus/ErnieLaugh/ErnieLaugh43.png"/>
+		<Image file="SuperBingo_Bonus/ErnieLaugh/ErnieLaugh46.png"/>
+		<Image file="SuperBingo_Bonus/ErnieLaugh/ErnieLaugh49.png"/>
+		<Image file="SuperBingo_Bonus/ErnieLaugh/ErnieLaugh52.png"/>
+		<Image file="SuperBingo_Bonus/ErnieLaugh/ErnieLaugh55.png"/>
+		<Image file="SuperBingo_Bonus/ErnieLaugh/ErnieLaugh58.png"/>
+		<Image file="SuperBingo_Bonus/ErnieLaugh/ErnieLaugh61.png"/>
+		<Image file="SuperBingo_Bonus/ErnieLaugh/ErnieLaugh64.png"/>
+		<Image file="SuperBingo_Bonus/ErnieLaugh/ErnieLaugh67.png"/>
+		<Image file="SuperBingo_Bonus/ErnieLaugh/ErnieLaugh70.png"/>
+		<Image file="SuperBingo_Bonus/ErnieLaugh/ErnieLaugh73.png"/>
+		<Image file="SuperBingo_Bonus/ErnieLaugh/ErnieLaugh76.png"/>
+		<Image file="SuperBingo_Bonus/ErnieLaugh/ErnieLaugh79.png"/>
+	</Sprite>
+	
+	<Sprite name="Root.Animations.Squiggy_Idle" framerate="7" framecount="8" width="256" height="256" gameflag="5">
+		<Image file="SuperBingo_Match/SquiggyIdle/SquiggyIdle0003.png"/>
+		<Image file="SuperBingo_Match/SquiggyIdle/SquiggyIdle0007.png"/>
+		<Image file="SuperBingo_Match/SquiggyIdle/SquiggyIdle0011.png"/>
+		<Image file="SuperBingo_Match/SquiggyIdle/SquiggyIdle0015.png"/>
+		<Image file="SuperBingo_Match/SquiggyIdle/SquiggyIdle0019.png"/>
+		<Image file="SuperBingo_Match/SquiggyIdle/SquiggyIdle0023.png"/>
+		<Image file="SuperBingo_Match/SquiggyIdle/SquiggyIdle0027.png"/>
+		<Image file="SuperBingo_Match/SquiggyIdle/SquiggyIdle0031.png"/>
+	</Sprite>
+	
+	<Sprite name="Root.Animations.Squiggy_Celebrate" framerate="5" framecount="15" width="256" height="256" gameflag="5">
+		<Image file="SuperBingo_Match/SquiggyThumbsUp/SquiggyThumbsUp0003.png"/>
+		<Image file="SuperBingo_Match/SquiggyThumbsUp/SquiggyThumbsUp0007.png"/>
+		<Image file="SuperBingo_Match/SquiggyThumbsUp/SquiggyThumbsUp0011.png"/>
+		<Image file="SuperBingo_Match/SquiggyThumbsUp/SquiggyThumbsUp0015.png"/>
+		<Image file="SuperBingo_Match/SquiggyThumbsUp/SquiggyThumbsUp0019.png"/>
+		<Image file="SuperBingo_Match/SquiggyThumbsUp/SquiggyThumbsUp0023.png"/>
+		<Image file="SuperBingo_Match/SquiggyThumbsUp/SquiggyThumbsUp0027.png"/>
+		<Image file="SuperBingo_Match/SquiggyThumbsUp/SquiggyThumbsUp0031.png"/>
+		<Image file="SuperBingo_Match/SquiggyThumbsUp/SquiggyThumbsUp0031.png"/>
+		<Image file="SuperBingo_Match/SquiggyThumbsUp/SquiggyThumbsUp0031.png"/>
+		<Image file="SuperBingo_Match/SquiggyThumbsUp/SquiggyThumbsUp0031.png"/>
+		<Image file="SuperBingo_Match/SquiggyThumbsUp/SquiggyThumbsUp0031.png"/>
+		<Image file="SuperBingo_Match/SquiggyThumbsUp/SquiggyThumbsUp0031.png"/>
+		<Image file="SuperBingo_Match/SquiggyThumbsUp/SquiggyThumbsUp0031.png"/>
+		<Image file="SuperBingo_Match/SquiggyThumbsUp/SquiggyThumbsUp0031.png"/>
+	</Sprite>
+	
+	<Sprite name="Root.Animations.Squiggy_Laugh" framerate="11" framecount="10" gameflag="5" width="256" height="256" memoryflag="true">
+		<Image file="SuperBingo_Match/SquiggyLaugh/SquiggyLaugh01.png"/>
+		<Image file="SuperBingo_Match/SquiggyLaugh/SquiggyLaugh04.png"/>
+		<Image file="SuperBingo_Match/SquiggyLaugh/SquiggyLaugh07.png"/>
+		<Image file="SuperBingo_Match/SquiggyLaugh/SquiggyLaugh10.png"/>
+		<Image file="SuperBingo_Match/SquiggyLaugh/SquiggyLaugh13.png"/>
+		<Image file="SuperBingo_Match/SquiggyLaugh/SquiggyLaugh16.png"/>
+		<Image file="SuperBingo_Match/SquiggyLaugh/SquiggyLaugh19.png"/>
+		<Image file="SuperBingo_Match/SquiggyLaugh/SquiggyLaugh22.png"/>
+		<Image file="SuperBingo_Match/SquiggyLaugh/SquiggyLaugh25.png"/>
+		<Image file="SuperBingo_Match/SquiggyLaugh/SquiggyLaugh28.png"/>
+	</Sprite>
+	
+	<Sprite name="Root.Animations.DollarBill_Idle" framerate="8" framecount="10" gameflag="6" width="256" height="512">
+		<Image file="SuperBingo_Mystery/DollarIdle/Idle_tapping_00.png"/>
+		<Image file="SuperBingo_Mystery/DollarIdle/Idle_tapping_03.png"/>
+		<Image file="SuperBingo_Mystery/DollarIdle/Idle_tapping_06.png"/>
+		<Image file="SuperBingo_Mystery/DollarIdle/Idle_tapping_09.png"/>
+		<Image file="SuperBingo_Mystery/DollarIdle/Idle_tapping_12.png"/>
+		<Image file="SuperBingo_Mystery/DollarIdle/Idle_tapping_15.png"/>
+		<Image file="SuperBingo_Mystery/DollarIdle/Idle_tapping_18.png"/>
+		<Image file="SuperBingo_Mystery/DollarIdle/Idle_tapping_21.png"/>
+		<Image file="SuperBingo_Mystery/DollarIdle/Idle_tapping_24.png"/>
+		<Image file="SuperBingo_Mystery/DollarIdle/Idle_tapping_27.png"/>
+	</Sprite>
+	
+	<Sprite name="Root.Animations.DollarBill_Celebrate" framerate="8" framecount="13" gameflag="6" width="256" height="512">
+		<Image file="SuperBingo_Mystery/DollarClap/Clapping_00.png"/>
+		<Image file="SuperBingo_Mystery/DollarClap/Clapping_03.png"/>
+		<Image file="SuperBingo_Mystery/DollarClap/Clapping_06.png"/>
+		<Image file="SuperBingo_Mystery/DollarClap/Clapping_09.png"/>
+		<Image file="SuperBingo_Mystery/DollarClap/Clapping_12.png"/>
+		<Image file="SuperBingo_Mystery/DollarClap/Clapping_15.png"/>
+		<Image file="SuperBingo_Mystery/DollarClap/Clapping_18.png"/>
+		<Image file="SuperBingo_Mystery/DollarClap/Clapping_21.png"/>
+		<Image file="SuperBingo_Mystery/DollarClap/Clapping_24.png"/>
+		<Image file="SuperBingo_Mystery/DollarClap/Clapping_27.png"/>
+		<Image file="SuperBingo_Mystery/DollarClap/Clapping_30.png"/>
+		<Image file="SuperBingo_Mystery/DollarClap/Clapping_33.png"/>
+		<Image file="SuperBingo_Mystery/DollarClap/Clapping_36.png"/>
+	</Sprite>
+	
+	<Sprite name="Root.Animations.DollarBill_Laugh" framerate="8" framecount="22" gameflag="6" width="256" height="512">
+		<Image file="SuperBingo_Mystery/DollarLaugh/BigLaugh_00.png"/>
+		<Image file="SuperBingo_Mystery/DollarLaugh/BigLaugh_03.png"/>
+		<Image file="SuperBingo_Mystery/DollarLaugh/BigLaugh_06.png"/>
+		<Image file="SuperBingo_Mystery/DollarLaugh/BigLaugh_09.png"/>
+		<Image file="SuperBingo_Mystery/DollarLaugh/BigLaugh_12.png"/>
+		<Image file="SuperBingo_Mystery/DollarLaugh/BigLaugh_15.png"/>
+		<Image file="SuperBingo_Mystery/DollarLaugh/BigLaugh_18.png"/>
+		<Image file="SuperBingo_Mystery/DollarLaugh/BigLaugh_21.png"/>
+		<Image file="SuperBingo_Mystery/DollarLaugh/BigLaugh_24.png"/>
+		<Image file="SuperBingo_Mystery/DollarLaugh/BigLaugh_27.png"/>
+		<Image file="SuperBingo_Mystery/DollarLaugh/BigLaugh_30.png"/>
+		<Image file="SuperBingo_Mystery/DollarLaugh/BigLaugh_33.png"/>
+		<Image file="SuperBingo_Mystery/DollarLaugh/BigLaugh_36.png"/>
+		<Image file="SuperBingo_Mystery/DollarLaugh/BigLaugh_39.png"/>
+		<Image file="SuperBingo_Mystery/DollarLaugh/BigLaugh_42.png"/>
+		<Image file="SuperBingo_Mystery/DollarLaugh/BigLaugh_45.png"/>
+		<Image file="SuperBingo_Mystery/DollarLaugh/BigLaugh_48.png"/>
+		<Image file="SuperBingo_Mystery/DollarLaugh/BigLaugh_51.png"/>
+		<Image file="SuperBingo_Mystery/DollarLaugh/BigLaugh_54.png"/>
+		<Image file="SuperBingo_Mystery/DollarLaugh/BigLaugh_57.png"/>
+		<Image file="SuperBingo_Mystery/DollarLaugh/BigLaugh_60.png"/>
+		<Image file="SuperBingo_Mystery/DollarLaugh/BigLaugh_63.png"/>
+	</Sprite>
+	
+	<Sprite name="Root.Animations.DollarBill_ThrowCash" framerate="7" framecount="8" gameflag="6" width="512" height="1024">
+		<Image file="SuperBingo_Mystery/DollarThrowCash/DollarThrowCash0003.png"/>
+		<Image file="SuperBingo_Mystery/DollarThrowCash/DollarThrowCash0007.png"/>
+		<Image file="SuperBingo_Mystery/DollarThrowCash/DollarThrowCash0011.png"/>
+		<Image file="SuperBingo_Mystery/DollarThrowCash/DollarThrowCash0015.png"/>
+		<Image file="SuperBingo_Mystery/DollarThrowCash/DollarThrowCash0019.png"/>
+		<Image file="SuperBingo_Mystery/DollarThrowCash/DollarThrowCash0023.png"/>
+		<Image file="SuperBingo_Mystery/DollarThrowCash/DollarThrowCash0027.png"/>
+		<Image file="SuperBingo_Mystery/DollarThrowCash/DollarThrowCash0031.png"/>
+	</Sprite>
+	
+	<Sprite name="Root.Animations.DollarBill_ThrowGold" framerate="7" framecount="8" gameflag="6" width="512" height="1024">
+		<Image file="SuperBingo_Mystery/DollarThrowGold/DollarThrowGold0003.png"/>
+		<Image file="SuperBingo_Mystery/DollarThrowGold/DollarThrowGold0007.png"/>
+		<Image file="SuperBingo_Mystery/DollarThrowGold/DollarThrowGold0011.png"/>
+		<Image file="SuperBingo_Mystery/DollarThrowGold/DollarThrowGold0015.png"/>
+		<Image file="SuperBingo_Mystery/DollarThrowGold/DollarThrowGold0019.png"/>
+		<Image file="SuperBingo_Mystery/DollarThrowGold/DollarThrowGold0023.png"/>
+		<Image file="SuperBingo_Mystery/DollarThrowGold/DollarThrowGold0027.png"/>
+		<Image file="SuperBingo_Mystery/DollarThrowGold/DollarThrowGold0031.png"/>
+	</Sprite>
+	
+	<Sprite name="Root.Animations.DollarBill_ThrowWild" framerate="7" framecount="8" gameflag="6" width="512" height="1024">
+		<Image file="SuperBingo_Mystery/DollarThrowWild/DollarThrowWild0003.png"/>
+		<Image file="SuperBingo_Mystery/DollarThrowWild/DollarThrowWild0007.png"/>
+		<Image file="SuperBingo_Mystery/DollarThrowWild/DollarThrowWild0011.png"/>
+		<Image file="SuperBingo_Mystery/DollarThrowWild/DollarThrowWild0015.png"/>
+		<Image file="SuperBingo_Mystery/DollarThrowWild/DollarThrowWild0019.png"/>
+		<Image file="SuperBingo_Mystery/DollarThrowWild/DollarThrowWild0023.png"/>
+		<Image file="SuperBingo_Mystery/DollarThrowWild/DollarThrowWild0027.png"/>
+		<Image file="SuperBingo_Mystery/DollarThrowWild/DollarThrowWild0031.png"/>
+	</Sprite>
+	
+	<Sprite name="Root.Animations.DollarBill_ThrowBonus" framerate="7" framecount="8" gameflag="6" width="512" height="1024">
+		<Image file="SuperBingo_Mystery/DollarThrowBonus/DollarThrowBonus0003.png"/>
+		<Image file="SuperBingo_Mystery/DollarThrowBonus/DollarThrowBonus0007.png"/>
+		<Image file="SuperBingo_Mystery/DollarThrowBonus/DollarThrowBonus0011.png"/>
+		<Image file="SuperBingo_Mystery/DollarThrowBonus/DollarThrowBonus0015.png"/>
+		<Image file="SuperBingo_Mystery/DollarThrowBonus/DollarThrowBonus0019.png"/>
+		<Image file="SuperBingo_Mystery/DollarThrowBonus/DollarThrowBonus0023.png"/>
+		<Image file="SuperBingo_Mystery/DollarThrowBonus/DollarThrowBonus0027.png"/>
+		<Image file="SuperBingo_Mystery/DollarThrowBonus/DollarThrowBonus0031.png"/>
+	</Sprite>
+</SpriteList>

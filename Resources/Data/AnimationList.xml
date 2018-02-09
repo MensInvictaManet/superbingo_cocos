@@ -1,0 +1,1293 @@
+<AnimationList>
+	<Animation name="Root.Animations.animated_c1">
+		<Keyframe t="0.000000" x="0567.25" y="0307.90" sx="-0.572000" sy="-0.572000" r="0" a="0.02"/>
+		<Keyframe t="1.600000" x="0476.90" y="0339.35" sx="-0.480000" sy="-0.480000" r="0" a="1.00"/>
+		<Keyframe t="8.300000" x="0098.45" y="0471.00" sx="-0.094000" sy="-0.094000" r="0" a="1.00"/>
+		<Keyframe t="9.933333" x="0008.00" y="0502.50" sx="-0.002000" sy="-0.002000" r="0" a="0.02"/>
+		<Keyframe t="9.933334" x="0000.00" y="0000.00" sx="00.000000" sy="00.000000" r="0" a="1.00"/>
+	</Animation>
+	<Animation name="Root.Animations.animated_c2">
+		<Keyframe t="0.000000" x="0707.00" y="0273.05" sx="-0.620000" sy="-0.620000" r="0" a="0.03"/>
+		<Keyframe t="1.633333" x="0801.70" y="0240.10" sx="-0.518000" sy="-0.518000" r="0" a="1.00"/>
+		<Keyframe t="8.300000" x="1190.35" y="0104.80" sx="-0.103000" sy="-0.103000" r="0" a="1.00"/>
+		<Keyframe t="10.00000" x="1287.05" y="0071.20" sx="00.000000" sy="00.000000" r="0" a="0.03"/>
+		<Keyframe t="19.13333" x="1287.05" y="0071.20" sx="00.000000" sy="00.000000" r="0" a="0.03"/>
+		<Keyframe t="19.13334" x="0000.00" y="0000.00" sx="00.000000" sy="00.000000" r="0" a="1.00"/>
+	</Animation>
+	<Animation name="Root.Animations.animated_c3">
+		<Keyframe t="0.000000" x="0579.10" y="0284.90" sx="-0.618000" sy="-0.618000" r="0" a="0.02"/>
+		<Keyframe t="1.600000" x="0485.25" y="0228.30" sx="-0.519000" sy="-0.519000" r="0" a="1.00"/>
+		<Keyframe t="8.300000" x="0092.00" y="-008.90" sx="-0.103000" sy="-0.103000" r="0" a="1.00"/>
+		<Keyframe t="9.933333" x="-003.85" y="-066.70" sx="-0.002000" sy="-0.002000" r="0" a="0.02"/>
+		<Keyframe t="9.933334" x="0000.00" y="0000.00" sx="00.000000" sy="00.000000" r="0" a="1.00"/>
+	</Animation>
+	<Animation name="Root.Animations.animated_c4">
+		<Keyframe t="0.000000" x="0606.95" y="0287.90" sx="-0.570000" sy="-0.570000" r="0" a="0.02"/>
+		<Keyframe t="1.333333" x="0643.00" y="0359.90" sx="-0.478000" sy="-0.478000" r="0" a="1.00"/>
+		<Keyframe t="6.566667" x="0784.25" y="0642.35" sx="-0.117000" sy="-0.117000" r="0" a="1.00"/>
+		<Keyframe t="8.233334" x="0829.25" y="0732.30" sx="-0.002000" sy="-0.002000" r="0" a="0.02"/>
+		<Keyframe t="8.233335" x="0000.00" y="0000.00" sx="00.000000" sy="00.000000" r="0" a="1.00"/>
+	</Animation>
+	<Animation name="Root.Animations.animated_c5">
+		<Keyframe t="0.000000" x="0651.05" y="0267.05" sx="-0.667000" sy="-0.667000" r="0" a="0.12"/>
+		<Keyframe t="1.633333" x="0675.55" y="0210.10" sx="-0.558000" sy="-0.558000" r="0" a="0.77"/>
+		<Keyframe t="1.766667" x="0677.55" y="0205.45" sx="-0.550000" sy="-0.550000" r="0" a="0.77"/>
+		<Keyframe t="9.966667" x="0800.70" y="-080.55" sx="-0.002000" sy="-0.002000" r="0" a="0.00"/>
+		<Keyframe t="9.966668" x="0000.00" y="0000.00" sx="00.000000" sy="00.000000" r="0" a="1.00"/>
+	</Animation>
+	<Animation name="Root.Animations.animated_c6">
+		<Keyframe t="0.000000" x="0583.65" y="0315.70" sx="-0.642000" sy="-0.642000" r="0" a="0.02"/>
+		<Keyframe t="1.333333" x="0529.55" y="0382.05" sx="-0.538000" sy="-0.538000" r="0" a="1.00"/>
+		<Keyframe t="6.566667" x="0317.10" y="0642.60" sx="-0.132000" sy="-0.132000" r="0" a="1.00"/>
+		<Keyframe t="8.233334" x="0249.35" y="0725.60" sx="-0.003000" sy="-0.003000" r="0" a="0.02"/>
+		<Keyframe t="8.233335" x="0000.00" y="0000.00" sx="00.000000" sy="00.000000" r="0" a="1.00"/>
+	</Animation>
+	<Animation name="Root.Animations.animated_c7">
+		<Keyframe t="0.000000" x="0547.00" y="0293.15" sx="-0.595000" sy="-0.595000" r="0" a="0.02"/>
+		<Keyframe t="1.600000" x="0450.25" y="0290.80" sx="-0.499000" sy="-0.499000" r="0" a="1.00"/>
+		<Keyframe t="5.900000" x="0190.25" y="0284.35" sx="-0.241000" sy="-0.241000" r="0" a="1.00"/>
+		<Keyframe t="7.400001" x="0099.50" y="0282.05" sx="-0.152000" sy="-0.152000" r="0" a="0.02"/>
+		<Keyframe t="7.400002" x="0000.00" y="0000.00" sx="00.000000" sy="00.000000" r="0" a="1.00"/>
+	</Animation>
+	<Animation name="Root.Animations.animated_c8">
+		<Keyframe t="0.000000" x="0657.95" y="0325.40" sx="-0.665000" sy="-0.665000" r="0" a="0.02"/>
+		<Keyframe t="1.766667" x="0759.35" y="0397.35" sx="-0.536000" sy="-0.536000" r="0" a="1.00"/>
+		<Keyframe t="7.433334" x="1084.55" y="0628.00" sx="-0.124000" sy="-0.124000" r="0" a="1.00"/>
+		<Keyframe t="9.100000" x="1180.20" y="0695.85" sx="-0.002000" sy="-0.002000" r="0" a="0.02"/>
+		<Keyframe t="9.100001" x="0000.00" y="0000.00" sx="00.000000" sy="00.000000" r="0" a="1.00"/>
+	</Animation>
+	<Animation name="Root.Animations.animated_c9">
+		<Keyframe t="0.000000" x="0592.30" y="0311.05" sx="-0.643000" sy="-0.643000" r="0" a="0.02"/>
+		<Keyframe t="1.600000" x="0507.30" y="0352.30" sx="-0.561000" sy="-0.561000" r="0" a="1.00"/>
+		<Keyframe t="10.93333" x="0011.60" y="0593.30" sx="-0.085000" sy="-0.085000" r="0" a="1.00"/>
+		<Keyframe t="12.56666" x="-075.10" y="0635.45" sx="-0.002000" sy="-0.002000" r="0" a="0.02"/>
+		<Keyframe t="12.56667" x="0000.00" y="0000.00" sx="00.000000" sy="00.000000" r="0" a="1.00"/>
+	</Animation>
+	<Animation name="Root.Animations.Button_Press_1">
+		<Keyframe t="0.0000000" x="0" y="0" sx="0.00" sy="0.00" r="0" a="1"/>
+		<Keyframe t="0.0160000" x="0" y="0" sx="0.00" sy="0.00" r="0" a="1"/>
+		<Keyframe t="0.1540931" x="0" y="0" sx="-0.3" sy="-0.3" r="0" a="1"/>
+		<Keyframe t="0.3057785" x="0" y="0" sx="0.00" sy="0.00" r="0" a="1"/>
+		<Keyframe t="0.6886035" x="0" y="0" sx="0.00" sy="0.00" r="0" a="1"/>
+	</Animation>
+	<Animation name="Root.Animations.Bingo_Board_Ball_Fall_3x3_1">
+		<Keyframe t="0.000000" x="0" y="-562" sx="0.55" sy="0.55" r="0" a="1"/>
+		<Keyframe t="1.600000" x="0" y="0000" sx="0.10" sy="0.10" r="0" a="1"/>
+		<Keyframe t="1.650000" x="0" y="-008" sx="0.00" sy="0.00" r="0" a="1"/>
+		<Keyframe t="1.850000" x="0" y="0000" sx="0.00" sy="0.00" r="0" a="1"/>
+	</Animation>
+	<Animation name="Root.Animations.Bingo_Board_Ball_Fall_3x3_2">
+		<Keyframe t="0.000000" x="0" y="-562" sx="0.55" sy="0.55" r="0" a="1"/>
+		<Keyframe t="1.600000" x="0" y="0000" sx="0.10" sy="0.10" r="0" a="1"/>
+		<Keyframe t="1.650000" x="0" y="-008" sx="0.00" sy="0.00" r="0" a="1"/>
+		<Keyframe t="1.850000" x="0" y="0000" sx="0.00" sy="0.00" r="0" a="1"/>
+	</Animation>
+	<Animation name="Root.Animations.Bingo_Board_Ball_Fall_3x3_3">
+		<Keyframe t="0.000000" x="0" y="-562" sx="0.55" sy="0.55" r="0" a="1"/>
+		<Keyframe t="1.600000" x="0" y="0000" sx="0.10" sy="0.10" r="0" a="1"/>
+		<Keyframe t="1.650000" x="0" y="-008" sx="0.00" sy="0.00" r="0" a="1"/>
+		<Keyframe t="1.850000" x="0" y="0000" sx="0.00" sy="0.00" r="0" a="1"/>
+	</Animation>
+	<Animation name="Root.Animations.Bingo_Board_Ball_Fall_3x3_4">
+		<Keyframe t="0.000000" x="0" y="-562" sx="0.55" sy="0.55" r="0" a="1"/>
+		<Keyframe t="1.600000" x="0" y="0000" sx="0.10" sy="0.10" r="0" a="1"/>
+		<Keyframe t="1.650000" x="0" y="-008" sx="0.00" sy="0.00" r="0" a="1"/>
+		<Keyframe t="1.850000" x="0" y="0000" sx="0.00" sy="0.00" r="0" a="1"/>
+	</Animation>
+	<Animation name="Root.Animations.Bingo_Board_Ball_Fall_3x3_5">
+		<Keyframe t="0.000000" x="0" y="-562" sx="0.55" sy="0.55" r="0" a="1"/>
+		<Keyframe t="1.600000" x="0" y="0000" sx="0.10" sy="0.10" r="0" a="1"/>
+		<Keyframe t="1.650000" x="0" y="-008" sx="0.00" sy="0.00" r="0" a="1"/>
+		<Keyframe t="1.850000" x="0" y="0000" sx="0.00" sy="0.00" r="0" a="1"/>
+	</Animation>
+	<Animation name="Root.Animations.Bingo_Board_Ball_Fall_3x3_6">
+		<Keyframe t="0.000000" x="0" y="-562" sx="0.55" sy="0.55" r="0" a="1"/>
+		<Keyframe t="1.600000" x="0" y="0000" sx="0.10" sy="0.10" r="0" a="1"/>
+		<Keyframe t="1.650000" x="0" y="-008" sx="0.00" sy="0.00" r="0" a="1"/>
+		<Keyframe t="1.850000" x="0" y="0000" sx="0.00" sy="0.00" r="0" a="1"/>
+	</Animation>
+	<Animation name="Root.Animations.Bingo_Board_Ball_Fall_3x3_7">
+		<Keyframe t="0.000000" x="0" y="-562" sx="0.55" sy="0.55" r="0" a="1"/>
+		<Keyframe t="1.600000" x="0" y="0000" sx="0.10" sy="0.10" r="0" a="1"/>
+		<Keyframe t="1.650000" x="0" y="-008" sx="0.00" sy="0.00" r="0" a="1"/>
+		<Keyframe t="1.850000" x="0" y="0000" sx="0.00" sy="0.00" r="0" a="1"/>
+	</Animation>
+	<Animation name="Root.Animations.Bingo_Board_Ball_Fall_3x3_8">
+		<Keyframe t="0.000000" x="0" y="-562" sx="0.55" sy="0.55" r="0" a="1"/>
+		<Keyframe t="1.600000" x="0" y="0000" sx="0.10" sy="0.10" r="0" a="1"/>
+		<Keyframe t="1.650000" x="0" y="-008" sx="0.00" sy="0.00" r="0" a="1"/>
+		<Keyframe t="1.850000" x="0" y="0000" sx="0.00" sy="0.00" r="0" a="1"/>
+	</Animation>
+	<Animation name="Root.Animations.Bingo_Board_Ball_Fall_3x3_9">
+		<Keyframe t="0.000000" x="0" y="-562" sx="0.55" sy="0.55" r="0" a="1"/>
+		<Keyframe t="1.600000" x="0" y="0000" sx="0.10" sy="0.10" r="0" a="1"/>
+		<Keyframe t="1.650000" x="0" y="-008" sx="0.00" sy="0.00" r="0" a="1"/>
+		<Keyframe t="1.850000" x="0" y="0000" sx="0.00" sy="0.00" r="0" a="1"/>
+	</Animation>
+	<Animation name="Root.Animations.Bingo_Board_Ball_Fall_3x3_10">
+		<Keyframe t="0.000000" x="0" y="-562" sx="0.55" sy="0.55" r="0" a="1"/>
+		<Keyframe t="1.600000" x="0" y="0000" sx="0.10" sy="0.10" r="0" a="1"/>
+		<Keyframe t="1.650000" x="0" y="-008" sx="0.00" sy="0.00" r="0" a="1"/>
+		<Keyframe t="1.850000" x="0" y="0000" sx="0.00" sy="0.00" r="0" a="1"/>
+	</Animation>
+	<Animation name="Root.Animations.Bingo_Board_Ball_Fall_4x4_1">
+		<Keyframe t="0.000000" x="0" y="-562" sx="0.55" sy="0.55" r="0" a="1"/>
+		<Keyframe t="1.600000" x="0" y="0000" sx="0.10" sy="0.10" r="0" a="1"/>
+		<Keyframe t="1.650000" x="0" y="-008" sx="0.00" sy="0.00" r="0" a="1"/>
+		<Keyframe t="1.850000" x="0" y="0000" sx="0.00" sy="0.00" r="0" a="1"/>
+	</Animation>
+	<Animation name="Root.Animations.Bingo_Board_Ball_Fall_4x4_2">
+		<Keyframe t="0.000000" x="0" y="-562" sx="0.55" sy="0.55" r="0" a="1"/>
+		<Keyframe t="1.600000" x="0" y="0000" sx="0.10" sy="0.10" r="0" a="1"/>
+		<Keyframe t="1.650000" x="0" y="-008" sx="0.00" sy="0.00" r="0" a="1"/>
+		<Keyframe t="1.850000" x="0" y="0000" sx="0.00" sy="0.00" r="0" a="1"/>
+	</Animation>
+	<Animation name="Root.Animations.Bingo_Board_Ball_Fall_4x4_3">
+		<Keyframe t="0.000000" x="0" y="-562" sx="0.55" sy="0.55" r="0" a="1"/>
+		<Keyframe t="1.600000" x="0" y="0000" sx="0.10" sy="0.10" r="0" a="1"/>
+		<Keyframe t="1.650000" x="0" y="-008" sx="0.00" sy="0.00" r="0" a="1"/>
+		<Keyframe t="1.850000" x="0" y="0000" sx="0.00" sy="0.00" r="0" a="1"/>
+	</Animation>
+	<Animation name="Root.Animations.Bingo_Board_Ball_Fall_4x4_4">
+		<Keyframe t="0.000000" x="0" y="-562" sx="0.55" sy="0.55" r="0" a="1"/>
+		<Keyframe t="1.600000" x="0" y="0000" sx="0.10" sy="0.10" r="0" a="1"/>
+		<Keyframe t="1.650000" x="0" y="-008" sx="0.00" sy="0.00" r="0" a="1"/>
+		<Keyframe t="1.850000" x="0" y="0000" sx="0.00" sy="0.00" r="0" a="1"/>
+	</Animation>
+	<Animation name="Root.Animations.Bingo_Board_Ball_Fall_4x4_5">
+		<Keyframe t="0.000000" x="0" y="-562" sx="0.55" sy="0.55" r="0" a="1"/>
+		<Keyframe t="1.600000" x="0" y="0000" sx="0.10" sy="0.10" r="0" a="1"/>
+		<Keyframe t="1.650000" x="0" y="-008" sx="0.00" sy="0.00" r="0" a="1"/>
+		<Keyframe t="1.850000" x="0" y="0000" sx="0.00" sy="0.00" r="0" a="1"/>
+	</Animation>
+	<Animation name="Root.Animations.Bingo_Board_Ball_Fall_4x4_6">
+		<Keyframe t="0.000000" x="0" y="-562" sx="0.55" sy="0.55" r="0" a="1"/>
+		<Keyframe t="1.600000" x="0" y="0000" sx="0.10" sy="0.10" r="0" a="1"/>
+		<Keyframe t="1.650000" x="0" y="-008" sx="0.00" sy="0.00" r="0" a="1"/>
+		<Keyframe t="1.850000" x="0" y="0000" sx="0.00" sy="0.00" r="0" a="1"/>
+	</Animation>
+	<Animation name="Root.Animations.Bingo_Board_Ball_Fall_4x4_7">
+		<Keyframe t="0.000000" x="0" y="-562" sx="0.55" sy="0.55" r="0" a="1"/>
+		<Keyframe t="1.600000" x="0" y="0000" sx="0.10" sy="0.10" r="0" a="1"/>
+		<Keyframe t="1.650000" x="0" y="-008" sx="0.00" sy="0.00" r="0" a="1"/>
+		<Keyframe t="1.850000" x="0" y="0000" sx="0.00" sy="0.00" r="0" a="1"/>
+	</Animation>
+	<Animation name="Root.Animations.Bingo_Board_Ball_Fall_4x4_8">
+		<Keyframe t="0.000000" x="0" y="-562" sx="0.55" sy="0.55" r="0" a="1"/>
+		<Keyframe t="1.600000" x="0" y="0000" sx="0.10" sy="0.10" r="0" a="1"/>
+		<Keyframe t="1.650000" x="0" y="-008" sx="0.00" sy="0.00" r="0" a="1"/>
+		<Keyframe t="1.850000" x="0" y="0000" sx="0.00" sy="0.00" r="0" a="1"/>
+	</Animation>
+	<Animation name="Root.Animations.Bingo_Board_Ball_Fall_4x4_9">
+		<Keyframe t="0.000000" x="0" y="-562" sx="0.55" sy="0.55" r="0" a="1"/>
+		<Keyframe t="1.600000" x="0" y="0000" sx="0.10" sy="0.10" r="0" a="1"/>
+		<Keyframe t="1.650000" x="0" y="-008" sx="0.00" sy="0.00" r="0" a="1"/>
+		<Keyframe t="1.850000" x="0" y="0000" sx="0.00" sy="0.00" r="0" a="1"/>
+	</Animation>
+	<Animation name="Root.Animations.Bingo_Board_Ball_Fall_4x4_10">
+		<Keyframe t="0.000000" x="0" y="-562" sx="0.55" sy="0.55" r="0" a="1"/>
+		<Keyframe t="1.600000" x="0" y="0000" sx="0.10" sy="0.10" r="0" a="1"/>
+		<Keyframe t="1.650000" x="0" y="-008" sx="0.00" sy="0.00" r="0" a="1"/>
+		<Keyframe t="1.850000" x="0" y="0000" sx="0.00" sy="0.00" r="0" a="1"/>
+	</Animation>
+	<Animation name="Root.Animations.Bingo_Board_Ball_Fall_4x4_11">
+		<Keyframe t="0.000000" x="0" y="-562" sx="0.55" sy="0.55" r="0" a="1"/>
+		<Keyframe t="1.600000" x="0" y="0000" sx="0.10" sy="0.10" r="0" a="1"/>
+		<Keyframe t="1.650000" x="0" y="-008" sx="0.00" sy="0.00" r="0" a="1"/>
+		<Keyframe t="1.850000" x="0" y="0000" sx="0.00" sy="0.00" r="0" a="1"/>
+	</Animation>
+	<Animation name="Root.Animations.Bingo_Board_Ball_Fall_4x4_12">
+		<Keyframe t="0.000000" x="0" y="-562" sx="0.55" sy="0.55" r="0" a="1"/>
+		<Keyframe t="1.600000" x="0" y="0000" sx="0.10" sy="0.10" r="0" a="1"/>
+		<Keyframe t="1.650000" x="0" y="-008" sx="0.00" sy="0.00" r="0" a="1"/>
+		<Keyframe t="1.850000" x="0" y="0000" sx="0.00" sy="0.00" r="0" a="1"/>
+	</Animation>
+	<Animation name="Root.Animations.Bingo_Board_Ball_Fall_5x5_1">
+		<Keyframe t="0.000000" x="0" y="-562" sx="0.55" sy="0.55" r="0" a="1"/>
+		<Keyframe t="0.000001" x="0" y="-562" sx="0.55" sy="0.55" r="0" a="1"/>
+		<Keyframe t="1.600000" x="0" y="0000" sx="0.10" sy="0.10" r="0" a="1"/>
+		<Keyframe t="1.650000" x="0" y="-008" sx="0.00" sy="0.00" r="0" a="1"/>
+		<Keyframe t="1.850000" x="0" y="0000" sx="0.00" sy="0.00" r="0" a="1"/>
+	</Animation>
+	<Animation name="Root.Animations.Bingo_Board_Ball_Fall_5x5_2">
+		<Keyframe t="0.000000" x="0" y="-562" sx="0.55" sy="0.55" r="0" a="1"/>
+		<Keyframe t="0.000001" x="0" y="-562" sx="0.55" sy="0.55" r="0" a="1"/>
+		<Keyframe t="1.600000" x="0" y="0000" sx="0.10" sy="0.10" r="0" a="1"/>
+		<Keyframe t="1.650000" x="0" y="-008" sx="0.00" sy="0.00" r="0" a="1"/>
+		<Keyframe t="1.850000" x="0" y="0000" sx="0.00" sy="0.00" r="0" a="1"/>
+	</Animation>
+	<Animation name="Root.Animations.Bingo_Board_Ball_Fall_5x5_3">
+		<Keyframe t="0.000000" x="0" y="-562" sx="0.55" sy="0.55" r="0" a="1"/>
+		<Keyframe t="0.000001" x="0" y="-562" sx="0.55" sy="0.55" r="0" a="1"/>
+		<Keyframe t="1.600000" x="0" y="0000" sx="0.10" sy="0.10" r="0" a="1"/>
+		<Keyframe t="1.650000" x="0" y="-008" sx="0.00" sy="0.00" r="0" a="1"/>
+		<Keyframe t="1.850000" x="0" y="0000" sx="0.00" sy="0.00" r="0" a="1"/>
+	</Animation>
+	<Animation name="Root.Animations.Bingo_Board_Ball_Fall_5x5_4">
+		<Keyframe t="0.000000" x="0" y="-562" sx="0.55" sy="0.55" r="0" a="1"/>
+		<Keyframe t="0.000001" x="0" y="-562" sx="0.55" sy="0.55" r="0" a="1"/>
+		<Keyframe t="1.600000" x="0" y="0000" sx="0.10" sy="0.10" r="0" a="1"/>
+		<Keyframe t="1.650000" x="0" y="-008" sx="0.00" sy="0.00" r="0" a="1"/>
+		<Keyframe t="1.850000" x="0" y="0000" sx="0.00" sy="0.00" r="0" a="1"/>
+	</Animation>
+	<Animation name="Root.Animations.Bingo_Board_Ball_Fall_5x5_5">
+		<Keyframe t="0.000000" x="0" y="-562" sx="0.55" sy="0.55" r="0" a="1"/>
+		<Keyframe t="0.000001" x="0" y="-562" sx="0.55" sy="0.55" r="0" a="1"/>
+		<Keyframe t="1.600000" x="0" y="0000" sx="0.10" sy="0.10" r="0" a="1"/>
+		<Keyframe t="1.650000" x="0" y="-008" sx="0.00" sy="0.00" r="0" a="1"/>
+		<Keyframe t="1.850000" x="0" y="0000" sx="0.00" sy="0.00" r="0" a="1"/>
+	</Animation>
+	<Animation name="Root.Animations.Bingo_Board_Ball_Fall_5x5_6">
+		<Keyframe t="0.000000" x="0" y="-562" sx="0.55" sy="0.55" r="0" a="1"/>
+		<Keyframe t="0.000001" x="0" y="-562" sx="0.55" sy="0.55" r="0" a="1"/>
+		<Keyframe t="1.600000" x="0" y="0000" sx="0.10" sy="0.10" r="0" a="1"/>
+		<Keyframe t="1.650000" x="0" y="-008" sx="0.00" sy="0.00" r="0" a="1"/>
+		<Keyframe t="1.850000" x="0" y="0000" sx="0.00" sy="0.00" r="0" a="1"/>
+	</Animation>
+	<Animation name="Root.Animations.Bingo_Board_Ball_Fall_5x5_7">
+		<Keyframe t="0.000000" x="0" y="-562" sx="0.55" sy="0.55" r="0" a="1"/>
+		<Keyframe t="0.000001" x="0" y="-562" sx="0.55" sy="0.55" r="0" a="1"/>
+		<Keyframe t="1.600000" x="0" y="0000" sx="0.10" sy="0.10" r="0" a="1"/>
+		<Keyframe t="1.650000" x="0" y="-008" sx="0.00" sy="0.00" r="0" a="1"/>
+		<Keyframe t="1.850000" x="0" y="0000" sx="0.00" sy="0.00" r="0" a="1"/>
+	</Animation>
+	<Animation name="Root.Animations.Bingo_Board_Ball_Fall_5x5_8">
+		<Keyframe t="0.000000" x="0" y="-562" sx="0.55" sy="0.55" r="0" a="1"/>
+		<Keyframe t="0.000001" x="0" y="-562" sx="0.55" sy="0.55" r="0" a="1"/>
+		<Keyframe t="1.600000" x="0" y="0000" sx="0.10" sy="0.10" r="0" a="1"/>
+		<Keyframe t="1.650000" x="0" y="-008" sx="0.00" sy="0.00" r="0" a="1"/>
+		<Keyframe t="1.850000" x="0" y="0000" sx="0.00" sy="0.00" r="0" a="1"/>
+	</Animation>
+	<Animation name="Root.Animations.Bingo_Board_Ball_Fall_5x5_9">
+		<Keyframe t="0.000000" x="0" y="-562" sx="0.55" sy="0.55" r="0" a="1"/>
+		<Keyframe t="0.000001" x="0" y="-562" sx="0.55" sy="0.55" r="0" a="1"/>
+		<Keyframe t="1.600000" x="0" y="0000" sx="0.10" sy="0.10" r="0" a="1"/>
+		<Keyframe t="1.650000" x="0" y="-008" sx="0.00" sy="0.00" r="0" a="1"/>
+		<Keyframe t="1.850000" x="0" y="0000" sx="0.00" sy="0.00" r="0" a="1"/>
+	</Animation>
+	<Animation name="Root.Animations.Bingo_Board_Ball_Fall_5x5_10">
+		<Keyframe t="0.000000" x="0" y="-562" sx="0.55" sy="0.55" r="0" a="1"/>
+		<Keyframe t="0.000001" x="0" y="-562" sx="0.55" sy="0.55" r="0" a="1"/>
+		<Keyframe t="1.600000" x="0" y="0000" sx="0.10" sy="0.10" r="0" a="1"/>
+		<Keyframe t="1.650000" x="0" y="-008" sx="0.00" sy="0.00" r="0" a="1"/>
+		<Keyframe t="1.850000" x="0" y="0000" sx="0.00" sy="0.00" r="0" a="1"/>
+	</Animation>
+	<Animation name="Root.Animations.Bingo_Board_Ball_Fall_5x5_11">
+		<Keyframe t="0.000000" x="0" y="-562" sx="0.55" sy="0.55" r="0" a="1"/>
+		<Keyframe t="0.000001" x="0" y="-562" sx="0.55" sy="0.55" r="0" a="1"/>
+		<Keyframe t="1.600000" x="0" y="0000" sx="0.10" sy="0.10" r="0" a="1"/>
+		<Keyframe t="1.650000" x="0" y="-008" sx="0.00" sy="0.00" r="0" a="1"/>
+		<Keyframe t="1.850000" x="0" y="0000" sx="0.00" sy="0.00" r="0" a="1"/>
+	</Animation>
+	<Animation name="Root.Animations.Bingo_Board_Ball_Fall_5x5_12">
+		<Keyframe t="0.000000" x="0" y="-562" sx="0.55" sy="0.55" r="0" a="1"/>
+		<Keyframe t="0.000001" x="0" y="-562" sx="0.55" sy="0.55" r="0" a="1"/>
+		<Keyframe t="1.600000" x="0" y="0000" sx="0.10" sy="0.10" r="0" a="1"/>
+		<Keyframe t="1.650000" x="0" y="-008" sx="0.00" sy="0.00" r="0" a="1"/>
+		<Keyframe t="1.850000" x="0" y="0000" sx="0.00" sy="0.00" r="0" a="1"/>
+	</Animation>
+	<Animation name="Root.Animations.Bingo_Board_Ball_Fall_5x5_13">
+		<Keyframe t="0.000000" x="0" y="-562" sx="0.55" sy="0.55" r="0" a="1"/>
+		<Keyframe t="0.000001" x="0" y="-562" sx="0.55" sy="0.55" r="0" a="1"/>
+		<Keyframe t="1.600000" x="0" y="0000" sx="0.10" sy="0.10" r="0" a="1"/>
+		<Keyframe t="1.650000" x="0" y="-008" sx="0.00" sy="0.00" r="0" a="1"/>
+		<Keyframe t="1.850000" x="0" y="0000" sx="0.00" sy="0.00" r="0" a="1"/>
+	</Animation>
+	<Animation name="Root.Animations.Bingo_Board_Ball_Fall_5x5_14">
+		<Keyframe t="0.000000" x="0" y="-562" sx="0.55" sy="0.55" r="0" a="1"/>
+		<Keyframe t="0.000001" x="0" y="-562" sx="0.55" sy="0.55" r="0" a="1"/>
+		<Keyframe t="1.600000" x="0" y="0000" sx="0.10" sy="0.10" r="0" a="1"/>
+		<Keyframe t="1.650000" x="0" y="-008" sx="0.00" sy="0.00" r="0" a="1"/>
+		<Keyframe t="1.850000" x="0" y="0000" sx="0.00" sy="0.00" r="0" a="1"/>
+	</Animation>
+	<Animation name="Root.Animations.Bingo_Board_Ball_Fall_5x5_15">
+		<Keyframe t="0.000000" x="0" y="-562" sx="0.55" sy="0.55" r="0" a="1"/>
+		<Keyframe t="0.000001" x="0" y="-562" sx="0.55" sy="0.55" r="0" a="1"/>
+		<Keyframe t="1.600000" x="0" y="0000" sx="0.10" sy="0.10" r="0" a="1"/>
+		<Keyframe t="1.650000" x="0" y="-008" sx="0.00" sy="0.00" r="0" a="1"/>
+		<Keyframe t="1.850000" x="0" y="0000" sx="0.00" sy="0.00" r="0" a="1"/>
+	</Animation>
+	<Animation name="Root.Animations.Bingo_Card_Ball_Fall_3x3_1card_1">
+		<Keyframe t="0.000000" x="0" y="-540" sx="0.55" sy="0.55" r="0" a="1"/>
+		<Keyframe t="0.902000" x="0" y="0000" sx="0.00" sy="0.00" r="0" a="1"/>
+		<Keyframe t="0.922500" x="0" y="-008" sx="0.00" sy="0.00" r="0" a="1"/>
+		<Keyframe t="0.971000" x="0" y="0000" sx="0.00" sy="0.00" r="0" a="1"/>
+	</Animation>
+	<Animation name="Root.Animations.Bingo_Card_Ball_Fall_3x3_1card_2">
+		<Keyframe t="0.000000" x="0" y="-540" sx="0.55" sy="0.55" r="0" a="1"/>
+		<Keyframe t="0.902000" x="0" y="0000" sx="0.00" sy="0.00" r="0" a="1"/>
+		<Keyframe t="0.922500" x="0" y="-008" sx="0.00" sy="0.00" r="0" a="1"/>
+		<Keyframe t="0.971000" x="0" y="0000" sx="0.00" sy="0.00" r="0" a="1"/>
+	</Animation>
+	<Animation name="Root.Animations.Bingo_Card_Ball_Fall_3x3_1card_3">
+		<Keyframe t="0.000000" x="0" y="-540" sx="0.55" sy="0.55" r="0" a="1"/>
+		<Keyframe t="0.902000" x="0" y="0000" sx="0.00" sy="0.00" r="0" a="1"/>
+		<Keyframe t="0.922500" x="0" y="-008" sx="0.00" sy="0.00" r="0" a="1"/>
+		<Keyframe t="0.971000" x="0" y="0000" sx="0.00" sy="0.00" r="0" a="1"/>
+	</Animation>
+	<Animation name="Root.Animations.Bingo_Card_Ball_Fall_3x3_4card_1">
+		<Keyframe t="0.000000" x="0" y="-540" sx="0.55" sy="0.55" r="0" a="1"/>
+		<Keyframe t="0.902000" x="0" y="00000" sx="0.00" sy="0.00" r="0" a="1"/>
+		<Keyframe t="0.922500" x="0" y="-0008" sx="0.00" sy="0.00" r="0" a="1"/>
+		<Keyframe t="0.971000" x="0" y="00000" sx="0.00" sy="0.00" r="0" a="1"/>
+	</Animation>
+	<Animation name="Root.Animations.Bingo_Card_Ball_Fall_3x3_4card_2">
+		<Keyframe t="0.000000" x="0" y="-540" sx="0.55" sy="0.55" r="0" a="1"/>
+		<Keyframe t="0.902000" x="0" y="00000" sx="0.00" sy="0.00" r="0" a="1"/>
+		<Keyframe t="0.922500" x="0" y="-0008" sx="0.00" sy="0.00" r="0" a="1"/>
+		<Keyframe t="0.971000" x="0" y="00000" sx="0.00" sy="0.00" r="0" a="1"/>
+	</Animation>
+	<Animation name="Root.Animations.Bingo_Card_Ball_Fall_3x3_4card_3">
+		<Keyframe t="0.000000" x="0" y="-540" sx="0.55" sy="0.55" r="0" a="1"/>
+		<Keyframe t="0.902000" x="0" y="00000" sx="0.00" sy="0.00" r="0" a="1"/>
+		<Keyframe t="0.922500" x="0" y="-0008" sx="0.00" sy="0.00" r="0" a="1"/>
+		<Keyframe t="0.971000" x="0" y="00000" sx="0.00" sy="0.00" r="0" a="1"/>
+	</Animation>
+	<Animation name="Root.Animations.Bingo_Card_Ball_Fall_3x3_4card_4">
+		<Keyframe t="0.000000" x="0" y="-540" sx="0.55" sy="0.55" r="0" a="1"/>
+		<Keyframe t="0.902000" x="0" y="00000" sx="0.00" sy="0.00" r="0" a="1"/>
+		<Keyframe t="0.922500" x="0" y="-0008" sx="0.00" sy="0.00" r="0" a="1"/>
+		<Keyframe t="0.971000" x="0" y="00000" sx="0.00" sy="0.00" r="0" a="1"/>
+	</Animation>
+	<Animation name="Root.Animations.Bingo_Card_Ball_Fall_3x3_4card_5">
+		<Keyframe t="0.000000" x="0" y="-540" sx="0.55" sy="0.55" r="0" a="1"/>
+		<Keyframe t="0.902000" x="0" y="00000" sx="0.00" sy="0.00" r="0" a="1"/>
+		<Keyframe t="0.922500" x="0" y="-0008" sx="0.00" sy="0.00" r="0" a="1"/>
+		<Keyframe t="0.971000" x="0" y="00000" sx="0.00" sy="0.00" r="0" a="1"/>
+	</Animation>
+	<Animation name="Root.Animations.Bingo_Card_Ball_Fall_3x3_4card_6">
+		<Keyframe t="0.000000" x="0" y="-540" sx="0.55" sy="0.55" r="0" a="1"/>
+		<Keyframe t="0.902000" x="0" y="00000" sx="0.00" sy="0.00" r="0" a="1"/>
+		<Keyframe t="0.922500" x="0" y="-0008" sx="0.00" sy="0.00" r="0" a="1"/>
+		<Keyframe t="0.971000" x="0" y="00000" sx="0.00" sy="0.00" r="0" a="1"/>
+	</Animation>
+	<Animation name="Root.Animations.Bingo_Card_Ball_Fall_3x3_9card_1">
+		<Keyframe t="0.000000" x="0" y="-540" sx="0.55" sy="0.55" r="0" a="1"/>
+		<Keyframe t="0.902000" x="0" y="0000" sx="0.00" sy="0.00" r="0" a="1"/>
+		<Keyframe t="0.922500" x="0" y="-008" sx="0.00" sy="0.00" r="0" a="1"/>
+		<Keyframe t="0.971000" x="0" y="0000" sx="0.00" sy="0.00" r="0" a="1"/>
+	</Animation>
+	<Animation name="Root.Animations.Bingo_Card_Ball_Fall_3x3_9card_2">
+		<Keyframe t="0.000000" x="0" y="-540" sx="0.55" sy="0.55" r="0" a="1"/>
+		<Keyframe t="0.902000" x="0" y="0000" sx="0.00" sy="0.00" r="0" a="1"/>
+		<Keyframe t="0.922500" x="0" y="-008" sx="0.00" sy="0.00" r="0" a="1"/>
+		<Keyframe t="0.971000" x="0" y="0000" sx="0.00" sy="0.00" r="0" a="1"/>
+	</Animation>
+	<Animation name="Root.Animations.Bingo_Card_Ball_Fall_3x3_9card_3">
+		<Keyframe t="0.000000" x="0" y="-540" sx="0.55" sy="0.55" r="0" a="1"/>
+		<Keyframe t="0.902000" x="0" y="0000" sx="0.00" sy="0.00" r="0" a="1"/>
+		<Keyframe t="0.922500" x="0" y="-008" sx="0.00" sy="0.00" r="0" a="1"/>
+		<Keyframe t="0.971000" x="0" y="0000" sx="0.00" sy="0.00" r="0" a="1"/>
+	</Animation>
+	<Animation name="Root.Animations.Bingo_Card_Ball_Fall_3x3_9card_4">
+		<Keyframe t="0.000000" x="0" y="-540" sx="0.55" sy="0.55" r="0" a="1"/>
+		<Keyframe t="0.902000" x="0" y="0000" sx="0.00" sy="0.00" r="0" a="1"/>
+		<Keyframe t="0.922500" x="0" y="-008" sx="0.00" sy="0.00" r="0" a="1"/>
+		<Keyframe t="0.971000" x="0" y="0000" sx="0.00" sy="0.00" r="0" a="1"/>
+	</Animation>
+	<Animation name="Root.Animations.Bingo_Card_Ball_Fall_3x3_9card_5">
+		<Keyframe t="0.000000" x="0" y="-540" sx="0.55" sy="0.55" r="0" a="1"/>
+		<Keyframe t="0.902000" x="0" y="0000" sx="0.00" sy="0.00" r="0" a="1"/>
+		<Keyframe t="0.922500" x="0" y="-008" sx="0.00" sy="0.00" r="0" a="1"/>
+		<Keyframe t="0.971000" x="0" y="0000" sx="0.00" sy="0.00" r="0" a="1"/>
+	</Animation>
+	<Animation name="Root.Animations.Bingo_Card_Ball_Fall_3x3_9card_6">
+		<Keyframe t="0.000000" x="0" y="-540" sx="0.55" sy="0.55" r="0" a="1"/>
+		<Keyframe t="0.902000" x="0" y="0000" sx="0.00" sy="0.00" r="0" a="1"/>
+		<Keyframe t="0.922500" x="0" y="-008" sx="0.00" sy="0.00" r="0" a="1"/>
+		<Keyframe t="0.971000" x="0" y="0000" sx="0.00" sy="0.00" r="0" a="1"/>
+	</Animation>
+	<Animation name="Root.Animations.Bingo_Card_Ball_Fall_3x3_9card_7">
+		<Keyframe t="0.000000" x="0" y="-540" sx="0.55" sy="0.55" r="0" a="1"/>
+		<Keyframe t="0.902000" x="0" y="0000" sx="0.00" sy="0.00" r="0" a="1"/>
+		<Keyframe t="0.922500" x="0" y="-008" sx="0.00" sy="0.00" r="0" a="1"/>
+		<Keyframe t="0.971000" x="0" y="0000" sx="0.00" sy="0.00" r="0" a="1"/>
+	</Animation>
+	<Animation name="Root.Animations.Bingo_Card_Ball_Fall_3x3_9card_8">
+		<Keyframe t="0.000000" x="0" y="-540" sx="0.55" sy="0.55" r="0" a="1"/>
+		<Keyframe t="0.902000" x="0" y="0000" sx="0.00" sy="0.00" r="0" a="1"/>
+		<Keyframe t="0.922500" x="0" y="-008" sx="0.00" sy="0.00" r="0" a="1"/>
+		<Keyframe t="0.971000" x="0" y="0000" sx="0.00" sy="0.00" r="0" a="1"/>
+	</Animation>
+	<Animation name="Root.Animations.Bingo_Card_Ball_Fall_3x3_9card_9">
+		<Keyframe t="0.000000" x="0" y="-540" sx="0.55" sy="0.55" r="0" a="1"/>
+		<Keyframe t="0.902000" x="0" y="0000" sx="0.00" sy="0.00" r="0" a="1"/>
+		<Keyframe t="0.922500" x="0" y="-008" sx="0.00" sy="0.00" r="0" a="1"/>
+		<Keyframe t="0.971000" x="0" y="0000" sx="0.00" sy="0.00" r="0" a="1"/>
+	</Animation>
+	<Animation name="Root.Animations.Bingo_Card_Ball_Fall_4x4_1card_1">
+		<Keyframe t="0.000000" x="0" y="-570" sx="0.55" sy="0.55" r="0" a="1"/>
+		<Keyframe t="0.902000" x="0" y="0000" sx="0.00" sy="0.00" r="0" a="1"/>
+		<Keyframe t="0.922500" x="0" y="-008" sx="0.00" sy="0.00" r="0" a="1"/>
+		<Keyframe t="0.971000" x="0" y="0000" sx="0.00" sy="0.00" r="0" a="1"/>
+	</Animation>
+	<Animation name="Root.Animations.Bingo_Card_Ball_Fall_4x4_1card_2">
+		<Keyframe t="0.000000" x="0" y="-570" sx="0.55" sy="0.55" r="0" a="1"/>
+		<Keyframe t="0.902000" x="0" y="0000" sx="0.00" sy="0.00" r="0" a="1"/>
+		<Keyframe t="0.922500" x="0" y="-008" sx="0.00" sy="0.00" r="0" a="1"/>
+		<Keyframe t="0.971000" x="0" y="0000" sx="0.00" sy="0.00" r="0" a="1"/>
+	</Animation>
+	<Animation name="Root.Animations.Bingo_Card_Ball_Fall_4x4_1card_3">
+		<Keyframe t="0.000000" x="0" y="-570" sx="0.55" sy="0.55" r="0" a="1"/>
+		<Keyframe t="0.902000" x="0" y="0000" sx="0.00" sy="0.00" r="0" a="1"/>
+		<Keyframe t="0.922500" x="0" y="-008" sx="0.00" sy="0.00" r="0" a="1"/>
+		<Keyframe t="0.971000" x="0" y="0000" sx="0.00" sy="0.00" r="0" a="1"/>
+	</Animation>
+	<Animation name="Root.Animations.Bingo_Card_Ball_Fall_4x4_1card_4">
+		<Keyframe t="0.000000" x="0" y="-570" sx="0.55" sy="0.55" r="0" a="1"/>
+		<Keyframe t="0.902000" x="0" y="0000" sx="0.00" sy="0.00" r="0" a="1"/>
+		<Keyframe t="0.922500" x="0" y="-008" sx="0.00" sy="0.00" r="0" a="1"/>
+		<Keyframe t="0.971000" x="0" y="0000" sx="0.00" sy="0.00" r="0" a="1"/>
+	</Animation>
+	<Animation name="Root.Animations.Bingo_Card_Ball_Fall_4x4_4card_1">
+		<Keyframe t="0.000000" x="0" y="-570" sx="0.55" sy="0.55" r="0" a="1"/>
+		<Keyframe t="0.902000" x="0" y="00000" sx="0.00" sy="0.00" r="0" a="1"/>
+		<Keyframe t="0.922500" x="0" y="-0008" sx="0.00" sy="0.00" r="0" a="1"/>
+		<Keyframe t="0.971000" x="0" y="00000" sx="0.00" sy="0.00" r="0" a="1"/>
+	</Animation>
+	<Animation name="Root.Animations.Bingo_Card_Ball_Fall_4x4_4card_2">
+		<Keyframe t="0.000000" x="0" y="-570" sx="0.55" sy="0.55" r="0" a="1"/>
+		<Keyframe t="0.902000" x="0" y="00000" sx="0.00" sy="0.00" r="0" a="1"/>
+		<Keyframe t="0.922500" x="0" y="-0008" sx="0.00" sy="0.00" r="0" a="1"/>
+		<Keyframe t="0.971000" x="0" y="00000" sx="0.00" sy="0.00" r="0" a="1"/>
+	</Animation>
+	<Animation name="Root.Animations.Bingo_Card_Ball_Fall_4x4_4card_3">
+		<Keyframe t="0.000000" x="0" y="-570" sx="0.55" sy="0.55" r="0" a="1"/>
+		<Keyframe t="0.902000" x="0" y="00000" sx="0.00" sy="0.00" r="0" a="1"/>
+		<Keyframe t="0.922500" x="0" y="-0008" sx="0.00" sy="0.00" r="0" a="1"/>
+		<Keyframe t="0.971000" x="0" y="00000" sx="0.00" sy="0.00" r="0" a="1"/>
+	</Animation>
+	<Animation name="Root.Animations.Bingo_Card_Ball_Fall_4x4_4card_4">
+		<Keyframe t="0.000000" x="0" y="-570" sx="0.55" sy="0.55" r="0" a="1"/>
+		<Keyframe t="0.902000" x="0" y="00000" sx="0.00" sy="0.00" r="0" a="1"/>
+		<Keyframe t="0.922500" x="0" y="-0008" sx="0.00" sy="0.00" r="0" a="1"/>
+		<Keyframe t="0.971000" x="0" y="00000" sx="0.00" sy="0.00" r="0" a="1"/>
+	</Animation>
+	<Animation name="Root.Animations.Bingo_Card_Ball_Fall_4x4_4card_5">
+		<Keyframe t="0.000000" x="0" y="-570" sx="0.55" sy="0.55" r="0" a="1"/>
+		<Keyframe t="0.902000" x="0" y="00000" sx="0.00" sy="0.00" r="0" a="1"/>
+		<Keyframe t="0.922500" x="0" y="-0008" sx="0.00" sy="0.00" r="0" a="1"/>
+		<Keyframe t="0.971000" x="0" y="00000" sx="0.00" sy="0.00" r="0" a="1"/>
+	</Animation>
+	<Animation name="Root.Animations.Bingo_Card_Ball_Fall_4x4_4card_6">
+		<Keyframe t="0.000000" x="0" y="-570" sx="0.55" sy="0.55" r="0" a="1"/>
+		<Keyframe t="0.902000" x="0" y="00000" sx="0.00" sy="0.00" r="0" a="1"/>
+		<Keyframe t="0.922500" x="0" y="-0008" sx="0.00" sy="0.00" r="0" a="1"/>
+		<Keyframe t="0.971000" x="0" y="00000" sx="0.00" sy="0.00" r="0" a="1"/>
+	</Animation>
+	<Animation name="Root.Animations.Bingo_Card_Ball_Fall_4x4_4card_7">
+		<Keyframe t="0.000000" x="0" y="-570" sx="0.55" sy="0.55" r="0" a="1"/>
+		<Keyframe t="0.902000" x="0" y="00000" sx="0.00" sy="0.00" r="0" a="1"/>
+		<Keyframe t="0.922500" x="0" y="-0008" sx="0.00" sy="0.00" r="0" a="1"/>
+		<Keyframe t="0.971000" x="0" y="00000" sx="0.00" sy="0.00" r="0" a="1"/>
+	</Animation>
+	<Animation name="Root.Animations.Bingo_Card_Ball_Fall_4x4_4card_8">
+		<Keyframe t="0.000000" x="0" y="-570" sx="0.55" sy="0.55" r="0" a="1"/>
+		<Keyframe t="0.902000" x="0" y="00000" sx="0.00" sy="0.00" r="0" a="1"/>
+		<Keyframe t="0.922500" x="0" y="-0008" sx="0.00" sy="0.00" r="0" a="1"/>
+		<Keyframe t="0.971000" x="0" y="00000" sx="0.00" sy="0.00" r="0" a="1"/>
+	</Animation>
+	<Animation name="Root.Animations.Bingo_Card_Ball_Fall_4x4_9card_1">
+		<Keyframe t="0.000000" x="0" y="-570" sx="0.55" sy="0.55" r="0" a="1"/>
+		<Keyframe t="0.902000" x="0" y="0000" sx="0.00" sy="0.00" r="0" a="1"/>
+		<Keyframe t="0.922500" x="0" y="-008" sx="0.00" sy="0.00" r="0" a="1"/>
+		<Keyframe t="0.971000" x="0" y="0000" sx="0.00" sy="0.00" r="0" a="1"/>
+	</Animation>
+	<Animation name="Root.Animations.Bingo_Card_Ball_Fall_4x4_9card_2">
+		<Keyframe t="0.000000" x="0" y="-570" sx="0.55" sy="0.55" r="0" a="1"/>
+		<Keyframe t="0.902000" x="0" y="0000" sx="0.00" sy="0.00" r="0" a="1"/>
+		<Keyframe t="0.922500" x="0" y="-008" sx="0.00" sy="0.00" r="0" a="1"/>
+		<Keyframe t="0.971000" x="0" y="0000" sx="0.00" sy="0.00" r="0" a="1"/>
+	</Animation>
+	<Animation name="Root.Animations.Bingo_Card_Ball_Fall_4x4_9card_3">
+		<Keyframe t="0.000000" x="0" y="-570" sx="0.55" sy="0.55" r="0" a="1"/>
+		<Keyframe t="0.902000" x="0" y="0000" sx="0.00" sy="0.00" r="0" a="1"/>
+		<Keyframe t="0.922500" x="0" y="-008" sx="0.00" sy="0.00" r="0" a="1"/>
+		<Keyframe t="0.971000" x="0" y="0000" sx="0.00" sy="0.00" r="0" a="1"/>
+	</Animation>
+	<Animation name="Root.Animations.Bingo_Card_Ball_Fall_4x4_9card_4">
+		<Keyframe t="0.000000" x="0" y="-570" sx="0.55" sy="0.55" r="0" a="1"/>
+		<Keyframe t="0.902000" x="0" y="0000" sx="0.00" sy="0.00" r="0" a="1"/>
+		<Keyframe t="0.922500" x="0" y="-008" sx="0.00" sy="0.00" r="0" a="1"/>
+		<Keyframe t="0.971000" x="0" y="0000" sx="0.00" sy="0.00" r="0" a="1"/>
+	</Animation>
+	<Animation name="Root.Animations.Bingo_Card_Ball_Fall_4x4_9card_5">
+		<Keyframe t="0.000000" x="0" y="-570" sx="0.55" sy="0.55" r="0" a="1"/>
+		<Keyframe t="0.902000" x="0" y="0000" sx="0.00" sy="0.00" r="0" a="1"/>
+		<Keyframe t="0.922500" x="0" y="-008" sx="0.00" sy="0.00" r="0" a="1"/>
+		<Keyframe t="0.971000" x="0" y="0000" sx="0.00" sy="0.00" r="0" a="1"/>
+	</Animation>
+	<Animation name="Root.Animations.Bingo_Card_Ball_Fall_4x4_9card_6">
+		<Keyframe t="0.000000" x="0" y="-570" sx="0.55" sy="0.55" r="0" a="1"/>
+		<Keyframe t="0.902000" x="0" y="0000" sx="0.00" sy="0.00" r="0" a="1"/>
+		<Keyframe t="0.922500" x="0" y="-008" sx="0.00" sy="0.00" r="0" a="1"/>
+		<Keyframe t="0.971000" x="0" y="0000" sx="0.00" sy="0.00" r="0" a="1"/>
+	</Animation>
+	<Animation name="Root.Animations.Bingo_Card_Ball_Fall_4x4_9card_7">
+		<Keyframe t="0.000000" x="0" y="-570" sx="0.55" sy="0.55" r="0" a="1"/>
+		<Keyframe t="0.902000" x="0" y="0000" sx="0.00" sy="0.00" r="0" a="1"/>
+		<Keyframe t="0.922500" x="0" y="-008" sx="0.00" sy="0.00" r="0" a="1"/>
+		<Keyframe t="0.971000" x="0" y="0000" sx="0.00" sy="0.00" r="0" a="1"/>
+	</Animation>
+	<Animation name="Root.Animations.Bingo_Card_Ball_Fall_4x4_9card_8">
+		<Keyframe t="0.000000" x="0" y="-570" sx="0.55" sy="0.55" r="0" a="1"/>
+		<Keyframe t="0.902000" x="0" y="0000" sx="0.00" sy="0.00" r="0" a="1"/>
+		<Keyframe t="0.922500" x="0" y="-008" sx="0.00" sy="0.00" r="0" a="1"/>
+		<Keyframe t="0.971000" x="0" y="0000" sx="0.00" sy="0.00" r="0" a="1"/>
+	</Animation>
+	<Animation name="Root.Animations.Bingo_Card_Ball_Fall_4x4_9card_9">
+		<Keyframe t="0.000000" x="0" y="-570" sx="0.55" sy="0.55" r="0" a="1"/>
+		<Keyframe t="0.902000" x="0" y="0000" sx="0.00" sy="0.00" r="0" a="1"/>
+		<Keyframe t="0.922500" x="0" y="-008" sx="0.00" sy="0.00" r="0" a="1"/>
+		<Keyframe t="0.971000" x="0" y="0000" sx="0.00" sy="0.00" r="0" a="1"/>
+	</Animation>
+	<Animation name="Root.Animations.Bingo_Card_Ball_Fall_4x4_9card_10">
+		<Keyframe t="0.000000" x="0" y="-570" sx="0.55" sy="0.55" r="0" a="1"/>
+		<Keyframe t="0.902000" x="0" y="0000" sx="0.00" sy="0.00" r="0" a="1"/>
+		<Keyframe t="0.922500" x="0" y="-008" sx="0.00" sy="0.00" r="0" a="1"/>
+		<Keyframe t="0.971000" x="0" y="0000" sx="0.00" sy="0.00" r="0" a="1"/>
+	</Animation>
+	<Animation name="Root.Animations.Bingo_Card_Ball_Fall_4x4_9card_11">
+		<Keyframe t="0.000000" x="0" y="-570" sx="0.55" sy="0.55" r="0" a="1"/>
+		<Keyframe t="0.902000" x="0" y="0000" sx="0.00" sy="0.00" r="0" a="1"/>
+		<Keyframe t="0.922500" x="0" y="-008" sx="0.00" sy="0.00" r="0" a="1"/>
+		<Keyframe t="0.971000" x="0" y="0000" sx="0.00" sy="0.00" r="0" a="1"/>
+	</Animation>
+	<Animation name="Root.Animations.Bingo_Card_Ball_Fall_4x4_9card_12">
+		<Keyframe t="0.000000" x="0" y="-570" sx="0.55" sy="0.55" r="0" a="1"/>
+		<Keyframe t="0.902000" x="0" y="0000" sx="0.00" sy="0.00" r="0" a="1"/>
+		<Keyframe t="0.922500" x="0" y="-008" sx="0.00" sy="0.00" r="0" a="1"/>
+		<Keyframe t="0.971000" x="0" y="0000" sx="0.00" sy="0.00" r="0" a="1"/>
+	</Animation>
+	<Animation name="Root.Animations.Bingo_Card_Ball_Fall_5x5_1card_1">
+		<Keyframe t="0.000000" x="0" y="-600" sx="0.55" sy="0.55" r="0" a="0"/>
+		<Keyframe t="0.000001" x="0" y="-600" sx="0.55" sy="0.55" r="0" a="1"/>
+		<Keyframe t="0.902000" x="0" y="0000" sx="0.00" sy="0.00" r="0" a="1"/>
+		<Keyframe t="0.922500" x="0" y="-008" sx="0.00" sy="0.00" r="0" a="1"/>
+		<Keyframe t="0.971000" x="0" y="0000" sx="0.00" sy="0.00" r="0" a="1"/>
+	</Animation>
+	<Animation name="Root.Animations.Bingo_Card_Ball_Fall_5x5_1card_2">
+		<Keyframe t="0.000000" x="0" y="-600" sx="0.55" sy="0.55" r="0" a="0"/>
+		<Keyframe t="0.000001" x="0" y="-600" sx="0.55" sy="0.55" r="0" a="1"/>
+		<Keyframe t="0.902000" x="0" y="0000" sx="0.00" sy="0.00" r="0" a="1"/>
+		<Keyframe t="0.922500" x="0" y="-008" sx="0.00" sy="0.00" r="0" a="1"/>
+		<Keyframe t="0.971000" x="0" y="0000" sx="0.00" sy="0.00" r="0" a="1"/>
+	</Animation>
+	<Animation name="Root.Animations.Bingo_Card_Ball_Fall_5x5_1card_3">
+		<Keyframe t="0.000000" x="0" y="-600" sx="0.55" sy="0.55" r="0" a="0"/>
+		<Keyframe t="0.000001" x="0" y="-600" sx="0.55" sy="0.55" r="0" a="1"/>
+		<Keyframe t="0.902000" x="0" y="0000" sx="0.00" sy="0.00" r="0" a="1"/>
+		<Keyframe t="0.922500" x="0" y="-008" sx="0.00" sy="0.00" r="0" a="1"/>
+		<Keyframe t="0.971000" x="0" y="0000" sx="0.00" sy="0.00" r="0" a="1"/>
+	</Animation>
+	<Animation name="Root.Animations.Bingo_Card_Ball_Fall_5x5_1card_4">
+		<Keyframe t="0.000000" x="0" y="-600" sx="0.55" sy="0.55" r="0" a="0"/>
+		<Keyframe t="0.000001" x="0" y="-600" sx="0.55" sy="0.55" r="0" a="1"/>
+		<Keyframe t="0.902000" x="0" y="0000" sx="0.00" sy="0.00" r="0" a="1"/>
+		<Keyframe t="0.922500" x="0" y="-008" sx="0.00" sy="0.00" r="0" a="1"/>
+		<Keyframe t="0.971000" x="0" y="0000" sx="0.00" sy="0.00" r="0" a="1"/>
+	</Animation>
+	<Animation name="Root.Animations.Bingo_Card_Ball_Fall_5x5_1card_5">
+		<Keyframe t="0.000000" x="0" y="-600" sx="0.55" sy="0.55" r="0" a="0"/>
+		<Keyframe t="0.000001" x="0" y="-600" sx="0.55" sy="0.55" r="0" a="1"/>
+		<Keyframe t="0.902000" x="0" y="0000" sx="0.00" sy="0.00" r="0" a="1"/>
+		<Keyframe t="0.922500" x="0" y="-008" sx="0.00" sy="0.00" r="0" a="1"/>
+		<Keyframe t="0.971000" x="0" y="0000" sx="0.00" sy="0.00" r="0" a="1"/>
+	</Animation>
+	<Animation name="Root.Animations.Bingo_Card_Ball_Fall_5x5_4card_1">
+		<Keyframe t="0.000000" x="0" y="-600" sx="0.55" sy="0.55" r="0" a="1"/>
+		<Keyframe t="0.902000" x="0" y="00000" sx="0.00" sy="0.00" r="0" a="1"/>
+		<Keyframe t="0.922500" x="0" y="-0008" sx="0.00" sy="0.00" r="0" a="1"/>
+		<Keyframe t="0.971000" x="0" y="00000" sx="0.00" sy="0.00" r="0" a="1"/>
+	</Animation>
+	<Animation name="Root.Animations.Bingo_Card_Ball_Fall_5x5_4card_2">
+		<Keyframe t="0.000000" x="0" y="-600" sx="0.55" sy="0.55" r="0" a="1"/>
+		<Keyframe t="0.902000" x="0" y="00000" sx="0.00" sy="0.00" r="0" a="1"/>
+		<Keyframe t="0.922500" x="0" y="-0008" sx="0.00" sy="0.00" r="0" a="1"/>
+		<Keyframe t="0.971000" x="0" y="00000" sx="0.00" sy="0.00" r="0" a="1"/>
+	</Animation>
+	<Animation name="Root.Animations.Bingo_Card_Ball_Fall_5x5_4card_3">
+		<Keyframe t="0.000000" x="0" y="-600" sx="0.55" sy="0.55" r="0" a="1"/>
+		<Keyframe t="0.902000" x="0" y="00000" sx="0.00" sy="0.00" r="0" a="1"/>
+		<Keyframe t="0.922500" x="0" y="-0008" sx="0.00" sy="0.00" r="0" a="1"/>
+		<Keyframe t="0.971000" x="0" y="00000" sx="0.00" sy="0.00" r="0" a="1"/>
+	</Animation>
+	<Animation name="Root.Animations.Bingo_Card_Ball_Fall_5x5_4card_4">
+		<Keyframe t="0.000000" x="0" y="-600" sx="0.55" sy="0.55" r="0" a="1"/>
+		<Keyframe t="0.902000" x="0" y="00000" sx="0.00" sy="0.00" r="0" a="1"/>
+		<Keyframe t="0.922500" x="0" y="-0008" sx="0.00" sy="0.00" r="0" a="1"/>
+		<Keyframe t="0.971000" x="0" y="00000" sx="0.00" sy="0.00" r="0" a="1"/>
+	</Animation>
+	<Animation name="Root.Animations.Bingo_Card_Ball_Fall_5x5_4card_5">
+		<Keyframe t="0.000000" x="0" y="-600" sx="0.55" sy="0.55" r="0" a="1"/>
+		<Keyframe t="0.902000" x="0" y="00000" sx="0.00" sy="0.00" r="0" a="1"/>
+		<Keyframe t="0.922500" x="0" y="-0008" sx="0.00" sy="0.00" r="0" a="1"/>
+		<Keyframe t="0.971000" x="0" y="00000" sx="0.00" sy="0.00" r="0" a="1"/>
+	</Animation>
+	<Animation name="Root.Animations.Bingo_Card_Ball_Fall_5x5_4card_6">
+		<Keyframe t="0.000000" x="0" y="-600" sx="0.55" sy="0.55" r="0" a="1"/>
+		<Keyframe t="0.902000" x="0" y="00000" sx="0.00" sy="0.00" r="0" a="1"/>
+		<Keyframe t="0.922500" x="0" y="-0008" sx="0.00" sy="0.00" r="0" a="1"/>
+		<Keyframe t="0.971000" x="0" y="00000" sx="0.00" sy="0.00" r="0" a="1"/>
+	</Animation>
+	<Animation name="Root.Animations.Bingo_Card_Ball_Fall_5x5_4card_7">
+		<Keyframe t="0.000000" x="0" y="-600" sx="0.55" sy="0.55" r="0" a="1"/>
+		<Keyframe t="0.902000" x="0" y="00000" sx="0.00" sy="0.00" r="0" a="1"/>
+		<Keyframe t="0.922500" x="0" y="-0008" sx="0.00" sy="0.00" r="0" a="1"/>
+		<Keyframe t="0.971000" x="0" y="00000" sx="0.00" sy="0.00" r="0" a="1"/>
+	</Animation>
+	<Animation name="Root.Animations.Bingo_Card_Ball_Fall_5x5_4card_8">
+		<Keyframe t="0.000000" x="0" y="-600" sx="0.55" sy="0.55" r="0" a="1"/>
+		<Keyframe t="0.902000" x="0" y="00000" sx="0.00" sy="0.00" r="0" a="1"/>
+		<Keyframe t="0.922500" x="0" y="-0008" sx="0.00" sy="0.00" r="0" a="1"/>
+		<Keyframe t="0.971000" x="0" y="00000" sx="0.00" sy="0.00" r="0" a="1"/>
+	</Animation>
+	<Animation name="Root.Animations.Bingo_Card_Ball_Fall_5x5_4card_9">
+		<Keyframe t="0.000000" x="0" y="-600" sx="0.55" sy="0.55" r="0" a="1"/>
+		<Keyframe t="0.902000" x="0" y="00000" sx="0.00" sy="0.00" r="0" a="1"/>
+		<Keyframe t="0.922500" x="0" y="-0008" sx="0.00" sy="0.00" r="0" a="1"/>
+		<Keyframe t="0.971000" x="0" y="00000" sx="0.00" sy="0.00" r="0" a="1"/>
+	</Animation>
+	<Animation name="Root.Animations.Bingo_Card_Ball_Fall_5x5_4card_10">
+		<Keyframe t="0.000000" x="0" y="-600" sx="0.55" sy="0.55" r="0" a="1"/>
+		<Keyframe t="0.902000" x="0" y="00000" sx="0.00" sy="0.00" r="0" a="1"/>
+		<Keyframe t="0.922500" x="0" y="-0008" sx="0.00" sy="0.00" r="0" a="1"/>
+		<Keyframe t="0.971000" x="0" y="00000" sx="0.00" sy="0.00" r="0" a="1"/>
+	</Animation>
+	<Animation name="Root.Animations.Bingo_Card_Ball_Fall_5x5_9card_1">
+		<Keyframe t="0.000000" x="0" y="-600" sx="0.55" sy="0.55" r="0" a="1"/>
+		<Keyframe t="0.902000" x="0" y="0000" sx="0.00" sy="0.00" r="0" a="1"/>
+		<Keyframe t="0.922500" x="0" y="-008" sx="0.00" sy="0.00" r="0" a="1"/>
+		<Keyframe t="0.971000" x="0" y="0000" sx="0.00" sy="0.00" r="0" a="1"/>
+	</Animation>
+	<Animation name="Root.Animations.Bingo_Card_Ball_Fall_5x5_9card_2">
+		<Keyframe t="0.000000" x="0" y="-600" sx="0.55" sy="0.55" r="0" a="1"/>
+		<Keyframe t="0.902000" x="0" y="0000" sx="0.00" sy="0.00" r="0" a="1"/>
+		<Keyframe t="0.922500" x="0" y="-008" sx="0.00" sy="0.00" r="0" a="1"/>
+		<Keyframe t="0.971000" x="0" y="0000" sx="0.00" sy="0.00" r="0" a="1"/>
+	</Animation>
+	<Animation name="Root.Animations.Bingo_Card_Ball_Fall_5x5_9card_3">
+		<Keyframe t="0.000000" x="0" y="-600" sx="0.55" sy="0.55" r="0" a="1"/>
+		<Keyframe t="0.902000" x="0" y="0000" sx="0.00" sy="0.00" r="0" a="1"/>
+		<Keyframe t="0.922500" x="0" y="-008" sx="0.00" sy="0.00" r="0" a="1"/>
+		<Keyframe t="0.971000" x="0" y="0000" sx="0.00" sy="0.00" r="0" a="1"/>
+	</Animation>
+	<Animation name="Root.Animations.Bingo_Card_Ball_Fall_5x5_9card_4">
+		<Keyframe t="0.000000" x="0" y="-600" sx="0.55" sy="0.55" r="0" a="1"/>
+		<Keyframe t="0.902000" x="0" y="0000" sx="0.00" sy="0.00" r="0" a="1"/>
+		<Keyframe t="0.922500" x="0" y="-008" sx="0.00" sy="0.00" r="0" a="1"/>
+		<Keyframe t="0.971000" x="0" y="0000" sx="0.00" sy="0.00" r="0" a="1"/>
+	</Animation>
+	<Animation name="Root.Animations.Bingo_Card_Ball_Fall_5x5_9card_5">
+		<Keyframe t="0.000000" x="0" y="-600" sx="0.55" sy="0.55" r="0" a="1"/>
+		<Keyframe t="0.902000" x="0" y="0000" sx="0.00" sy="0.00" r="0" a="1"/>
+		<Keyframe t="0.922500" x="0" y="-008" sx="0.00" sy="0.00" r="0" a="1"/>
+		<Keyframe t="0.971000" x="0" y="0000" sx="0.00" sy="0.00" r="0" a="1"/>
+	</Animation>
+	<Animation name="Root.Animations.Bingo_Card_Ball_Fall_5x5_9card_6">
+		<Keyframe t="0.000000" x="0" y="-600" sx="0.55" sy="0.55" r="0" a="1"/>
+		<Keyframe t="0.902000" x="0" y="0000" sx="0.00" sy="0.00" r="0" a="1"/>
+		<Keyframe t="0.922500" x="0" y="-008" sx="0.00" sy="0.00" r="0" a="1"/>
+		<Keyframe t="0.971000" x="0" y="0000" sx="0.00" sy="0.00" r="0" a="1"/>
+	</Animation>
+	<Animation name="Root.Animations.Bingo_Card_Ball_Fall_5x5_9card_7">
+		<Keyframe t="0.000000" x="0" y="-600" sx="0.55" sy="0.55" r="0" a="1"/>
+		<Keyframe t="0.902000" x="0" y="0000" sx="0.00" sy="0.00" r="0" a="1"/>
+		<Keyframe t="0.922500" x="0" y="-008" sx="0.00" sy="0.00" r="0" a="1"/>
+		<Keyframe t="0.971000" x="0" y="0000" sx="0.00" sy="0.00" r="0" a="1"/>
+	</Animation>
+	<Animation name="Root.Animations.Bingo_Card_Ball_Fall_5x5_9card_8">
+		<Keyframe t="0.000000" x="0" y="-600" sx="0.55" sy="0.55" r="0" a="1"/>
+		<Keyframe t="0.902000" x="0" y="0000" sx="0.00" sy="0.00" r="0" a="1"/>
+		<Keyframe t="0.922500" x="0" y="-008" sx="0.00" sy="0.00" r="0" a="1"/>
+		<Keyframe t="0.971000" x="0" y="0000" sx="0.00" sy="0.00" r="0" a="1"/>
+	</Animation>
+	<Animation name="Root.Animations.Bingo_Card_Ball_Fall_5x5_9card_9">
+		<Keyframe t="0.000000" x="0" y="-600" sx="0.55" sy="0.55" r="0" a="1"/>
+		<Keyframe t="0.902000" x="0" y="0000" sx="0.00" sy="0.00" r="0" a="1"/>
+		<Keyframe t="0.922500" x="0" y="-008" sx="0.00" sy="0.00" r="0" a="1"/>
+		<Keyframe t="0.971000" x="0" y="0000" sx="0.00" sy="0.00" r="0" a="1"/>
+	</Animation>
+	<Animation name="Root.Animations.Bingo_Card_Ball_Fall_5x5_9card_10">
+		<Keyframe t="0.000000" x="0" y="-600" sx="0.55" sy="0.55" r="0" a="1"/>
+		<Keyframe t="0.902000" x="0" y="0000" sx="0.00" sy="0.00" r="0" a="1"/>
+		<Keyframe t="0.922500" x="0" y="-008" sx="0.00" sy="0.00" r="0" a="1"/>
+		<Keyframe t="0.971000" x="0" y="0000" sx="0.00" sy="0.00" r="0" a="1"/>
+	</Animation>
+	<Animation name="Root.Animations.Bingo_Card_Ball_Fall_5x5_9card_11">
+		<Keyframe t="0.000000" x="0" y="-600" sx="0.55" sy="0.55" r="0" a="1"/>
+		<Keyframe t="0.902000" x="0" y="0000" sx="0.00" sy="0.00" r="0" a="1"/>
+		<Keyframe t="0.922500" x="0" y="-008" sx="0.00" sy="0.00" r="0" a="1"/>
+		<Keyframe t="0.971000" x="0" y="0000" sx="0.00" sy="0.00" r="0" a="1"/>
+	</Animation>
+	<Animation name="Root.Animations.Bingo_Card_Ball_Fall_5x5_9card_12">
+		<Keyframe t="0.000000" x="0" y="-600" sx="0.55" sy="0.55" r="0" a="1"/>
+		<Keyframe t="0.902000" x="0" y="0000" sx="0.00" sy="0.00" r="0" a="1"/>
+		<Keyframe t="0.922500" x="0" y="-008" sx="0.00" sy="0.00" r="0" a="1"/>
+		<Keyframe t="0.971000" x="0" y="0000" sx="0.00" sy="0.00" r="0" a="1"/>
+	</Animation>
+	<Animation name="Root.Animations.Bingo_Card_Ball_Fall_5x5_9card_13">
+		<Keyframe t="0.000000" x="0" y="-600" sx="0.55" sy="0.55" r="0" a="1"/>
+		<Keyframe t="0.902000" x="0" y="0000" sx="0.00" sy="0.00" r="0" a="1"/>
+		<Keyframe t="0.922500" x="0" y="-008" sx="0.00" sy="0.00" r="0" a="1"/>
+		<Keyframe t="0.971000" x="0" y="0000" sx="0.00" sy="0.00" r="0" a="1"/>
+	</Animation>
+	<Animation name="Root.Animations.Bingo_Card_Ball_Fall_5x5_9card_14">
+		<Keyframe t="0.000000" x="0" y="-600" sx="0.55" sy="0.55" r="0" a="1"/>
+		<Keyframe t="0.902000" x="0" y="0000" sx="0.00" sy="0.00" r="0" a="1"/>
+		<Keyframe t="0.922500" x="0" y="-008" sx="0.00" sy="0.00" r="0" a="1"/>
+		<Keyframe t="0.971000" x="0" y="0000" sx="0.00" sy="0.00" r="0" a="1"/>
+	</Animation>
+	<Animation name="Root.Animations.Bingo_Card_Ball_Fall_5x5_9card_15">
+		<Keyframe t="0.000000" x="0" y="-600" sx="0.55" sy="0.55" r="0" a="1"/>
+		<Keyframe t="0.902000" x="0" y="0000" sx="0.00" sy="0.00" r="0" a="1"/>
+		<Keyframe t="0.922500" x="0" y="-008" sx="0.00" sy="0.00" r="0" a="1"/>
+		<Keyframe t="0.971000" x="0" y="0000" sx="0.00" sy="0.00" r="0" a="1"/>
+	</Animation>
+	<Animation name="Root.Animations.BallPulseAnim">
+		<Keyframe t="0.000000" x="0" y="0" sx="0.0" sy="0.0" r="0" a="1"/>
+		<Keyframe t="0.240770" x="0" y="0" sx="0.2" sy="0.2" r="0" a="1"/>
+		<Keyframe t="0.500802" x="0" y="0" sx="0.0" sy="0.0" r="0" a="1"/>
+		<Keyframe t="0.754414" x="0" y="0" sx="0.2" sy="0.2" r="0" a="1"/>
+		<Keyframe t="1.004815" x="0" y="0" sx="0.0" sy="0.0" r="0" a="1"/>
+		<Keyframe t="1.248796" x="0" y="0" sx="0.2" sy="0.2" r="0" a="1"/>
+		<Keyframe t="1.505618" x="0" y="0" sx="0.0" sy="0.0" r="0" a="1"/>
+		<Keyframe t="1.756019" x="0" y="0" sx="0.2" sy="0.2" r="0" a="1"/>
+		<Keyframe t="2.016051" x="0" y="0" sx="0.0" sy="0.0" r="0" a="1"/>
+		<Keyframe t="2.253612" x="0" y="0" sx="0.2" sy="0.2" r="0" a="1"/>
+		<Keyframe t="2.507223" x="0" y="0" sx="0.0" sy="0.0" r="0" a="1"/>
+		<Keyframe t="2.512000" x="0" y="0" sx="0.0" sy="0.0" r="0" a="1"/>
+	</Animation>
+	<Animation name="Root.Animations.GoldCoinPulseAnim" gameflag="0">
+		<Keyframe t="0.000000" x="0" y="0" sx="0" sy="0" r="0" a="1"/>
+		<Keyframe t="2.512000" x="0" y="0" sx="0" sy="0" r="0" a="1"/>
+	</Animation>
+	<Animation name="Root.Animations.PatternShortPulseAnim" gameflag="4">
+		<Keyframe t="0.000000" x="0" y="0" sx="0.0" sy="0.0" r="0" a="1"/>
+		<Keyframe t="0.250000" x="0" y="0" sx="0.2" sy="0.2" r="0" a="1"/>
+		<Keyframe t="0.500000" x="0" y="0" sx="0.0" sy="0.0" r="0" a="1"/>
+		<Keyframe t="0.750000" x="0" y="0" sx="0.2" sy="0.2" r="0" a="1"/>
+		<Keyframe t="1.000000" x="0" y="0" sx="0.0" sy="0.0" r="0" a="1"/>
+	</Animation>
+	<Animation name="Root.Animations.Balloon" gameflag="4">
+		<Keyframe t="0.000000" x="0" y="00000" sx="0.000000" sy="00.000000" r="0" a="1.000"/>
+		<Keyframe t="0.100000" x="0" y="00000" sx="0.000000" sy="00.000000" r="0" a="1.000"/>
+		<Keyframe t="0.133333" x="0" y="00012" sx="0.044338" sy="-0.000834" r="0" a="0.990"/>
+		<Keyframe t="0.166666" x="0" y="00019" sx="0.150066" sy="-0.007575" r="0" a="0.980"/>
+		<Keyframe t="0.200000" x="0" y="00025" sx="0.276260" sy="-0.026582" r="0" a="0.970"/>
+		<Keyframe t="0.233333" x="0" y="00030" sx="0.381996" sy="-0.064214" r="0" a="0.960"/>
+		<Keyframe t="0.266667" x="0" y="00033" sx="0.426341" sy="-0.126835" r="0" a="0.950"/>
+		<Keyframe t="0.300000" x="0" y="00035" sx="0.316245" sy="-0.134700" r="0" a="0.940"/>
+		<Keyframe t="0.333333" x="0" y="00037" sx="0.111802" sy="00.119887" r="0" a="0.930"/>
+		<Keyframe t="0.366667" x="0" y="00037" sx="0.001719" sy="00.405932" r="0" a="0.920"/>
+		<Keyframe t="0.400000" x="0" y="00020" sx="0.022526" sy="00.163640" r="0" a="0.910"/>
+		<Keyframe t="0.433333" x="0" y="-0006" sx="0.074230" sy="00.076512" r="0" a="0.900"/>
+		<Keyframe t="0.466667" x="0" y="-0033" sx="0.135960" sy="-0.002741" r="0" a="0.890"/>
+		<Keyframe t="0.500000" x="0" y="-0061" sx="0.195297" sy="-0.067520" r="0" a="0.880"/>
+		<Keyframe t="0.533333" x="0" y="-0089" sx="0.239941" sy="-0.111226" r="0" a="0.870"/>
+		<Keyframe t="0.566667" x="0" y="-0116" sx="0.257562" sy="-0.127262" r="0" a="0.860"/>
+		<Keyframe t="0.600000" x="0" y="-0136" sx="0.190787" sy="-0.098291" r="0" a="0.850"/>
+		<Keyframe t="0.633333" x="0" y="-0155" sx="0.066775" sy="-0.041040" r="0" a="0.840"/>
+		<Keyframe t="0.666667" x="0" y="-0190" sx="0.000000" sy="00.000000" r="0" a="0.830"/>
+		<Keyframe t="0.700000" x="0" y="-0244" sx="0.001993" sy="00.018161" r="0" a="0.820"/>
+		<Keyframe t="0.733333" x="0" y="-0305" sx="0.007541" sy="00.036273" r="0" a="0.810"/>
+		<Keyframe t="0.766667" x="0" y="-0373" sx="0.015999" sy="00.054092" r="0" a="0.800"/>
+		<Keyframe t="0.800000" x="0" y="-0444" sx="0.026718" sy="00.071373" r="0" a="0.790"/>
+		<Keyframe t="0.833333" x="0" y="-0517" sx="0.039054" sy="00.087873" r="0" a="0.780"/>
+		<Keyframe t="0.866667" x="0" y="-0589" sx="0.052360" sy="00.103346" r="0" a="0.770"/>
+		<Keyframe t="0.900000" x="0" y="-0659" sx="0.065988" sy="00.117549" r="0" a="0.760"/>
+		<Keyframe t="0.933333" x="0" y="-0723" sx="0.079294" sy="00.130237" r="0" a="0.750"/>
+		<Keyframe t="0.966667" x="0" y="-0781" sx="0.091629" sy="00.141166" r="0" a="0.740"/>
+		<Keyframe t="1.000000" x="0" y="-0830" sx="0.102349" sy="00.150091" r="0" a="0.730"/>
+		<Keyframe t="1.000001" x="0" y="-0830" sx="0.102349" sy="00.150091" r="0" a="0"/>
+		<Keyframe t="1.000002" x="0" y="00000" sx="0.000000" sy="00.000000" r="0" a="0"/>
+	</Animation>
+	<Animation name="Root.Animations.GoldCoinAnim_3x3_1card" gameflag="0">
+		<Keyframe t="0.00" x="0" y="-600" sx="0.6" sy="0.6" r="0" a="1"/>
+		<Keyframe t="1.60" x="0" y="0000" sx="0.0" sy="0.0" r="0" a="1"/>
+	</Animation>
+	<Animation name="Root.Animations.GoldCoinAnim_3x3_4card" gameflag="0">
+		<Keyframe t="0.00" x="0" y="-600" sx="0.6" sy="0.6" r="0" a="1"/>
+		<Keyframe t="1.60" x="0" y="0000" sx="0.0" sy="0.0" r="0" a="1"/>
+	</Animation>
+	<Animation name="Root.Animations.GoldCoinAnim_3x3_9card" gameflag="0">
+		<Keyframe t="0.00" x="0" y="-600" sx="0.6" sy="0.6" r="0" a="1"/>
+		<Keyframe t="1.60" x="0" y="0000" sx="0.0" sy="0.0" r="0" a="1"/>
+	</Animation>
+	<Animation name="Root.Animations.GoldCoinAnim_4x4_1card" gameflag="0">
+		<Keyframe t="0.00" x="0" y="-470" sx="0.6" sy="0.6" r="0" a="1"/>
+		<Keyframe t="1.25" x="0" y="0000" sx="0.0" sy="0.0" r="0" a="1"/>
+	</Animation>
+	<Animation name="Root.Animations.GoldCoinAnim_4x4_4card" gameflag="0">
+		<Keyframe t="0.00" x="0" y="-470" sx="0.6" sy="0.6" r="0" a="1"/>
+		<Keyframe t="1.25" x="0" y="0000" sx="0.0" sy="0.0" r="0" a="1"/>
+	</Animation>
+	<Animation name="Root.Animations.GoldCoinAnim_4x4_9card" gameflag="0">
+		<Keyframe t="0.00" x="0" y="-470" sx="0.6" sy="0.6" r="0" a="1"/>
+		<Keyframe t="1.25" x="0" y="0000" sx="0.0" sy="0.0" r="0" a="1"/>
+	</Animation>
+	<Animation name="Root.Animations.GoldCoinAnim_5x5_1card" gameflag="0">
+		<Keyframe t="0.00" x="0" y="-370" sx="0.6" sy="0.6" r="0" a="1"/>
+		<Keyframe t="0.98" x="0" y="0000" sx="0.0" sy="0.0" r="0" a="1"/>
+	</Animation>
+	<Animation name="Root.Animations.GoldCoinAnim_5x5_4card" gameflag="0">
+		<Keyframe t="0.00" x="0" y="-390" sx="0.6" sy="0.6" r="0" a="1"/>
+		<Keyframe t="1.03" x="0" y="0000" sx="0.0" sy="0.0" r="0" a="1"/>
+	</Animation>
+	<Animation name="Root.Animations.GoldCoinAnim_5x5_9card" gameflag="0">
+		<Keyframe t="0.00" x="0" y="-390" sx="0.6" sy="0.6" r="0" a="1"/>
+		<Keyframe t="1.03" x="0" y="0000" sx="0.0" sy="0.0" r="0" a="1"/>
+	</Animation>
+	<Animation name="Root.Animations.WildBall1" gameflag="2 6">
+		<Keyframe t="0.000000" x="0" y="0" sx="00.000000" sy="00.000000" r="0" a="0.000"/>
+		<Keyframe t="0.033333" x="0" y="0" sx="00.002351" sy="-0.011458" r="0" a="0.050"/>
+		<Keyframe t="0.066666" x="0" y="0" sx="00.008652" sy="-0.042168" r="0" a="0.100"/>
+		<Keyframe t="0.100000" x="0" y="0" sx="00.017776" sy="-0.086627" r="0" a="0.150"/>
+		<Keyframe t="0.133333" x="0" y="0" sx="00.028592" sy="-0.139337" r="0" a="0.200"/>
+		<Keyframe t="0.166667" x="0" y="0" sx="00.039972" sy="-0.194797" r="0" a="0.250"/>
+		<Keyframe t="0.200000" x="0" y="0" sx="00.050789" sy="-0.247507" r="0" a="0.300"/>
+		<Keyframe t="0.233333" x="0" y="0" sx="00.059912" sy="-0.291967" r="0" a="0.350"/>
+		<Keyframe t="0.266667" x="0" y="0" sx="00.066213" sy="-0.322676" r="0" a="0.400"/>
+		<Keyframe t="0.300000" x="0" y="0" sx="00.068565" sy="-0.334135" r="0" a="0.450"/>
+		<Keyframe t="0.333333" x="0" y="0" sx="00.065931" sy="-0.322574" r="0" a="0.500"/>
+		<Keyframe t="0.366667" x="0" y="0" sx="00.058780" sy="-0.291195" r="0" a="0.550"/>
+		<Keyframe t="0.400000" x="0" y="0" sx="00.048244" sy="-0.244951" r="0" a="0.600"/>
+		<Keyframe t="0.433333" x="0" y="0" sx="00.035449" sy="-0.188799" r="0" a="0.650"/>
+		<Keyframe t="0.466667" x="0" y="0" sx="00.021525" sy="-0.127692" r="0" a="0.700"/>
+		<Keyframe t="0.500000" x="0" y="0" sx="00.007601" sy="-0.066584" r="0" a="0.750"/>
+		<Keyframe t="0.533333" x="0" y="0" sx="-0.005193" sy="-0.010431" r="0" a="0.800"/>
+		<Keyframe t="0.566667" x="0" y="0" sx="-0.015730" sy="00.035811" r="0" a="0.850"/>
+		<Keyframe t="0.600000" x="0" y="0" sx="-0.022880" sy="00.067190" r="0" a="0.900"/>
+		<Keyframe t="0.633333" x="0" y="0" sx="-0.025514" sy="00.078751" r="0" a="0.950"/>
+		<Keyframe t="0.666667" x="0" y="0" sx="-0.022880" sy="00.067190" r="0" a="1.000"/>
+		<Keyframe t="0.700000" x="0" y="0" sx="-0.015730" sy="00.035811" r="0" a="1.000"/>
+		<Keyframe t="0.733333" x="0" y="0" sx="-0.005193" sy="-0.010431" r="0" a="1.000"/>
+		<Keyframe t="0.766667" x="0" y="0" sx="00.007601" sy="-0.066584" r="0" a="1.000"/>
+		<Keyframe t="0.800000" x="0" y="0" sx="00.021525" sy="-0.127692" r="0" a="1.000"/>
+		<Keyframe t="0.833333" x="0" y="0" sx="00.035449" sy="-0.188799" r="0" a="1.000"/>
+		<Keyframe t="0.866667" x="0" y="0" sx="00.048244" sy="-0.244951" r="0" a="1.000"/>
+		<Keyframe t="0.900000" x="0" y="0" sx="00.058780" sy="-0.291195" r="0" a="1.000"/>
+		<Keyframe t="0.933333" x="0" y="0" sx="00.065931" sy="-0.322574" r="0" a="1.000"/>
+		<Keyframe t="0.966667" x="0" y="0" sx="00.068565" sy="-0.334135" r="0" a="1.000"/>
+		<Keyframe t="1.000000" x="0" y="0" sx="00.065931" sy="-0.322574" r="0" a="1.000"/>
+		<Keyframe t="1.033330" x="0" y="0" sx="00.058780" sy="-0.291195" r="0" a="1.000"/>
+		<Keyframe t="1.066670" x="0" y="0" sx="00.048244" sy="-0.244951" r="0" a="1.000"/>
+		<Keyframe t="1.100000" x="0" y="0" sx="00.035449" sy="-0.188799" r="0" a="1.000"/>
+		<Keyframe t="1.133330" x="0" y="0" sx="00.021525" sy="-0.127692" r="0" a="1.000"/>
+		<Keyframe t="1.166670" x="0" y="0" sx="00.007601" sy="-0.066584" r="0" a="1.000"/>
+		<Keyframe t="1.200000" x="0" y="0" sx="-0.005193" sy="-0.010431" r="0" a="1.000"/>
+		<Keyframe t="1.233330" x="0" y="0" sx="-0.015730" sy="00.035811" r="0" a="1.000"/>
+		<Keyframe t="1.266670" x="0" y="0" sx="-0.022880" sy="00.067190" r="0" a="1.000"/>
+		<Keyframe t="1.300000" x="0" y="0" sx="-0.025514" sy="00.078751" r="0" a="1.000"/>
+		<Keyframe t="1.333330" x="0" y="0" sx="-0.022880" sy="00.067190" r="0" a="1.000"/>
+		<Keyframe t="1.366670" x="0" y="0" sx="-0.015730" sy="00.035811" r="0" a="1.000"/>
+		<Keyframe t="1.400000" x="0" y="0" sx="-0.005193" sy="-0.010431" r="0" a="1.000"/>
+		<Keyframe t="1.433330" x="0" y="0" sx="00.007601" sy="-0.066584" r="0" a="1.000"/>
+		<Keyframe t="1.466670" x="0" y="0" sx="00.021525" sy="-0.127692" r="0" a="1.000"/>
+		<Keyframe t="1.500000" x="0" y="0" sx="00.035449" sy="-0.188799" r="0" a="1.000"/>
+		<Keyframe t="1.533330" x="0" y="0" sx="00.048244" sy="-0.244951" r="0" a="1.000"/>
+		<Keyframe t="1.566670" x="0" y="0" sx="00.058780" sy="-0.291195" r="0" a="1.000"/>
+		<Keyframe t="1.600000" x="0" y="0" sx="00.065931" sy="-0.322574" r="0" a="1.000"/>
+		<Keyframe t="1.633330" x="0" y="0" sx="00.068565" sy="-0.334135" r="0" a="1.000"/>
+		<Keyframe t="1.666670" x="0" y="0" sx="00.067002" sy="-0.326353" r="0" a="1.000"/>
+		<Keyframe t="1.700000" x="0" y="0" sx="00.062712" sy="-0.305014" r="0" a="1.000"/>
+		<Keyframe t="1.733330" x="0" y="0" sx="00.056293" sy="-0.273132" r="0" a="1.000"/>
+		<Keyframe t="1.766670" x="0" y="0" sx="00.048342" sy="-0.233719" r="0" a="1.000"/>
+		<Keyframe t="1.800000" x="0" y="0" sx="00.039457" sy="-0.189787" r="0" a="1.000"/>
+		<Keyframe t="1.833330" x="0" y="0" sx="00.030235" sy="-0.144348" r="0" a="1.000"/>
+		<Keyframe t="1.866670" x="0" y="0" sx="00.021275" sy="-0.100416" r="0" a="1.000"/>
+		<Keyframe t="1.900000" x="0" y="0" sx="00.013173" sy="-0.061002" r="0" a="1.000"/>
+		<Keyframe t="1.933330" x="0" y="0" sx="00.006528" sy="-0.029120" r="0" a="1.000"/>
+		<Keyframe t="1.966670" x="0" y="0" sx="00.001938" sy="-0.007782" r="0" a="1.000"/>
+		<Keyframe t="2.000000" x="0" y="0" sx="00.000000" sy="00.000000" r="0" a="1.000"/>
+	</Animation>
+	<Animation name="Root.Animations.WildBall2" gameflag="2 6">
+		<Keyframe t="0.000000" x="0" y="0" sx="00.000000" sy="00.000000" r="0" a="1"/>
+		<Keyframe t="0.033333" x="0" y="0" sx="00.002351" sy="-0.011458" r="0" a="1"/>
+		<Keyframe t="0.066666" x="0" y="0" sx="00.008652" sy="-0.042168" r="0" a="1"/>
+		<Keyframe t="0.100000" x="0" y="0" sx="00.017776" sy="-0.086627" r="0" a="1"/>
+		<Keyframe t="0.133333" x="0" y="0" sx="00.028592" sy="-0.139337" r="0" a="1"/>
+		<Keyframe t="0.166667" x="0" y="0" sx="00.039972" sy="-0.194797" r="0" a="1"/>
+		<Keyframe t="0.200000" x="0" y="0" sx="00.050789" sy="-0.247507" r="0" a="1"/>
+		<Keyframe t="0.233333" x="0" y="0" sx="00.059912" sy="-0.291967" r="0" a="1"/>
+		<Keyframe t="0.266667" x="0" y="0" sx="00.066213" sy="-0.322676" r="0" a="1"/>
+		<Keyframe t="0.300000" x="0" y="0" sx="00.068565" sy="-0.334135" r="0" a="1"/>
+		<Keyframe t="0.333333" x="0" y="0" sx="00.065931" sy="-0.322574" r="0" a="1"/>
+		<Keyframe t="0.366667" x="0" y="0" sx="00.058780" sy="-0.291195" r="0" a="1"/>
+		<Keyframe t="0.400000" x="0" y="0" sx="00.048244" sy="-0.244951" r="0" a="1"/>
+		<Keyframe t="0.433333" x="0" y="0" sx="00.035449" sy="-0.188799" r="0" a="1"/>
+		<Keyframe t="0.466667" x="0" y="0" sx="00.021525" sy="-0.127692" r="0" a="1"/>
+		<Keyframe t="0.500000" x="0" y="0" sx="00.007601" sy="-0.066584" r="0" a="1"/>
+		<Keyframe t="0.533333" x="0" y="0" sx="-0.005193" sy="-0.010431" r="0" a="1"/>
+		<Keyframe t="0.566667" x="0" y="0" sx="-0.015730" sy="00.035811" r="0" a="1"/>
+		<Keyframe t="0.600000" x="0" y="0" sx="-0.022880" sy="00.067190" r="0" a="1"/>
+		<Keyframe t="0.633333" x="0" y="0" sx="-0.025514" sy="00.078751" r="0" a="1"/>
+		<Keyframe t="0.666667" x="0" y="0" sx="-0.022880" sy="00.067190" r="0" a="1"/>
+		<Keyframe t="0.700000" x="0" y="0" sx="-0.015730" sy="00.035811" r="0" a="1"/>
+		<Keyframe t="0.733333" x="0" y="0" sx="-0.005193" sy="-0.010431" r="0" a="1"/>
+		<Keyframe t="0.766667" x="0" y="0" sx="00.007601" sy="-0.066584" r="0" a="1"/>
+		<Keyframe t="0.800000" x="0" y="0" sx="00.021525" sy="-0.127692" r="0" a="1"/>
+		<Keyframe t="0.833333" x="0" y="0" sx="00.035449" sy="-0.188799" r="0" a="1"/>
+		<Keyframe t="0.866667" x="0" y="0" sx="00.048244" sy="-0.244951" r="0" a="1"/>
+		<Keyframe t="0.900000" x="0" y="0" sx="00.058780" sy="-0.291195" r="0" a="1"/>
+		<Keyframe t="0.933333" x="0" y="0" sx="00.065931" sy="-0.322574" r="0" a="1"/>
+		<Keyframe t="0.966667" x="0" y="0" sx="00.068565" sy="-0.334135" r="0" a="1"/>
+		<Keyframe t="1.000000" x="0" y="0" sx="00.065931" sy="-0.322574" r="0" a="1"/>
+		<Keyframe t="1.033330" x="0" y="0" sx="00.058780" sy="-0.291195" r="0" a="1"/>
+		<Keyframe t="1.066670" x="0" y="0" sx="00.048244" sy="-0.244951" r="0" a="1"/>
+		<Keyframe t="1.100000" x="0" y="0" sx="00.035449" sy="-0.188799" r="0" a="1"/>
+		<Keyframe t="1.133330" x="0" y="0" sx="00.021525" sy="-0.127692" r="0" a="1"/>
+		<Keyframe t="1.166670" x="0" y="0" sx="00.007601" sy="-0.066584" r="0" a="1"/>
+		<Keyframe t="1.200000" x="0" y="0" sx="-0.005193" sy="-0.010431" r="0" a="1"/>
+		<Keyframe t="1.233330" x="0" y="0" sx="-0.015730" sy="00.035811" r="0" a="1"/>
+		<Keyframe t="1.266670" x="0" y="0" sx="-0.022880" sy="00.067190" r="0" a="1"/>
+		<Keyframe t="1.300000" x="0" y="0" sx="-0.025514" sy="00.078751" r="0" a="1"/>
+		<Keyframe t="1.333330" x="0" y="0" sx="-0.022880" sy="00.067190" r="0" a="1"/>
+		<Keyframe t="1.366670" x="0" y="0" sx="-0.015730" sy="00.035811" r="0" a="1"/>
+		<Keyframe t="1.400000" x="0" y="0" sx="-0.005193" sy="-0.010431" r="0" a="1"/>
+		<Keyframe t="1.433330" x="0" y="0" sx="00.007601" sy="-0.066584" r="0" a="1"/>
+		<Keyframe t="1.466670" x="0" y="0" sx="00.021525" sy="-0.127692" r="0" a="1"/>
+		<Keyframe t="1.500000" x="0" y="0" sx="00.035449" sy="-0.188799" r="0" a="1"/>
+		<Keyframe t="1.533330" x="0" y="0" sx="00.048244" sy="-0.244951" r="0" a="1"/>
+		<Keyframe t="1.566670" x="0" y="0" sx="00.058780" sy="-0.291195" r="0" a="1"/>
+		<Keyframe t="1.600000" x="0" y="0" sx="00.065931" sy="-0.322574" r="0" a="1"/>
+		<Keyframe t="1.633330" x="0" y="0" sx="00.068565" sy="-0.334135" r="0" a="1"/>
+		<Keyframe t="1.666670" x="0" y="0" sx="00.067002" sy="-0.326353" r="0" a="1"/>
+		<Keyframe t="1.700000" x="0" y="0" sx="00.062712" sy="-0.305014" r="0" a="1"/>
+		<Keyframe t="1.733330" x="0" y="0" sx="00.056293" sy="-0.273132" r="0" a="1"/>
+		<Keyframe t="1.766670" x="0" y="0" sx="00.048342" sy="-0.233719" r="0" a="1"/>
+		<Keyframe t="1.800000" x="0" y="0" sx="00.039457" sy="-0.189787" r="0" a="1"/>
+		<Keyframe t="1.833330" x="0" y="0" sx="00.030235" sy="-0.144348" r="0" a="1"/>
+		<Keyframe t="1.866670" x="0" y="0" sx="00.021275" sy="-0.100416" r="0" a="1"/>
+		<Keyframe t="1.900000" x="0" y="0" sx="00.013173" sy="-0.061002" r="0" a="1"/>
+		<Keyframe t="1.933330" x="0" y="0" sx="00.006528" sy="-0.029120" r="0" a="1"/>
+		<Keyframe t="1.966670" x="0" y="0" sx="00.001938" sy="-0.007782" r="0" a="1"/>
+		<Keyframe t="2.000000" x="0" y="0" sx="00.000000" sy="00.000000" r="0" a="1"/>
+	</Animation>
+	<Animation name="Root.Animations.RedCloudBurstAnim">
+		<Keyframe t="0.0000000" x="0" y="0" sx="0.00" sy="0.00" r="0" a="0"/>
+		<Keyframe t="0.0000001" x="0" y="0" sx="-1.000000" sy="-1.000000" r="0" a="0.000000"/>
+		<Keyframe t="0.0666667" x="0" y="0" sx="-0.994164" sy="-0.978691" r="0" a="0.042969"/>
+		<Keyframe t="0.1333334" x="0" y="0" sx="-0.973820" sy="-0.920525" r="0" a="0.156250"/>
+		<Keyframe t="0.2000000" x="0" y="0" sx="-0.934716" sy="-0.834141" r="0" a="0.316406"/>
+		<Keyframe t="0.2666667" x="0" y="0" sx="-0.872598" sy="-0.728180" r="0" a="0.500000"/>
+		<Keyframe t="0.3333334" x="0" y="0" sx="-0.783214" sy="-0.611283" r="0" a="0.683594"/>
+		<Keyframe t="0.4000000" x="0" y="0" sx="-0.662309" sy="-0.492089" r="0" a="0.843750"/>
+		<Keyframe t="0.4666667" x="0" y="0" sx="-0.505632" sy="-0.379240" r="0" a="0.957031"/>
+		<Keyframe t="0.5333334" x="0" y="0" sx="-0.308928" sy="-0.281375" r="0" a="1.000000"/>
+		<Keyframe t="0.6000000" x="0" y="0" sx="0.0454733" sy="-0.189044" r="0" a="1.000000"/>
+		<Keyframe t="0.6666667" x="0" y="0" sx="0.1932160" sy="-0.107557" r="0" a="1.000000"/>
+		<Keyframe t="0.7333334" x="0" y="0" sx="0.0323400" sy="-0.051538" r="0" a="1.000000"/>
+		<Keyframe t="0.8000000" x="0" y="0" sx="-0.145470" sy="0.0103774" r="0" a="1.000000"/>
+		<Keyframe t="0.8666667" x="0" y="0" sx="-0.289412" sy="0.0604995" r="0" a="1.000000"/>
+		<Keyframe t="0.9333334" x="0" y="0" sx="-0.348682" sy="0.0811381" r="0" a="1.000000"/>
+		<Keyframe t="1.0000000" x="0" y="0" sx="-0.333677" sy="0.0787784" r="0" a="1.000000"/>
+		<Keyframe t="1.0666667" x="0" y="0" sx="-0.294119" sy="0.0724243" r="0" a="1.000000"/>
+		<Keyframe t="1.1333334" x="0" y="0" sx="-0.238191" sy="0.0631639" r="0" a="1.000000"/>
+		<Keyframe t="1.2000000" x="0" y="0" sx="-0.174080" sy="0.0520853" r="0" a="1.000000"/>
+		<Keyframe t="1.2666667" x="0" y="0" sx="-0.109968" sy="0.0402764" r="0" a="1.000000"/>
+		<Keyframe t="1.3333334" x="0" y="0" sx="-0.054041" sy="0.0288252" r="0" a="1.000000"/>
+		<Keyframe t="1.4000000" x="0" y="0" sx="-0.014483" sy="0.0188197" r="0" a="1.000000"/>
+		<Keyframe t="1.4666667" x="0" y="0" sx="0.0005224" sy="0.0113480" r="0" a="1.000000"/>
+		<Keyframe t="1.5333334" x="0" y="0" sx="0.0003914" sy="0.0055914" r="0" a="1.000000"/>
+		<Keyframe t="1.6000000" x="0" y="0" sx="0.0000000" sy="0.0000000" r="0" a="1.000000"/>
+		<Keyframe t="1.6666667" x="0" y="0" sx="-0.000649" sy="-0.005435" r="0" a="1.000000"/>
+		<Keyframe t="1.7333334" x="0" y="0" sx="-0.001552" sy="-0.010722" r="0" a="1.000000"/>
+		<Keyframe t="1.8000000" x="0" y="0" sx="-0.002707" sy="-0.015871" r="0" a="1.000000"/>
+		<Keyframe t="1.8666667" x="0" y="0" sx="-0.004111" sy="-0.020889" r="0" a="1.000000"/>
+		<Keyframe t="1.9333334" x="0" y="0" sx="-0.005761" sy="-0.025786" r="0" a="1.000000"/>
+		<Keyframe t="2.0000000" x="0" y="0" sx="-0.007654" sy="-0.030570" r="0" a="1.000000"/>
+		<Keyframe t="2.0666667" x="0" y="0" sx="-0.066667" sy="-0.066667" r="0" a="1.000000"/>
+		<Keyframe t="2.1333334" x="0" y="0" sx="-0.133333" sy="-0.133333" r="0" a="1.000000"/>
+		<Keyframe t="2.2000000" x="0" y="0" sx="-0.200000" sy="-0.200000" r="0" a="1.000000"/>
+		<Keyframe t="2.2666667" x="0" y="0" sx="-0.266667" sy="-0.266667" r="0" a="1.000000"/>
+		<Keyframe t="2.3333334" x="0" y="0" sx="-0.333333" sy="-0.333333" r="0" a="1.000000"/>
+		<Keyframe t="2.4000000" x="0" y="0" sx="-0.400000" sy="-0.400000" r="0" a="1.000000"/>
+		<Keyframe t="2.4666667" x="0" y="0" sx="-0.466666" sy="-0.466667" r="0" a="1.000000"/>
+		<Keyframe t="2.5333334" x="0" y="0" sx="-0.533333" sy="-0.533333" r="0" a="1.000000"/>
+		<Keyframe t="2.6000000" x="0" y="0" sx="-0.600000" sy="-0.600000" r="0" a="1.000000"/>
+		<Keyframe t="2.6666667" x="0" y="0" sx="-0.666667" sy="-0.666667" r="0" a="1.000000"/>
+		<Keyframe t="2.7333334" x="0" y="0" sx="-0.733333" sy="-0.733333" r="0" a="1.000000"/>
+		<Keyframe t="2.8000000" x="0" y="0" sx="-0.800000" sy="-0.800000" r="0" a="1.000000"/>
+		<Keyframe t="2.8666667" x="0" y="0" sx="-0.866667" sy="-0.866667" r="0" a="1.000000"/>
+		<Keyframe t="2.9333334" x="0" y="0" sx="-0.933333" sy="-0.933333" r="0" a="1.000000"/>
+		<Keyframe t="3.0000000" x="0" y="0" sx="-1.000000" sy="-1.000000" r="0" a="1.000000"/>
+	</Animation>
+	<Animation name="Root.Animations.LargeWinCloudBurstAnimOpen">
+		<Keyframe t="0.0000000" x="0" y="0" sx="-1.000000" sy="-1.000000" r="0" a="0.000000"/>
+		<Keyframe t="0.0666667" x="0" y="0" sx="-0.994164" sy="-0.978691" r="0" a="0.042969"/>
+		<Keyframe t="0.1333334" x="0" y="0" sx="-0.973820" sy="-0.920525" r="0" a="0.156250"/>
+		<Keyframe t="0.2000000" x="0" y="0" sx="-0.934716" sy="-0.834141" r="0" a="0.316406"/>
+		<Keyframe t="0.2666667" x="0" y="0" sx="-0.872598" sy="-0.728180" r="0" a="0.500000"/>
+		<Keyframe t="0.3333334" x="0" y="0" sx="-0.783214" sy="-0.611283" r="0" a="0.683594"/>
+		<Keyframe t="0.4000000" x="0" y="0" sx="-0.662309" sy="-0.492089" r="0" a="0.843750"/>
+		<Keyframe t="0.4666667" x="0" y="0" sx="-0.505632" sy="-0.379240" r="0" a="0.957031"/>
+		<Keyframe t="0.5333334" x="0" y="0" sx="-0.308928" sy="-0.281375" r="0" a="1.000000"/>
+		<Keyframe t="0.6000000" x="0" y="0" sx="0.0454733" sy="-0.189044" r="0" a="1.000000"/>
+		<Keyframe t="0.6666667" x="0" y="0" sx="0.1932160" sy="-0.107557" r="0" a="1.000000"/>
+		<Keyframe t="0.7333334" x="0" y="0" sx="0.0323400" sy="-0.051538" r="0" a="1.000000"/>
+		<Keyframe t="0.8000000" x="0" y="0" sx="-0.145470" sy="0.0103774" r="0" a="1.000000"/>
+		<Keyframe t="0.8666667" x="0" y="0" sx="-0.289412" sy="0.0604995" r="0" a="1.000000"/>
+		<Keyframe t="0.9333334" x="0" y="0" sx="-0.348682" sy="0.0811381" r="0" a="1.000000"/>
+		<Keyframe t="1.0000000" x="0" y="0" sx="-0.333677" sy="0.0787784" r="0" a="1.000000"/>
+		<Keyframe t="1.0666667" x="0" y="0" sx="-0.294119" sy="0.0724243" r="0" a="1.000000"/>
+		<Keyframe t="1.1333334" x="0" y="0" sx="-0.238191" sy="0.0631639" r="0" a="1.000000"/>
+		<Keyframe t="1.2000000" x="0" y="0" sx="-0.174080" sy="0.0520853" r="0" a="1.000000"/>
+		<Keyframe t="1.2666667" x="0" y="0" sx="-0.109968" sy="0.0402764" r="0" a="1.000000"/>
+		<Keyframe t="1.3333334" x="0" y="0" sx="-0.054041" sy="0.0288252" r="0" a="1.000000"/>
+		<Keyframe t="1.4000000" x="0" y="0" sx="-0.014483" sy="0.0188197" r="0" a="1.000000"/>
+		<Keyframe t="1.4666667" x="0" y="0" sx="-0.145470" sy="0.0103774" r="0" a="1.000000"/>
+		<Keyframe t="1.5333334" x="0" y="0" sx="-0.289412" sy="0.0604995" r="0" a="1.000000"/>
+		<Keyframe t="1.6000000" x="0" y="0" sx="-0.348682" sy="0.0811381" r="0" a="1.000000"/>
+		<Keyframe t="1.6666667" x="0" y="0" sx="-0.333677" sy="0.0787784" r="0" a="1.000000"/>
+		<Keyframe t="1.7333334" x="0" y="0" sx="-0.294119" sy="0.0724243" r="0" a="1.000000"/>
+		<Keyframe t="1.8000000" x="0" y="0" sx="-0.238191" sy="0.0631639" r="0" a="1.000000"/>
+		<Keyframe t="1.8666667" x="0" y="0" sx="-0.174080" sy="0.0520853" r="0" a="1.000000"/>
+		<Keyframe t="1.9333334" x="0" y="0" sx="-0.109968" sy="0.0402764" r="0" a="1.000000"/>
+		<Keyframe t="2.0000000" x="0" y="0" sx="-0.054041" sy="0.0288252" r="0" a="1.000000"/>
+		<Keyframe t="2.0666667" x="0" y="0" sx="-0.014483" sy="0.0188197" r="0" a="1.000000"/>
+		<Keyframe t="2.1333334" x="0" y="0" sx="0.0005224" sy="0.0113480" r="0" a="1.000000"/>
+		<Keyframe t="2.2000000" x="0" y="0" sx="0.0003914" sy="0.0055914" r="0" a="1.000000"/>
+		<Keyframe t="2.2666667" x="0" y="0" sx="0.0000000" sy="0.0000000" r="0" a="1.000000"/>
+	</Animation>
+	<Animation name="Root.Animations.LargeWinCloudBurstAnimClose">
+		<Keyframe t="0.0000000" x="0" y="0" sx="0.0000000" sy="0.0000000" r="0" a="1.000000"/>
+		<Keyframe t="3.0000000" x="0" y="0" sx="0.0000000" sy="0.0000000" r="0" a="1.000000"/>
+		<Keyframe t="3.0666667" x="0" y="0" sx="-0.000649" sy="-0.005435" r="0" a="1.000000"/>
+		<Keyframe t="3.1333333" x="0" y="0" sx="-0.001552" sy="-0.010722" r="0" a="1.000000"/>
+		<Keyframe t="3.2000000" x="0" y="0" sx="-0.002707" sy="-0.015871" r="0" a="1.000000"/>
+		<Keyframe t="3.2666667" x="0" y="0" sx="-0.004111" sy="-0.020889" r="0" a="1.000000"/>
+		<Keyframe t="3.3333333" x="0" y="0" sx="-0.005761" sy="-0.025786" r="0" a="1.000000"/>
+		<Keyframe t="3.4000000" x="0" y="0" sx="-0.007654" sy="-0.030570" r="0" a="1.000000"/>
+		<Keyframe t="3.4666667" x="0" y="0" sx="-0.066667" sy="-0.066667" r="0" a="1.000000"/>
+		<Keyframe t="3.5333333" x="0" y="0" sx="-0.133333" sy="-0.133333" r="0" a="1.000000"/>
+		<Keyframe t="3.6000000" x="0" y="0" sx="-0.200000" sy="-0.200000" r="0" a="1.000000"/>
+		<Keyframe t="3.6666667" x="0" y="0" sx="-0.266667" sy="-0.266667" r="0" a="1.000000"/>
+		<Keyframe t="3.7333333" x="0" y="0" sx="-0.333333" sy="-0.333333" r="0" a="1.000000"/>
+		<Keyframe t="3.8000000" x="0" y="0" sx="-0.400000" sy="-0.400000" r="0" a="1.000000"/>
+		<Keyframe t="3.8666667" x="0" y="0" sx="-0.466667" sy="-0.466667" r="0" a="1.000000"/>
+		<Keyframe t="3.9333333" x="0" y="0" sx="-0.533333" sy="-0.533333" r="0" a="1.000000"/>
+		<Keyframe t="4.0000000" x="0" y="0" sx="-0.600000" sy="-0.600000" r="0" a="1.000000"/>
+		<Keyframe t="4.0666667" x="0" y="0" sx="-0.666667" sy="-0.666667" r="0" a="1.000000"/>
+		<Keyframe t="4.1333333" x="0" y="0" sx="-0.733333" sy="-0.733333" r="0" a="1.000000"/>
+		<Keyframe t="4.2000000" x="0" y="0" sx="-0.800000" sy="-0.800000" r="0" a="1.000000"/>
+		<Keyframe t="4.2666667" x="0" y="0" sx="-0.866667" sy="-0.866667" r="0" a="1.000000"/>
+		<Keyframe t="4.3333333" x="0" y="0" sx="-0.933333" sy="-0.933333" r="0" a="1.000000"/>
+		<Keyframe t="4.4000000" x="0" y="0" sx="-1.000000" sy="-1.000000" r="0" a="1.000000"/>
+	</Animation>
+	<Animation name="Root.Animations.CardFade">
+		<Keyframe t="0.0" x="0" y="0" sx="-0.00765431" sy="-0.0305699" r="0" a="1"/>
+		<Keyframe t="1.0" x="0" y="0" sx="-1.00000000" sy="-1.0000000" r="0" a="0"/>
+	</Animation>
+	<Animation name="Root.Animations.QuickFadeOut">
+		<Keyframe t="0.0" x="0" y="0" sx="0" sy="0" r="0" a="1"/>
+		<Keyframe t="0.2" x="0" y="0" sx="0" sy="0" r="0" a="0"/>
+	</Animation>
+	<Animation name="Root.Animations.QuickFadeIn">
+		<Keyframe t="0.0" x="0" y="0" sx="0" sy="0" r="0" a="0"/>
+		<Keyframe t="0.2" x="0" y="0" sx="0" sy="0" r="0" a="1"/>
+	</Animation>
+	<Animation name="Root.Animations.FadeOut">
+		<Keyframe t="0.0" x="0" y="0" sx="0" sy="0" r="0" a="1"/>
+		<Keyframe t="1.0" x="0" y="0" sx="0" sy="0" r="0" a="0"/>
+	</Animation>
+	<Animation name="Root.Animations.FadeIn">
+		<Keyframe t="0.0" x="0" y="0" sx="0" sy="0" r="0" a="0"/>
+		<Keyframe t="1.0" x="0" y="0" sx="0" sy="0" r="0" a="1"/>
+	</Animation>
+	<Animation name="Root.Animations.GoldWheelSpin">
+		<Keyframe t="00.00" x="0" y="0" sx="0" sy="0" r="000" a="1"/>
+		<Keyframe t="01.00" x="0" y="0" sx="0" sy="0" r="000" a="1"/>
+		<Keyframe t="02.00" x="0" y="0" sx="0" sy="0" r="-35" a="1"/>
+		<Keyframe t="02.25" x="0" y="0" sx="0" sy="0" r="-60" a="1"/>
+		<Keyframe t="02.75" x="0" y="0" sx="0" sy="0" r="-90" a="1"/>
+		<Keyframe t="03.35" x="0" y="0" sx="0" sy="0" r="-90" a="1"/>
+		<Keyframe t="03.70" x="0" y="0" sx="0" sy="0" r="-60" a="1"/>
+		<Keyframe t="04.00" x="0" y="0" sx="0" sy="0" r="000" a="1"/>
+		<Keyframe t="04.25" x="0" y="0" sx="0" sy="0" r="090" a="1"/>
+		<Keyframe t="04.50" x="0" y="0" sx="0" sy="0" r="180" a="1"/>
+		<Keyframe t="04.75" x="0" y="0" sx="0" sy="0" r="270" a="1"/>
+		<Keyframe t="05.00" x="0" y="0" sx="0" sy="0" r="360" a="1"/>
+		<Keyframe t="05.25" x="0" y="0" sx="0" sy="0" r="090" a="1"/>
+		<Keyframe t="05.50" x="0" y="0" sx="0" sy="0" r="180" a="1"/>
+		<Keyframe t="05.75" x="0" y="0" sx="0" sy="0" r="270" a="1"/>
+		<Keyframe t="06.00" x="0" y="0" sx="0" sy="0" r="360" a="1"/>
+		<Keyframe t="06.25" x="0" y="0" sx="0" sy="0" r="090" a="1"/>
+		<Keyframe t="06.50" x="0" y="0" sx="0" sy="0" r="180" a="1"/>
+		<Keyframe t="06.75" x="0" y="0" sx="0" sy="0" r="270" a="1"/>
+		<Keyframe t="07.00" x="0" y="0" sx="0" sy="0" r="360" a="1"/>
+		<Keyframe t="07.25" x="0" y="0" sx="0" sy="0" r="090" a="1"/>
+		<Keyframe t="07.50" x="0" y="0" sx="0" sy="0" r="180" a="1"/>
+		<Keyframe t="07.75" x="0" y="0" sx="0" sy="0" r="270" a="1"/>
+		<Keyframe t="08.00" x="0" y="0" sx="0" sy="0" r="360" a="1"/>
+		<Keyframe t="08.25" x="0" y="0" sx="0" sy="0" r="085" a="1"/>
+		<Keyframe t="08.50" x="0" y="0" sx="0" sy="0" r="165" a="1"/>
+		<Keyframe t="08.75" x="0" y="0" sx="0" sy="0" r="240" a="1"/>
+		<Keyframe t="09.00" x="0" y="0" sx="0" sy="0" r="310" a="1"/>
+		<Keyframe t="09.25" x="0" y="0" sx="0" sy="0" r="015" a="1"/>
+		<Keyframe t="09.50" x="0" y="0" sx="0" sy="0" r="075" a="1"/>
+		<Keyframe t="09.75" x="0" y="0" sx="0" sy="0" r="130" a="1"/>
+		<Keyframe t="10.00" x="0" y="0" sx="0" sy="0" r="180" a="1"/>
+		<Keyframe t="10.25" x="0" y="0" sx="0" sy="0" r="225" a="1"/>
+		<Keyframe t="10.50" x="0" y="0" sx="0" sy="0" r="265" a="1"/>
+		<Keyframe t="10.75" x="0" y="0" sx="0" sy="0" r="300" a="1"/>
+		<Keyframe t="11.00" x="0" y="0" sx="0" sy="0" r="330" a="1"/>
+		<Keyframe t="11.25" x="0" y="0" sx="0" sy="0" r="355" a="1"/>
+		<Keyframe t="11.50" x="0" y="0" sx="0" sy="0" r="015" a="1"/>
+		<Keyframe t="11.75" x="0" y="0" sx="0" sy="0" r="030" a="1"/>
+		<Keyframe t="12.00" x="0" y="0" sx="0" sy="0" r="040" a="1"/>
+		<Keyframe t="12.25" x="0" y="0" sx="0" sy="0" r="045" a="1"/>
+		<Keyframe t="12.50" x="0" y="0" sx="0" sy="0" r="050" a="1"/>
+		<Keyframe t="12.75" x="0" y="0" sx="0" sy="0" r="045" a="1"/>
+	</Animation>
+	<Animation name="Root.Animations.GoldWheelFlapper">
+		<Keyframe t="00.00" x="0" y="0" sx="0" sy="0" r="000" a="1"/>
+		<Keyframe t="01.00" x="0" y="0" sx="0" sy="0" r="000" a="1"/>
+		<Keyframe t="01.20" x="0" y="0" sx="0" sy="0" r="060" a="1"/>
+		<Keyframe t="01.40" x="0" y="0" sx="0" sy="0" r="000" a="1"/>
+		<Keyframe t="01.55" x="0" y="0" sx="0" sy="0" r="000" a="1"/>
+		<Keyframe t="01.75" x="0" y="0" sx="0" sy="0" r="060" a="1"/>
+		<Keyframe t="01.85" x="0" y="0" sx="0" sy="0" r="000" a="1"/>
+		<Keyframe t="02.00" x="0" y="0" sx="0" sy="0" r="000" a="1"/>
+		<Keyframe t="02.20" x="0" y="0" sx="0" sy="0" r="060" a="1"/>
+		<Keyframe t="02.35" x="0" y="0" sx="0" sy="0" r="000" a="1"/>
+		<Keyframe t="02.45" x="0" y="0" sx="0" sy="0" r="000" a="1"/>
+		<Keyframe t="02.65" x="0" y="0" sx="0" sy="0" r="060" a="1"/>
+		<Keyframe t="02.75" x="0" y="0" sx="0" sy="0" r="000" a="1"/>
+		<Keyframe t="03.40" x="0" y="0" sx="0" sy="0" r="000" a="1"/>
+		<Keyframe t="03.50" x="0" y="0" sx="0" sy="0" r="-60" a="1"/>
+		<Keyframe t="03.60" x="0" y="0" sx="0" sy="0" r="000" a="1"/>
+		<Keyframe t="03.70" x="0" y="0" sx="0" sy="0" r="000" a="1"/>
+		<Keyframe t="03.75" x="0" y="0" sx="0" sy="0" r="-60" a="1"/>
+		<Keyframe t="03.80" x="0" y="0" sx="0" sy="0" r="000" a="1"/>
+		<Keyframe t="03.90" x="0" y="0" sx="0" sy="0" r="000" a="1"/>
+		<Keyframe t="03.95" x="0" y="0" sx="0" sy="0" r="-60" a="1"/>
+		<Keyframe t="04.00" x="0" y="0" sx="0" sy="0" r="000" a="1"/>
+		<Keyframe t="04.10" x="0" y="0" sx="0" sy="0" r="000" a="1"/>
+		<Keyframe t="04.15" x="0" y="0" sx="0" sy="0" r="-60" a="1"/>
+		<Keyframe t="04.20" x="0" y="0" sx="0" sy="0" r="000" a="1"/>
+		<Keyframe t="04.30" x="0" y="0" sx="0" sy="0" r="000" a="1"/>
+		<Keyframe t="04.35" x="0" y="0" sx="0" sy="0" r="-60" a="1"/>
+		<Keyframe t="04.40" x="0" y="0" sx="0" sy="0" r="000" a="1"/>
+		<Keyframe t="04.50" x="0" y="0" sx="0" sy="0" r="000" a="1"/>
+		<Keyframe t="04.55" x="0" y="0" sx="0" sy="0" r="-60" a="1"/>
+		<Keyframe t="04.60" x="0" y="0" sx="0" sy="0" r="000" a="1"/>
+		<Keyframe t="04.70" x="0" y="0" sx="0" sy="0" r="000" a="1"/>
+		<Keyframe t="04.75" x="0" y="0" sx="0" sy="0" r="-60" a="1"/>
+		<Keyframe t="04.80" x="0" y="0" sx="0" sy="0" r="000" a="1"/>
+		<Keyframe t="04.90" x="0" y="0" sx="0" sy="0" r="000" a="1"/>
+		<Keyframe t="04.95" x="0" y="0" sx="0" sy="0" r="-60" a="1"/>
+		<Keyframe t="05.00" x="0" y="0" sx="0" sy="0" r="000" a="1"/>
+		<Keyframe t="04.90" x="0" y="0" sx="0" sy="0" r="000" a="1"/>
+		<Keyframe t="04.95" x="0" y="0" sx="0" sy="0" r="-60" a="1"/>
+		<Keyframe t="05.00" x="0" y="0" sx="0" sy="0" r="000" a="1"/>
+		<Keyframe t="05.10" x="0" y="0" sx="0" sy="0" r="000" a="1"/>
+		<Keyframe t="05.15" x="0" y="0" sx="0" sy="0" r="-60" a="1"/>
+		<Keyframe t="05.20" x="0" y="0" sx="0" sy="0" r="000" a="1"/>
+		<Keyframe t="05.30" x="0" y="0" sx="0" sy="0" r="000" a="1"/>
+		<Keyframe t="05.35" x="0" y="0" sx="0" sy="0" r="-60" a="1"/>
+		<Keyframe t="05.40" x="0" y="0" sx="0" sy="0" r="000" a="1"/>
+		<Keyframe t="05.50" x="0" y="0" sx="0" sy="0" r="000" a="1"/>
+		<Keyframe t="05.55" x="0" y="0" sx="0" sy="0" r="-60" a="1"/>
+		<Keyframe t="05.60" x="0" y="0" sx="0" sy="0" r="000" a="1"/>
+		<Keyframe t="05.70" x="0" y="0" sx="0" sy="0" r="000" a="1"/>
+		<Keyframe t="05.75" x="0" y="0" sx="0" sy="0" r="-60" a="1"/>
+		<Keyframe t="05.80" x="0" y="0" sx="0" sy="0" r="000" a="1"/>
+		<Keyframe t="05.90" x="0" y="0" sx="0" sy="0" r="000" a="1"/>
+		<Keyframe t="05.95" x="0" y="0" sx="0" sy="0" r="-60" a="1"/>
+		<Keyframe t="06.00" x="0" y="0" sx="0" sy="0" r="000" a="1"/>
+		<Keyframe t="06.10" x="0" y="0" sx="0" sy="0" r="000" a="1"/>
+		<Keyframe t="06.15" x="0" y="0" sx="0" sy="0" r="-60" a="1"/>
+		<Keyframe t="06.20" x="0" y="0" sx="0" sy="0" r="000" a="1"/>
+		<Keyframe t="06.30" x="0" y="0" sx="0" sy="0" r="000" a="1"/>
+		<Keyframe t="06.35" x="0" y="0" sx="0" sy="0" r="-60" a="1"/>
+		<Keyframe t="06.40" x="0" y="0" sx="0" sy="0" r="000" a="1"/>
+		<Keyframe t="06.50" x="0" y="0" sx="0" sy="0" r="000" a="1"/>
+		<Keyframe t="06.55" x="0" y="0" sx="0" sy="0" r="-60" a="1"/>
+		<Keyframe t="06.60" x="0" y="0" sx="0" sy="0" r="000" a="1"/>
+		<Keyframe t="06.70" x="0" y="0" sx="0" sy="0" r="000" a="1"/>
+		<Keyframe t="06.75" x="0" y="0" sx="0" sy="0" r="-60" a="1"/>
+		<Keyframe t="06.80" x="0" y="0" sx="0" sy="0" r="000" a="1"/>
+		<Keyframe t="06.90" x="0" y="0" sx="0" sy="0" r="000" a="1"/>
+		<Keyframe t="06.95" x="0" y="0" sx="0" sy="0" r="-60" a="1"/>
+		<Keyframe t="07.00" x="0" y="0" sx="0" sy="0" r="000" a="1"/>
+		<Keyframe t="07.10" x="0" y="0" sx="0" sy="0" r="000" a="1"/>
+		<Keyframe t="07.15" x="0" y="0" sx="0" sy="0" r="-60" a="1"/>
+		<Keyframe t="07.20" x="0" y="0" sx="0" sy="0" r="000" a="1"/>
+		<Keyframe t="07.30" x="0" y="0" sx="0" sy="0" r="000" a="1"/>
+		<Keyframe t="07.35" x="0" y="0" sx="0" sy="0" r="-60" a="1"/>
+		<Keyframe t="07.40" x="0" y="0" sx="0" sy="0" r="000" a="1"/>
+		<Keyframe t="07.50" x="0" y="0" sx="0" sy="0" r="000" a="1"/>
+		<Keyframe t="07.55" x="0" y="0" sx="0" sy="0" r="-60" a="1"/>
+		<Keyframe t="07.60" x="0" y="0" sx="0" sy="0" r="000" a="1"/>
+		<Keyframe t="07.70" x="0" y="0" sx="0" sy="0" r="000" a="1"/>
+		<Keyframe t="07.75" x="0" y="0" sx="0" sy="0" r="-60" a="1"/>
+		<Keyframe t="07.80" x="0" y="0" sx="0" sy="0" r="000" a="1"/>
+		<Keyframe t="07.90" x="0" y="0" sx="0" sy="0" r="000" a="1"/>
+		<Keyframe t="07.95" x="0" y="0" sx="0" sy="0" r="-60" a="1"/>
+		<Keyframe t="08.00" x="0" y="0" sx="0" sy="0" r="000" a="1"/>
+		<Keyframe t="08.10" x="0" y="0" sx="0" sy="0" r="000" a="1"/>
+		<Keyframe t="08.15" x="0" y="0" sx="0" sy="0" r="-60" a="1"/>
+		<Keyframe t="08.20" x="0" y="0" sx="0" sy="0" r="000" a="1"/>
+		<Keyframe t="08.30" x="0" y="0" sx="0" sy="0" r="000" a="1"/>
+		<Keyframe t="08.35" x="0" y="0" sx="0" sy="0" r="-60" a="1"/>
+		<Keyframe t="08.40" x="0" y="0" sx="0" sy="0" r="000" a="1"/>
+		<Keyframe t="08.50" x="0" y="0" sx="0" sy="0" r="000" a="1"/>
+		<Keyframe t="08.55" x="0" y="0" sx="0" sy="0" r="-60" a="1"/>
+		<Keyframe t="08.60" x="0" y="0" sx="0" sy="0" r="000" a="1"/>
+		<Keyframe t="08.70" x="0" y="0" sx="0" sy="0" r="000" a="1"/>
+		<Keyframe t="08.75" x="0" y="0" sx="0" sy="0" r="-60" a="1"/>
+		<Keyframe t="08.80" x="0" y="0" sx="0" sy="0" r="000" a="1"/>
+		<Keyframe t="08.90" x="0" y="0" sx="0" sy="0" r="000" a="1"/>
+		<Keyframe t="08.95" x="0" y="0" sx="0" sy="0" r="-60" a="1"/>
+		<Keyframe t="09.00" x="0" y="0" sx="0" sy="0" r="000" a="1"/>
+		<Keyframe t="09.10" x="0" y="0" sx="0" sy="0" r="000" a="1"/>
+		<Keyframe t="09.15" x="0" y="0" sx="0" sy="0" r="-60" a="1"/>
+		<Keyframe t="09.20" x="0" y="0" sx="0" sy="0" r="000" a="1"/>
+		<Keyframe t="09.30" x="0" y="0" sx="0" sy="0" r="000" a="1"/>
+		<Keyframe t="09.35" x="0" y="0" sx="0" sy="0" r="-60" a="1"/>
+		<Keyframe t="09.40" x="0" y="0" sx="0" sy="0" r="000" a="1"/>
+		<Keyframe t="09.50" x="0" y="0" sx="0" sy="0" r="000" a="1"/>
+		<Keyframe t="09.55" x="0" y="0" sx="0" sy="0" r="-60" a="1"/>
+		<Keyframe t="09.60" x="0" y="0" sx="0" sy="0" r="000" a="1"/>
+		<Keyframe t="09.70" x="0" y="0" sx="0" sy="0" r="000" a="1"/>
+		<Keyframe t="09.75" x="0" y="0" sx="0" sy="0" r="-60" a="1"/>
+		<Keyframe t="09.80" x="0" y="0" sx="0" sy="0" r="000" a="1"/>
+		<Keyframe t="09.90" x="0" y="0" sx="0" sy="0" r="000" a="1"/>
+		<Keyframe t="09.95" x="0" y="0" sx="0" sy="0" r="-60" a="1"/>
+		<Keyframe t="10.00" x="0" y="0" sx="0" sy="0" r="000" a="1"/>
+		<Keyframe t="10.10" x="0" y="0" sx="0" sy="0" r="000" a="1"/>
+		<Keyframe t="10.15" x="0" y="0" sx="0" sy="0" r="-60" a="1"/>
+		<Keyframe t="10.20" x="0" y="0" sx="0" sy="0" r="000" a="1"/>
+		<Keyframe t="10.30" x="0" y="0" sx="0" sy="0" r="000" a="1"/>
+		<Keyframe t="10.35" x="0" y="0" sx="0" sy="0" r="-60" a="1"/>
+		<Keyframe t="10.40" x="0" y="0" sx="0" sy="0" r="000" a="1"/>
+		<Keyframe t="10.50" x="0" y="0" sx="0" sy="0" r="000" a="1"/>
+		<Keyframe t="10.55" x="0" y="0" sx="0" sy="0" r="-60" a="1"/>
+		<Keyframe t="10.60" x="0" y="0" sx="0" sy="0" r="000" a="1"/>
+		<Keyframe t="10.70" x="0" y="0" sx="0" sy="0" r="000" a="1"/>
+		<Keyframe t="10.75" x="0" y="0" sx="0" sy="0" r="-60" a="1"/>
+		<Keyframe t="10.80" x="0" y="0" sx="0" sy="0" r="000" a="1"/>
+		<Keyframe t="10.90" x="0" y="0" sx="0" sy="0" r="000" a="1"/>
+		<Keyframe t="10.95" x="0" y="0" sx="0" sy="0" r="-60" a="1"/>
+		<Keyframe t="11.00" x="0" y="0" sx="0" sy="0" r="000" a="1"/>
+		<Keyframe t="11.10" x="0" y="0" sx="0" sy="0" r="000" a="1"/>
+		<Keyframe t="11.15" x="0" y="0" sx="0" sy="0" r="-60" a="1"/>
+		<Keyframe t="11.20" x="0" y="0" sx="0" sy="0" r="000" a="1"/>
+		<Keyframe t="11.30" x="0" y="0" sx="0" sy="0" r="000" a="1"/>
+		<Keyframe t="11.35" x="0" y="0" sx="0" sy="0" r="-60" a="1"/>
+		<Keyframe t="11.40" x="0" y="0" sx="0" sy="0" r="000" a="1"/>
+		<Keyframe t="11.50" x="0" y="0" sx="0" sy="0" r="000" a="1"/>
+		<Keyframe t="11.55" x="0" y="0" sx="0" sy="0" r="-60" a="1"/>
+		<Keyframe t="11.60" x="0" y="0" sx="0" sy="0" r="000" a="1"/>
+		<Keyframe t="11.70" x="0" y="0" sx="0" sy="0" r="000" a="1"/>
+		<Keyframe t="11.75" x="0" y="0" sx="0" sy="0" r="-60" a="1"/>
+		<Keyframe t="11.80" x="0" y="0" sx="0" sy="0" r="000" a="1"/>
+		<Keyframe t="11.90" x="0" y="0" sx="0" sy="0" r="000" a="1"/>
+		<Keyframe t="11.95" x="0" y="0" sx="0" sy="0" r="-60" a="1"/>
+		<Keyframe t="12.00" x="0" y="0" sx="0" sy="0" r="000" a="1"/>
+		<Keyframe t="12.10" x="0" y="0" sx="0" sy="0" r="000" a="1"/>
+		<Keyframe t="12.15" x="0" y="0" sx="0" sy="0" r="-60" a="1"/>
+		<Keyframe t="12.20" x="0" y="0" sx="0" sy="0" r="000" a="1"/>
+	</Animation>
+</AnimationList>

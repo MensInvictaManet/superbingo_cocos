@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Paytable seed="863787639">
+  <CardType name="ThreeXThree">
+    <PatternType volatility="0">
+      <PatternData>
+        <PatternWin type="0"  bet="1" maxCalls="12" prob="0.13635358" pay="2"   />
+        <PatternWin type="1"  bet="2" maxCalls="11" prob="0.13635358" pay="7"   />
+        <PatternWin type="6"  bet="3" maxCalls="10" prob="0.13635358" pay="13" 	/>
+        <PatternWin type="7"  bet="4" maxCalls="14" prob="0.13635358" pay="20"  />
+        <PatternWin type="4"  bet="5" maxCalls="15" prob="0.13635358" pay="27"  />
+        <PatternWin type="5"  bet="6" maxCalls="13" prob="0.13635358" pay="38"  />
+        <PatternWin type="11" bet="7" maxCalls="13" prob="0.13635358" pay="58"  />
+        <PatternWin type="3"  bet="8" maxCalls="16" prob="0.13635358" pay="176" />
+        <PatternWin type="10" bet="9" maxCalls="17" prob="0.13635358" pay="450" />
+      </PatternData>
+    </PatternType>
+    <PatternType volatility="1">
+      <PatternData>
+        <PatternWin type="0"  bet="1" maxCalls="9"  prob="0.27032962" pay="3"    />
+        <PatternWin type="1"  bet="2" maxCalls="10" prob="0.09400684" pay="12"   />
+        <PatternWin type="6"  bet="3" maxCalls="8"  prob="0.05352179" pay="19"   />
+        <PatternWin type="7"  bet="4" maxCalls="14" prob="0.03297304" pay="30"   />
+        <PatternWin type="4"  bet="5" maxCalls="13" prob="0.02609013" pay="38"   />
+        <PatternWin type="5"  bet="6" maxCalls="12" prob="0.01806240" pay="55"   />
+        <PatternWin type="11" bet="7" maxCalls="11" prob="0.00632184" pay="157"  />
+        <PatternWin type="3"  bet="8" maxCalls="16" prob="0.00316092" pay="315"  />
+        <PatternWin type="10" bet="9" maxCalls="14" prob="0.00051308" pay="1930" />
+      </PatternData>
+    </PatternType>
+    <PatternType volatility="2">
+      <PatternData>
+        <PatternWin type="0"  bet="1" maxCalls="8"  prob="0.20591217" pay="4"    />
+        <PatternWin type="1"  bet="2" maxCalls="9"  prob="0.06081728" pay="18"   />
+        <PatternWin type="6"  bet="3" maxCalls="7"  prob="0.03387170" pay="30"   />
+        <PatternWin type="7"  bet="4" maxCalls="12" prob="0.02075907" pay="48"   />
+        <PatternWin type="4"  bet="5" maxCalls="12" prob="0.01204160" pay="82"   />
+        <PatternWin type="5"  bet="6" maxCalls="10" prob="0.00766284" pay="130"  />
+        <PatternWin type="11" bet="7" maxCalls="10" prob="0.00347775" pay="290"  />
+        <PatternWin type="3"  bet="8" maxCalls="14" prob="0.00168582" pay="590"  />
+        <PatternWin type="10" bet="9" maxCalls="14" prob="0.00021989" pay="4500" />
+      </PatternData>
+    </PatternType>
+  </CardType>
+  <CardType name="FourXFour">
+    <PatternType volatility="0">
+      <PatternData>
+        <PatternWin type="0"  bet="1" maxCalls="22" prob="0.21532077" pay="4"    />
+        <PatternWin type="1"  bet="2" maxCalls="27" prob="0.18268401" pay="5"    />
+        <PatternWin type="7"  bet="3" maxCalls="21" prob="0.04229495" pay="25"   />
+        <PatternWin type="2"  bet="4" maxCalls="24" prob="0.02368357" pay="45"   />
+        <PatternWin type="12" bet="5" maxCalls="21" prob="0.01195957" pay="85"   />
+        <PatternWin type="8"  bet="6" maxCalls="26" prob="0.00688361" pay="145"  />
+        <PatternWin type="3"  bet="7" maxCalls="31" prob="0.00459354" pay="215"  />
+        <PatternWin type="9"  bet="8" maxCalls="30" prob="0.00124150" pay="800"  />
+        <PatternWin type="10" bet="9" maxCalls="33" prob="0.00051746" pay="2000" />
+      </PatternData>
+    </PatternType>
+    <PatternType volatility="1">
+      <PatternData>
+        <PatternWin type="0"  bet="1" maxCalls="20" prob="0.17702384" pay="5"    />
+        <PatternWin type="1"  bet="2" maxCalls="23" prob="0.08222409" pay="13"   />
+        <PatternWin type="7"  bet="3" maxCalls="21" prob="0.03116607" pay="32"   />
+        <PatternWin type="2"  bet="4" maxCalls="23" prob="0.01542216" pay="64"   />
+        <PatternWin type="12" bet="5" maxCalls="20" prob="0.00844051" pay="117"  />
+        <PatternWin type="8"  bet="6" maxCalls="24" prob="0.00295954" pay="334"  />
+        <PatternWin type="3"  bet="7" maxCalls="29" prob="0.00200637" pay="500"  />
+        <PatternWin type="9"  bet="8" maxCalls="29" prob="0.00074490" pay="1333" />
+        <PatternWin type="10" bet="9" maxCalls="32" prob="0.00026657" pay="3750" />
+      </PatternData>
+    </PatternType>
+    <PatternType volatility="2">
+      <PatternData>
+        <PatternWin type="0"  bet="1" maxCalls="19" prob="0.14311041" pay="6"    />
+        <PatternWin type="1"  bet="2" maxCalls="21" prob="0.04295659" pay="24"   />
+        <PatternWin type="7"  bet="3" maxCalls="20" prob="0.02244959" pay="45"   />
+        <PatternWin type="2"  bet="4" maxCalls="22" prob="0.00971179" pay="100"  />
+        <PatternWin type="12" bet="5" maxCalls="19" prob="0.00581812" pay="175"  />
+        <PatternWin type="8"  bet="6" maxCalls="23" prob="0.00186971" pay="525"  />
+        <PatternWin type="3"  bet="7" maxCalls="27" prob="0.00081210" pay="1250" />
+        <PatternWin type="9"  bet="8" maxCalls="28" prob="0.00043666" pay="2350" />
+        <PatternWin type="10" bet="9" maxCalls="31" prob="0.00013329" pay="7500" />
+      </PatternData>
+    </PatternType>
+  </CardType>
+  <CardType name="FiveXFive">
+    <PatternType volatility="0">
+      <PatternData>
+        <PatternWin type="0"  bet="1" maxCalls="43" prob="0.44563111" pay="2"    />
+        <PatternWin type="7"  bet="2" maxCalls="42" prob="0.30572145" pay="3"    />
+        <PatternWin type="1"  bet="3" maxCalls="41" prob="0.15127232" pay="7"    />
+        <PatternWin type="8"  bet="4" maxCalls="40" prob="0.03513804" pay="35"   />
+        <PatternWin type="2"  bet="5" maxCalls="37" prob="0.01109989" pay="90"   />
+        <PatternWin type="4"  bet="6" maxCalls="44" prob="0.00699602" pay="142"  />
+        <PatternWin type="5"  bet="7" maxCalls="40" prob="0.00364670" pay="272"  />
+        <PatternWin type="9"  bet="8" maxCalls="52" prob="0.00121206" pay="818"  />
+        <PatternWin type="10" bet="9" maxCalls="57" prob="0.00029180" pay="3400" />
+      </PatternData>
+    </PatternType>
+    <PatternType volatility="1">
+      <PatternData>
+        <PatternWin type="0"  bet="1" maxCalls="35" prob="0.21451154" pay="4"    />
+        <PatternWin type="7"  bet="2" maxCalls="35" prob="0.14827931" pay="6"    />
+        <PatternWin type="1"  bet="3" maxCalls="37" prob="0.06967158" pay="18"   />
+        <PatternWin type="8"  bet="4" maxCalls="39" prob="0.02302319" pay="42"   />
+        <PatternWin type="2"  bet="5" maxCalls="37" prob="0.01109989" pay="90"   />
+        <PatternWin type="4"  bet="6" maxCalls="40" prob="0.00364670" pay="275"  />
+        <PatternWin type="5"  bet="7" maxCalls="36" prob="0.00139504" pay="750"  />
+        <PatternWin type="9"  bet="8" maxCalls="50" prob="0.00057587" pay="1750" />
+        <PatternWin type="10" bet="9" maxCalls="57" prob="0.00029180" pay="3450" />
+      </PatternData>
+    </PatternType>
+    <PatternType volatility="2">
+      <PatternData>
+        <PatternWin type="0"  bet="1" maxCalls="32" prob="0.14353947" pay="6"     />
+        <PatternWin type="7"  bet="2" maxCalls="31" prob="0.09458204" pay="11"    />
+        <PatternWin type="1"  bet="3" maxCalls="34" prob="0.03500303" pay="29"    />
+        <PatternWin type="8"  bet="4" maxCalls="38" prob="0.01841901" pay="55"    />
+        <PatternWin type="2"  bet="5" maxCalls="35" prob="0.00564011" pay="175"   />
+        <PatternWin type="4"  bet="6" maxCalls="39" prob="0.00289866" pay="350"   />
+        <PatternWin type="5"  bet="7" maxCalls="35" prob="0.00107617" pay="925"   />
+        <PatternWin type="9"  bet="8" maxCalls="49" prob="0.00026372" pay="3750"  />
+        <PatternWin type="10" bet="9" maxCalls="54" prob="0.00005441" pay="18500" />
+      </PatternData>
+    </PatternType>
+  </CardType>
+</Paytable>

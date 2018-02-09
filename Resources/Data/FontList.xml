@@ -1,0 +1,33 @@
+<FontList>
+	<Font file="fonts/ArialNarrow.fnt" name="ArialNarrow"/>
+	<Font file="fonts/ArialNarrow12.fnt" name="ArialNarrow12"/>
+	<Font file="fonts/ArialNarrow16.fnt" name="ArialNarrow16"/>
+	<Font file="fonts/ArialNarrowBold12.fnt" name="ArialNarrowBold12"/>
+	<Font file="fonts/ArialNarrowBold15.fnt" name="ArialNarrowBold15"/>
+	<Font file="fonts/ArialNarrowBold16.fnt" name="ArialNarrowBold16"/>
+	<Font file="fonts/ArialNarrowBold18.fnt" name="ArialNarrowBold18"/>
+	<Font file="fonts/ArialNarrowBlue.fnt" name="ArialNarrowBlue"/>
+	<Font file="fonts/ArialBold19.fnt" name="ArialBold19"/>
+	<Font file="fonts/ArialBold29.fnt" name="ArialBold29"/>
+	<Font file="fonts/ArialBold_24.fnt" name="ArialBold_24"/>
+	<Font file="fonts/ArialBold_36.fnt" name="ArialBold_36"/>
+	<Font file="fonts/ArialBold_36_BrownFREE_36.fnt" name="ArialBold_36_BrownFREE_36"/>
+	<Font file="fonts/ArialBold_42.fnt" name="ArialBold_42"/>
+	<Font file="fonts/ArialBold_65.fnt" name="ArialBold_65"/>
+	<Font file="fonts/ArialBold_Progressive_53.fnt" name="ArialBold_Progressive" gameflag="9"/>
+	<Font file="fonts/ArialBold_YellowHelpMenu_36.fnt" name="ArialBold_Yellow"/>
+	<Font file="fonts/ArialBoldBingoLetter_15.fnt" name="ArialBoldBingoLetter"/>
+	<Font file="fonts/ArialBoldNumber_65.fnt" name="ArialBoldNumbers_65"/>
+	<Font file="fonts/ArialBoldNumberBrown_75.fnt" name="ArialBoldNumberBrown_75"/>
+	<Font file="fonts/ArialBoldNumberGold_75.fnt" name="ArialBoldNumberGold_75"/>
+	<Font file="fonts/ArialBoldNumberPlusBlue_75.fnt" name="ArialBoldNumberPlusBlue_75"/>
+	<Font file="fonts/ArialBoldNumberPlusGold_75.fnt" name="ArialBoldNumberPlusGold_75"/>
+	<Font file="fonts/BebasNeue_24.fnt" name="BebasNeue_24"/>
+	<Font file="fonts/BebasNeue_25.fnt" name="BebasNeue_25"/>
+	<Font file="fonts/BebasNeue_48.fnt" name="BebasNeue_48"/>
+	<Font file="fonts/ChickenSalad_107.fnt" name="ChickenSalad"/>
+	<Font file="fonts/ChickenSalad_Grad_107.fnt" name="ChickenSaladGrad"/>
+	<Font file="fonts/ChickenSalad24.fnt" name="ChickenSalad24"/>
+	<Font file="fonts/ChickenSalad60.fnt" name="ChickenSalad60"/>
+	<Font file="fonts/PlacardMTCondensed-24.fnt" name="PlacardMTCondensed-24"/>
+</FontList>
