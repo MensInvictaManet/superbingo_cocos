@@ -1,0 +1,6 @@
+ReleaseIntermediate.win32
+Release.win32
+DebugIntermediate.win32
+Debug.win32
+*.opendb
+*.sdf
